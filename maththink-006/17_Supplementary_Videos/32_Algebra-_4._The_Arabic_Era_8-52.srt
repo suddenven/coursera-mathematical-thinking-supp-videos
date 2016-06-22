@@ -1,0 +1,586 @@
+1
+00:00:00,8 --> 00:00:07,335
+Okay[COUGH]. 
+Here's a very famous, a historically 
+
+2
+00:00:07,335 --> 00:00:10,420
+famous problem, from al-Khwarizmi's 
+Algebra. 
+
+3
+00:00:10,420 --> 00:00:14,302
+This is how it was written. 
+Doesn't look like algebra today but it's 
+
+4
+00:00:14,302 --> 00:00:16,933
+all language, all words. 
+Let me give you, well actually, let me 
+
+5
+00:00:16,933 --> 00:00:19,116
+read it out. 
+Because this was a, a, a modern 
+
+6
+00:00:19,116 --> 00:00:23,330
+translation, a fairly literal 
+translation, from al-Khwarizmi's book. 
+
+7
+00:00:23,330 --> 00:00:24,930
+If some one say, you divide 10 into two 
+parts, multiply the 1 by itself; it will 
+
+8
+00:00:24,930 --> 00:00:32,811
+be equal to the other taken 81 times. 
+Computation; You say, 10 less thing 
+
+9
+00:00:32,811 --> 00:00:41,570
+that's going to be a 10 but it is less 
+something. 
+
+10
+00:00:41,570 --> 00:00:47,690
+It's a diminish 10, multiplied by itself 
+is a 100 plus a square less 20 things. 
+
+11
+00:00:47,690 --> 00:00:51,778
+So the less doesn't mean you're 
+subtracting, it means it's reduced 
+
+12
+00:00:51,778 --> 00:00:56,712
+somehow and this is equal to 81 things. 
+Separate the 20 things from a hundred and 
+
+13
+00:00:56,712 --> 00:01:01,688
+square and a square and add them to 81. 
+It will then be a 100 plus a square, 
+
+14
+00:01:01,688 --> 00:01:06,524
+which is equal to a 101 roots. 
+Halve the roots; the moiety and we'll 
+
+15
+00:01:06,524 --> 00:01:09,590
+come back to that in a minute, is 50 and 
+a half. 
+
+16
+00:01:09,590 --> 00:01:13,960
+Multiply this by itself, it is 2550 and a 
+quarter. 
+
+17
+00:01:13,960 --> 00:01:18,10
+Subtract from this 100 the remainder is 
+2450 and a quarter. 
+
+18
+00:01:18,10 --> 00:01:20,600
+Extract the root from this, it is 49 and 
+a half. 
+
+19
+00:01:20,600 --> 00:01:24,430
+Subtract this from the moiety of the 
+roots, which is 50 and a half. 
+
+20
+00:01:24,430 --> 00:01:26,974
+There remains 1, and this is one of the 
+two parts. 
+
+21
+00:01:26,974 --> 00:01:33,322
+most of us would find that quite 
+challenging to to understand let me take 
+
+22
+00:01:33,322 --> 00:01:37,500
+you out of your misery[LAUGH] they were 
+solving this. 
+
+23
+00:01:37,500 --> 00:01:42,770
+You've got a 10 slimmed down by an amount 
+x, you're squaring it and you get 81. 
+
+24
+00:01:42,770 --> 00:01:45,532
+That's the solution to that. 
+And actually if you follow that through 
+
+25
+00:01:45,532 --> 00:01:48,680
+that's just the, the sort of like the way 
+we might solve the equation. 
+
+26
+00:01:48,680 --> 00:01:52,523
+I'm not going to go through the details, 
+but it's sort of like the way you, you 
+
+27
+00:01:52,523 --> 00:01:56,550
+sort of follow that through and 
+understand that what you would do. 
+
+28
+00:01:56,550 --> 00:02:00,180
+bearing in mind that they didn't have 
+negatives, but they could move things 
+
+29
+00:02:00,180 --> 00:02:03,868
+from one side to the other. 
+I'm going to move on,[LAUGH] I, you, it 
+
+30
+00:02:03,868 --> 00:02:08,952
+was really just, the, the, I, I didn't 
+want you to spend a lot of time, just to 
+
+31
+00:02:08,952 --> 00:02:14,610
+show you that the way it was laid out 
+much simpler, we would think, to just 
+
+32
+00:02:14,610 --> 00:02:19,694
+solve that equation because we reduced 
+algebra to very much just symbolic 
+
+33
+00:02:19,694 --> 00:02:22,296
+manipulation. 
+Well the point about solving that 
+
+34
+00:02:22,296 --> 00:02:24,920
+quadratic is you can do it without 
+switching your brain on. 
+
+35
+00:02:24,920 --> 00:02:26,946
+Once you know the method, you can just 
+grind the handle. 
+
+36
+00:02:26,946 --> 00:02:31,300
+It's very much algorithmic. 
+Okay so that was al-Khwarizmi. 
+
+37
+00:02:31,300 --> 00:02:36,556
+I will mention that al-Khwarizmi, because 
+he was describing procedures for doing 
+
+38
+00:02:36,556 --> 00:02:41,22
+arithmetic, especially in his first book. 
+Well actually both books. 
+
+39
+00:02:41,22 --> 00:02:46,551
+Gave birth to the modern word algorithm. 
+So the word algorithm for computation 
+
+40
+00:02:46,551 --> 00:02:52,250
+procedure is derived from al-Khwarizmi' . 
+So he, he left the word with 2 words 
+
+41
+00:02:52,250 --> 00:02:56,512
+algorithm and algebra. 
+Pretty, pretty significant. 
+
+42
+00:02:56,512 --> 00:03:02,492
+Okay, so that how al-Khwarizmi, and 
+there's another nice picture for one of 
+
+43
+00:03:02,492 --> 00:03:06,715
+the books. 
+Then the next major figure almost 
+
+44
+00:03:06,715 --> 00:03:13,563
+immediately afterwards was Abu Kamil a 
+guy who wrote a, many books at least 10 
+
+45
+00:03:13,563 --> 00:03:18,578
+of which we know. 
+did a whole bunch of things really 
+
+46
+00:03:18,578 --> 00:03:21,940
+dramatic individual, remarkable 
+individual. 
+
+47
+00:03:21,940 --> 00:03:26,425
+he actually used that equation to solve, 
+to calculate the side of a regular 
+
+48
+00:03:26,425 --> 00:03:30,46
+pentagon. 
+some very remarkable piece of work.um, 
+
+49
+00:03:30,46 --> 00:03:34,834
+and the guy was so sort of amazing and 
+obsessive one might say that in one case 
+
+50
+00:03:34,834 --> 00:03:39,622
+he looked at many, what is known as 
+indeterminate problems, problems where 
+
+51
+00:03:39,622 --> 00:03:44,486
+there's not a unique solution but there 
+are many solutions, and in one case he 
+
+52
+00:03:44,486 --> 00:03:48,240
+actually went through and found 2,005, 7, 
+676 solutions. 
+
+53
+00:03:48,240 --> 00:03:50,444
+Hand calculation of all those many 
+solutions. 
+
+54
+00:03:50,444 --> 00:03:53,586
+well you think, there were fewer 
+distractions then, right? 
+
+55
+00:03:53,586 --> 00:03:53,925
+ >> Yes. 
+
+56
+00:03:53,925 --> 00:03:56,187
+ >> So, it was even so that's, that's pretty 
+
+57
+00:03:56,187 --> 00:04:00,250
+remarkable. 
+the next major figure, and there were, 
+
+58
+00:04:00,250 --> 00:04:06,31
+there were a lot of people involved. 
+This was a huge en, en, enterprise going 
+
+59
+00:04:06,31 --> 00:04:10,354
+on, I'm just mentioning some of the more 
+famous people. 
+
+60
+00:04:10,354 --> 00:04:15,467
+And then we've got al-Karaji recognized 
+that the sequence. 
+
+61
+00:04:15,467 --> 00:04:21,430
+Well that first remark is really a modern 
+interpretation of what he did. 
+
+62
+00:04:21,430 --> 00:04:26,614
+You have to sort of read it with modern 
+eyes, but essentially he realized that 
+
+63
+00:04:26,614 --> 00:04:30,225
+you can keep running up the exponents 
+indefinitely. 
+
+64
+00:04:30,225 --> 00:04:36,680
+likewise from a modern perspective, he 
+discovered proof by induction. 
+
+65
+00:04:36,680 --> 00:04:40,125
+The method of proof by induction where 
+you prove the first case and then you're 
+
+66
+00:04:40,125 --> 00:04:43,252
+sure that if it's true for n it's true 
+for n plus 1, for those of you who've 
+
+67
+00:04:43,252 --> 00:04:47,250
+been through that kind of an education. 
+it's not explicit in his work but it's 
+
+68
+00:04:47,250 --> 00:04:51,282
+certainly implicit and some of the 
+historians I talked to said that yeah 
+
+69
+00:04:51,282 --> 00:04:54,82
+it's a little bit of a stretch to call it 
+induction. 
+
+70
+00:04:54,82 --> 00:04:59,230
+but from my perspective as a 
+mathematician it was induction. 
+
+71
+00:04:59,230 --> 00:05:02,369
+it depends how you define it. 
+I could certainly look at it and see 
+
+72
+00:05:02,369 --> 00:05:07,0
+induction. 
+and he verified this which is typically 
+
+73
+00:05:07,0 --> 00:05:13,178
+done today by induction, that the sum of 
+the first n cubed is that formula. 
+
+74
+00:05:13,178 --> 00:05:19,298
+I think I should add some, I think that 
+problem is on the test, the problem sheet 
+
+75
+00:05:19,298 --> 00:05:24,80
+that I'm handing out to my student in my 
+online class today. 
+
+76
+00:05:24,80 --> 00:05:27,750
+If it's not today, it's on Wednesday, so, 
+don't tell them. 
+
+77
+00:05:27,750 --> 00:05:30,990
+[LAUGH] Right? 
+I think, I think I'm asking them to prove 
+
+78
+00:05:30,990 --> 00:05:33,280
+this one as an example of induction 
+proofs. 
+
+79
+00:05:33,280 --> 00:05:39,642
+he wrote at least three books. 
+then there's the famous Omar Khayyam no 
+
+80
+00:05:39,642 --> 00:05:44,478
+more in the west as a poet I never 
+thought his poetry was that good but his 
+
+81
+00:05:44,478 --> 00:05:49,704
+mathematics was brilliant and I think the 
+fact he's known as a poet reflects more 
+
+82
+00:05:49,704 --> 00:05:54,140
+on our values in society where we value 
+poetry over mathematics. 
+
+83
+00:05:54,140 --> 00:05:56,702
+I, I wouldn't change the balance the 
+other way I'd say. 
+
+84
+00:05:56,702 --> 00:06:01,476
+I wouldn't want to put them on a battle, 
+because they're both important things. 
+
+85
+00:06:01,476 --> 00:06:08,652
+okay yeah but he certainly did some 
+spectacular mathematics, worked on 
+
+86
+00:06:08,652 --> 00:06:15,620
+astronomy, calendar reform, a very 
+significant figure very, very detailed 
+
+87
+00:06:15,620 --> 00:06:19,671
+cataloguing of things. 
+All the possible kinds of equations, 
+
+88
+00:06:19,671 --> 00:06:24,820
+relating them to geometric constructions. 
+His, his book is, is easily available in 
+
+89
+00:06:24,820 --> 00:06:29,687
+at least three translations, including 
+one as recent as last year. 
+
+90
+00:06:29,687 --> 00:06:34,967
+so if cubic's using very intricate 
+instructions involving conic sections 
+
+91
+00:06:34,967 --> 00:06:40,167
+methods that are sometimes taught today 
+in, in, in classes of fork or some kind 
+
+92
+00:06:40,167 --> 00:06:44,71
+of thing. 
+and actually looked at the issue of 
+
+93
+00:06:44,71 --> 00:06:49,850
+things that could, could, couldn't be 
+solved by ruler and compass methods. 
+
+94
+00:06:49,850 --> 00:06:53,695
+So was very much into the kind of things 
+that are still. 
+
+95
+00:06:53,695 --> 00:06:59,561
+At least in high school geometry courses, 
+still very much a focus. 
+
+96
+00:06:59,561 --> 00:07:06,359
+I know, a rather nice picture from this 
+manuscript of the cubic equation in this 
+
+97
+00:07:06,359 --> 00:07:13,424
+section of conic section. 
+Okay, and then this amazing person, did a 
+
+98
+00:07:13,424 --> 00:07:19,30
+whole bunch of things. 
+certainly a child prodigy, he wrote over 
+
+99
+00:07:19,30 --> 00:07:24,584
+80 books and articles got involved in all 
+sorts of other enterprises. 
+
+100
+00:07:24,584 --> 00:07:29,552
+al-Samaw'al. 
+And this is really a sort of a quotation 
+
+101
+00:07:29,552 --> 00:07:36,280
+from, I mean, this is a quotation from 
+one of his writings. 
+
+102
+00:07:36,280 --> 00:07:40,992
+He said that algebra involves quote, 
+"Operating on unknowns using all the 
+
+103
+00:07:40,992 --> 00:07:46,160
+arithmetical tools, in the same way as 
+the arithmetician operates on the known." 
+
+104
+00:07:46,160 --> 00:07:50,470
+That nails that distinction between 
+algebra and, and arithmetic. 
+
+105
+00:07:50,470 --> 00:07:54,66
+You're using arithmetical tools but, 
+you're doing it a different level of 
+
+106
+00:07:54,66 --> 00:07:57,438
+abstraction. 
+You're doing it on the unknowns, which 
+
+107
+00:07:57,438 --> 00:08:00,520
+means you're sort of doing logical 
+reasoning with them. 
+
+108
+00:08:00,520 --> 00:08:05,395
+You're doing qualitative reasoning in an 
+arithmetic framework as opposed to 
+
+109
+00:08:05,395 --> 00:08:10,960
+calculating with the numbers. 
+And he, among the things he did was true 
+
+110
+00:08:10,960 --> 00:08:14,580
+of this result for the sums of the 
+squared. 
+
+111
+00:08:14,580 --> 00:08:17,500
+Again, that's expressing it in modern 
+notation. 
+
+112
+00:08:17,500 --> 00:08:21,595
+So absent and notation you've got an 
+awful lot of modern algebra been on this 
+
+113
+00:08:21,595 --> 00:08:25,491
+period. 
+but the story then picks up by Leonardo 
+
+114
+00:08:25,491 --> 00:08:32,184
+and then if we're satisfied with Leonardo 
+we can pick up essentially the same story 
+
+115
+00:08:32,184 --> 00:08:38,780
+in terms of spreading the word with Steve 
+Jobs, so that was a quick tour through 
+
+116
+00:08:38,780 --> 00:08:44,384
+algebra, the history of algebra up to, 
+essentially to modern times. 
+
+117
+00:08:44,384 --> 00:08:46,386
+ >> [MUSIC] 
+
+118
+00:08:46,386 --> 00:08:51,833
+Stanford University. 
+

@@ -1,0 +1,548 @@
+1
+00:00:12,910 --> 00:00:20,740
+Okay so there's a moderately reasonable 
+attempt at, at the full name. 
+
+2
+00:00:20,740 --> 00:00:27,860
+So this around 800 current era. 
+And he wrote one book in about 1825, On 
+
+3
+00:00:27,860 --> 00:00:34,546
+The Calculation with Hindu Numerals. 
+That was a book on arithmetic using Hindu 
+
+4
+00:00:34,546 --> 00:00:37,813
+numerals . 
+And then a few years later, he wrote this 
+
+5
+00:00:37,813 --> 00:00:41,931
+book and in the title of that book, 
+you'll see that phrase al-jabr, and 
+
+6
+00:00:41,931 --> 00:00:46,475
+that's where we get the word algebra 
+from, because this was the world's first 
+
+7
+00:00:46,475 --> 00:00:50,258
+recognizable algebra book, and that was 
+the focus of the book. 
+
+8
+00:00:50,258 --> 00:00:57,43
+And that phrase in there, at the end of 
+it, really means restoration and 
+
+9
+00:00:57,43 --> 00:01:00,365
+confrontation. 
+Those terms that we saw a moment ago in 
+
+10
+00:01:00,365 --> 00:01:04,82
+connection with Diophantus. 
+The way of solving an equation move 
+
+11
+00:01:04,82 --> 00:01:07,598
+things from one side to the other and 
+remove equal terms from both sides. 
+
+12
+00:01:07,598 --> 00:01:13,394
+if you want to translate the whole thing 
+and again I've got this translation from 
+
+13
+00:01:13,394 --> 00:01:16,390
+one of the leading scholars of the 
+period. 
+
+14
+00:01:16,390 --> 00:01:22,567
+The Abridged Book on Calculation by 
+Restoration and Confrontation would be a 
+
+15
+00:01:22,567 --> 00:01:27,412
+modern scholarly translation. 
+it's usually however, known among 
+
+16
+00:01:27,412 --> 00:01:32,352
+scholars as just the abridged book on 
+algebra, because nowadays we would just 
+
+17
+00:01:32,352 --> 00:01:37,292
+refer to restoration and confrontation as 
+just as the key methods for solving 
+
+18
+00:01:37,292 --> 00:01:42,753
+equations, so it's algebra. 
+And the question that people like me get 
+
+19
+00:01:42,753 --> 00:01:49,834
+asked when we teach students that are not 
+necessarily enamored buy mathematics, is 
+
+20
+00:01:49,834 --> 00:01:56,42
+not at Stanford, but I mean if you go 
+elsewhere, then they'll say, what's this 
+
+21
+00:01:56,42 --> 00:01:58,210
+useful for? 
+Is this really any use? 
+
+22
+00:01:58,210 --> 00:02:03,655
+Well, let's go back to the source. 
+al-Khwarizmi's book is essentially a 
+
+23
+00:02:03,655 --> 00:02:06,600
+modern algebra book. 
+You know, the lang, the language has 
+
+24
+00:02:06,600 --> 00:02:09,420
+changed and we've got better examples, 
+and these days we have full color 
+
+25
+00:02:09,420 --> 00:02:13,390
+illustrations and all that kind of thing. 
+But if you go back there you've really 
+
+26
+00:02:13,390 --> 00:02:15,946
+got the beginnings of the modern algebra 
+book. 
+
+27
+00:02:15,946 --> 00:02:22,856
+and al-Khwarizmi answers the question. 
+Here's what he says, what is easiest and 
+
+28
+00:02:22,856 --> 00:02:26,898
+most useful in arthritic? 
+This is what the book is about, such as 
+
+29
+00:02:26,898 --> 00:02:30,738
+men constantly requiring cases of 
+inheritance, legacies, partition, 
+
+30
+00:02:30,738 --> 00:02:34,834
+lawsuits, and trade, and in all their 
+dealings with one another, or where the 
+
+31
+00:02:34,834 --> 00:02:38,994
+measuring of lands, the digging of 
+canals, geometric computations and other 
+
+32
+00:02:38,994 --> 00:02:41,580
+objects of various sorts and kinds of 
+concern . 
+
+33
+00:02:41,580 --> 00:02:45,60
+It doesn't get more fundamental than 
+that, this is basic commerce. 
+
+34
+00:02:45,60 --> 00:02:49,540
+This is how people trade and live and 
+enter legal dealings and deal with their 
+
+35
+00:02:49,540 --> 00:02:53,365
+finances. 
+So algebra was introduced for very very 
+
+36
+00:02:53,365 --> 00:02:56,660
+practical reasons. 
+One thing that is characteristic of 
+
+37
+00:02:56,660 --> 00:03:00,125
+almost all the writings of what's known 
+as Arabic mathematics, meaning the 
+
+38
+00:03:00,125 --> 00:03:02,643
+writings that were preserved in the 
+Arabic writing. 
+
+39
+00:03:02,643 --> 00:03:06,520
+and that, you know, all sorts of people 
+were involved. 
+
+40
+00:03:06,520 --> 00:03:11,265
+there were Persians, there were people 
+whose natural language was Arabic there 
+
+41
+00:03:11,265 --> 00:03:15,945
+were Jews, there were Christians floating 
+around, there were people floating around 
+
+42
+00:03:15,945 --> 00:03:19,405
+in the Middle East all over the place, 
+and in Spain, doing work. 
+
+43
+00:03:19,405 --> 00:03:23,563
+And But it was the, the language in which 
+just, just as we talk about Greek 
+
+44
+00:03:23,563 --> 00:03:27,853
+mathematics, much of which is done by 
+Egyptians, but it Greek was the language 
+
+45
+00:03:27,853 --> 00:03:32,77
+it was echoed in, it was this phrase 
+Arabic mathematics which really means it 
+
+46
+00:03:32,77 --> 00:03:34,872
+was recorded and stored in the Arabic 
+language. 
+
+47
+00:03:34,872 --> 00:03:40,950
+okay, but its, it gets extremely useful. 
+I'm very particular, certainly the 
+
+48
+00:03:40,950 --> 00:03:45,644
+interest, I love the Greek's interest. 
+Was very much one of a sort of leisurely 
+
+49
+00:03:45,644 --> 00:03:50,350
+pursuit, an intellectual pursuit. 
+The Greeks, as famously known, thought of 
+
+50
+00:03:50,350 --> 00:03:55,366
+mathematics, particularly geometry, as 
+an, as a, as a, as a pursuit of the mind, 
+
+51
+00:03:55,366 --> 00:04:00,230
+something for the leisured classes to do, 
+something to think about to, to, to 
+
+52
+00:04:00,230 --> 00:04:04,514
+improve your mind. 
+go to the Muslim world in the 8th or 9th 
+
+53
+00:04:04,514 --> 00:04:09,420
+century, it was driven primarily through 
+very practical reasons. 
+
+54
+00:04:09,420 --> 00:04:13,982
+They were engineers, they were traders. 
+And so [COUGH], this was designed to be 
+
+55
+00:04:13,982 --> 00:04:19,562
+an, to improve the way of doing business. 
+[COUGH] there's an image from a I, I 
+
+56
+00:04:19,562 --> 00:04:24,892
+forget the date on that one but it's an 
+image that managed to get all over the 
+
+57
+00:04:24,892 --> 00:04:30,58
+date from one version of that book but if 
+you look at the contents of the of the 
+
+58
+00:04:30,58 --> 00:04:34,978
+book and this is not meant to be a 
+translation from there this is just a 
+
+59
+00:04:34,978 --> 00:04:40,130
+summary from the contents of the book. 
+This is it, basically in that book he 
+
+60
+00:04:40,130 --> 00:04:46,138
+takes linear quadratic equations. 
+And actually at the end of last week we 
+
+61
+00:04:46,138 --> 00:04:50,225
+had, I had a discussion with a couple of 
+people as to why there was this huge 
+
+62
+00:04:50,225 --> 00:04:53,738
+focus on quadratics? 
+And you know, and the answer is if you're 
+
+63
+00:04:53,738 --> 00:04:58,140
+a practical person, you can do an awful 
+lot in the world with linear equations. 
+
+64
+00:04:58,140 --> 00:05:02,430
+Sometimes things change at different 
+rates and linear doesn't work. 
+
+65
+00:05:02,430 --> 00:05:06,265
+The next best thing is quadratic, and 
+within, within a certain range of 
+
+66
+00:05:06,265 --> 00:05:08,541
+tolerance, that's as far as you need to 
+go. 
+
+67
+00:05:08,541 --> 00:05:12,819
+You know, even an exponential curve looks 
+quadratic over a small interval, so it's 
+
+68
+00:05:12,819 --> 00:05:17,66
+just a reasonably good approximation. 
+Look through physics books [COUGH]. 
+
+69
+00:05:17,66 --> 00:05:21,96
+Physics books, classical physics books, 
+are full of linear and quadratic 
+
+70
+00:05:21,96 --> 00:05:24,706
+equations. 
+Well, it's just because that was already 
+
+71
+00:05:24,706 --> 00:05:28,26
+difficult enough and good enough for 
+doing an awful lot of things. 
+
+72
+00:05:28,26 --> 00:05:31,866
+You know, and as physics developed, 
+people would realize that there were o-, 
+
+73
+00:05:31,866 --> 00:05:35,586
+there were higher order terms that you 
+needed to take into account, but of a 
+
+74
+00:05:35,586 --> 00:05:38,190
+reasonable areas of, of, of accuracy that 
+will do. 
+
+75
+00:05:38,190 --> 00:05:41,460
+Same with computer graphics, right? 
+You, you can, you can draw almost with a 
+
+76
+00:05:41,460 --> 00:05:45,270
+computer graphics package that will draw 
+straight lines and quadratics. 
+
+77
+00:05:45,270 --> 00:05:47,540
+You just put them together in a suitable 
+way. 
+
+78
+00:05:47,540 --> 00:05:51,694
+So these, you can, you can do piece wise, 
+linear and piece wise quadratic curves, 
+
+79
+00:05:51,694 --> 00:05:56,992
+and get all kinds of nice shapes. 
+[COUGH] Okay so this was really 
+
+80
+00:05:56,992 --> 00:06:01,397
+developing machinery that was really 
+useful. 
+
+81
+00:06:01,397 --> 00:06:05,815
+you might ask yourself, why regard these 
+as different? 
+
+82
+00:06:05,815 --> 00:06:10,341
+Because we don't today, we just talk 
+about quadratics, which is ax squared 
+
+83
+00:06:10,341 --> 00:06:13,270
+plus bx plus c equals 0, and that's a 
+quadratic. 
+
+84
+00:06:13,270 --> 00:06:18,62
+Well, the reason was they didn't have 
+negative numbers in their calculations. 
+
+85
+00:06:18,62 --> 00:06:22,605
+So they had to take account of whether 
+the a's and the b's, these were all 
+
+86
+00:06:22,605 --> 00:06:27,149
+positive, so you had to put them on 
+different sides in the first place. 
+
+87
+00:06:29,730 --> 00:06:33,274
+In fact, their conception of negative 
+numbers was really unusual. 
+
+88
+00:06:33,274 --> 00:06:38,944
+the confronta-, those words restoration 
+and confrontation, confrontation is 
+
+89
+00:06:38,944 --> 00:06:42,76
+really sort of easy. 
+You've got equal things on both sides 
+
+90
+00:06:42,76 --> 00:06:45,986
+that confront each other. 
+Well, if they confront each other, you 
+
+91
+00:06:45,986 --> 00:06:50,33
+can remove them. 
+Restoration means, you restore the value, 
+
+92
+00:06:50,33 --> 00:06:55,247
+instead of dealing with a negative term, 
+so they, they wouldn't have something 
+
+93
+00:06:55,247 --> 00:06:58,990
+like 10 minus X. 
+What they would say is you've got a 10 
+
+94
+00:06:58,990 --> 00:07:03,783
+and it's, it loses weight. 
+It goes on a diet and it loses x pounds, 
+
+95
+00:07:03,783 --> 00:07:08,205
+xo you've got a slimmed down 10, but it's 
+still positive. 
+
+96
+00:07:08,205 --> 00:07:12,741
+You know, you gotta you take something 
+then you work with it you get a number, 
+
+97
+00:07:12,741 --> 00:07:16,100
+you do something and at the end you 
+restore it's value. 
+
+98
+00:07:16,100 --> 00:07:20,452
+Which we would say is adding expect able 
+size, but that's not how they thought 
+
+99
+00:07:20,452 --> 00:07:24,464
+about it they, they, they didn't have 
+subtraction and they didn't have 
+
+100
+00:07:24,464 --> 00:07:28,816
+negatives, so they just thought of 
+diminished quantities that were still 10 
+
+101
+00:07:28,816 --> 00:07:32,758
+minus x was still a 10. 
+It was a 10 that has lost weight, you're 
+
+102
+00:07:32,758 --> 00:07:35,740
+reason with that then you restore to the 
+end. 
+
+103
+00:07:35,740 --> 00:07:38,363
+It's hard to get into that mindset now 
+because we know there's other way of 
+
+104
+00:07:38,363 --> 00:07:40,955
+thinking about it. 
+But that was, that was how we, if you 
+
+105
+00:07:40,955 --> 00:07:45,115
+want to understand the writing, you have 
+to understand that they didn't have 
+
+106
+00:07:45,115 --> 00:07:47,623
+subtraction. 
+You couldn't subtract from both sides, 
+
+107
+00:07:47,623 --> 00:07:52,191
+you can diminish something. 
+And was where the word restoration came 
+
+108
+00:07:52,191 --> 00:07:55,244
+from, you restored the value of the 
+thing. 
+
+109
+00:07:55,244 --> 00:08:04,113
+[MUSIC] 
+
+110
+00:08:04,113 --> 00:08:05,387
+. 
+

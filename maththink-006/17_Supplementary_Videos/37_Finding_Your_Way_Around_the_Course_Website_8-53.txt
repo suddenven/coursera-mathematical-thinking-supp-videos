@@ -1,0 +1,234 @@
+Before you start the course proper,
+you should spend some time
+finding out where on the website.
+There's a lot of information there,
+but it does take some getting used to,
+particularly if this is your
+first course over Mooc.
+Let me start with the homepage,
+that's the page behind me.
+This is the one you saw when you first
+logged onto the actual course site.
+The homepage is where you should look
+first every time you logon to the site,
+because that's where I post reminders,
+updates and other important information.
+Now, let's look at the main navigation
+bar on the left hand side of the screen.
+As you'll see,
+it's divided into four sections.
+The first section has just two links, both
+to important course information pages.
+At the top, there's a link
+to the daily bulletin board.
+The main content of the site's homepage,
+you can see behind me.
+Below that is the cost time table.
+A PDF file, I recommend you print off and
+keep with you.
+It lists all the key deadlines,
+so you can plan ahead.
+If I have to change
+anything in the schedule,
+I'll post a bulletin board
+message on the site's homepage.
+By the way, don't try to print off
+PDF files from your web browser.
+Browsers don't always
+display PDF files well.
+In particular,
+they can miss mathematical symbols.
+Always download the file and
+print it off using Adobe Reader.
+Below those two links
+is the second section,
+which lists the parts of the website
+where you actually do things.
+Discussion forums, videos,
+problem sets,
+in lecture quiz duplicates, and
+finally the test flight process,
+which we can largely ignore for now.
+The video section is where,
+in addition to the videos themselves,
+you'll find links to the assignment
+sheets that accompany each lecture and
+to PDF versions of the problem sets.
+I'll say a little bit about what
+those terms, problem set and
+assignment mean in a minute.
+Below the course activities,
+is a section called Course Information.
+Before you start work on the course,
+you should look through the first
+four items in this section, as well as
+the last one on the grading policy.
+The first two describe the nature of
+the course and how it's structured.
+The first few times I gave this course,
+some students felt bewildered by
+the way the course progressed.
+Mostly, they ran into difficulties because
+they haven't paid attention to those two
+course information sections.
+Though I have since reworded them to
+try and make things a bit clearer.
+The course goals page is fairly long, but
+provides some fairly important
+background information about the course.
+In particular,
+it tells you what to expect and why.
+If you're taking the course for
+a certificate, you have two options,
+the basic course and the extended course.
+If you complete the basic course,
+which lasts eight weeks, you'll
+receive statement of accomplishment.
+If you continue for two further weeks and
+complete all parts of the test flight
+process, you'll receive a statement
+of accomplishment with distinction.
+You don't have to make
+an official selection.
+Simply decide at the end of eight
+weeks whether you want to stop and
+a collect statements of accomplishments or
+continue for
+the final two weeks to get
+a distinction certificates.
+Notice that the certificates
+are awarded for
+completion of the appropriate course,
+not the grade you get.
+You will receive your aggregate score,
+but it will be
+in the cover letter to your certificate,
+not on the certificate itself.
+This is because the points awarded have
+little significance outside the course.
+Their relevance is within the course.
+The course treats points like the points
+that are awarded in a video game.
+They have significance inside the game,
+but no value outside.
+You should use them as a guide
+to measure your progress.
+If you're new to the topics
+covered in this course,
+a grade of 35% on a problem
+set can be a good result.
+Just as happens in many video games,
+to get high scores, you have to
+keep coming back and trying again.
+A bit lower down the page, there's also
+section on the underlying cause pedagogy.
+Chances are, unless you've been
+a student at a good college or
+university, you may never have experienced
+a course with a structure as this one.
+You should definitely read
+this section carefully.
+Also, watch the 20 minute
+video linked to it.
+The pedagogy paragraph and that video
+explain why you don't see my tutorial
+explanations of assigned work until
+after you've attempted to complete it.
+The course isn't about whether you
+can solve the assigned problems.
+It's about attempting them.
+To put it bluntly, if you can do
+most of the assigned problems,
+you really don't need this course.
+The next section, course structure,
+describes how the course is
+constructed to embody those
+underlying pedagogic principles.
+Like the previous page, it's long and
+packed with valuable information.
+The one point I want to emphasize,
+is the statement that the assignments and
+problem sets are the heart of the course.
+It's when you're struggling with those
+problems that the actual learning will
+take place and you will struggle.
+Perhaps not in the first couple of weeks,
+but for sure, before the course is done.
+Though the lecture and tutorial videos are
+the visible part of a Mooc, in my course,
+their purpose is mostly to give you
+a bit of background information and
+provide examples of mathematical thinking.
+They're not instructional, and
+they won't show you how to do
+any of the assignment problems.
+Now it may not be what you're used to,
+but it is how mathematics
+is learned at university.
+It has to be done that way.
+Since the goal is to acquire
+the ability to solve a novel problem,
+it doesn't help you, for me to show
+you how to solve specific examples.
+The only way to acquire that ability,
+is to keep trying and
+failing, until you get it.
+That's why this course rewards time
+spent and effort, not performance.
+The only attempts you make that
+are graded at all are the problem sets,
+in both versions of the course.
+The problem sets consist of typical
+assignment problems, for which you
+enter an answer on the course website and
+receive a machine-assigned grade.
+The primary purpose of those grades is to
+give you some feedback on your progress.
+This is particularly helpful for
+students taking this course a second,
+or even a third time.
+The only other relevance
+of the machine grids,
+is to determine what constitute
+completion of the course.
+Check out the last page in the course
+information section, grading and
+statements of accomplishment, to see
+how the final grades are computed, and
+certificates awarded.
+I'll leave you to check out
+the remaining parts of the website,
+once the course is under way.
+For now, just concentrate on
+the pages I just discussed.
+Finally, if you want to know more
+about the design of this course and
+pedagogy behind it,
+check out my blog, mooctalk.org.
+I've been blogging about this course since
+I started work on the first version,
+back in spring 2012.
+On the course readings page,
+I provide links to some particular posts
+I think you definitely should read.
+I know from experience that many students
+need to know why things are set up
+a certain way.
+Many of those blog posts were written in
+response to student comments from previous
+sessions of this course.
+So chances are, by now,
+any question you have will already
+have been addressed on that blog.
+Okay.
+I suggest you now spend some time becoming
+very familiar with the site structure and
+the parts I've drawn your attention to.
+You can look into
+the evaluation rubric and
+check out test flight once
+the course is underway.
+They're not relevant in
+the first couple of weeks.
+And the ride is about to begin.
+

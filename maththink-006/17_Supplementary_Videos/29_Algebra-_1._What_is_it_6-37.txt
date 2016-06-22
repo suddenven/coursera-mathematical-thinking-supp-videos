@@ -1,0 +1,193 @@
+Welcome back, and there's two topics 
+tonight, the first is the one I began in 
+just sort of got into a little bit at the 
+beginning, at the end of last time. 
+And so, I'll pick up on that, actually 
+think about the birth of algebra. 
+Which is part of a general sort of 
+historical theme that's going to be 
+running through this. 
+But I'm also into sparsing it with sort 
+of more up to date things, and given the 
+events in the political arena, the second 
+half is going to be about how do we count 
+the votes in a general election. 
+Okay? 
+And the spoiler is you tell me who you 
+want to win and I can give you a fair way 
+to count the votes so that person will 
+win. 
+ >> [INAUDIBLE] [LAUGH] . 
+ >> Okay? 
+So, you know? 
+ >> [INAUDIBLE] 
+ >> It's, it's not who wins, well actually, 
+it could be who wins the debate that can 
+really get into the White House, but 
+really the game is won or lost when you 
+decide how you're going to count the 
+votes. 
+So that would be the second half. 
+Okay, I'll go a little bit, I'll go 
+fairly quickly for the first couple of 
+minutes, because we, we got into this 
+last time, and this is about the birth of 
+algebra. 
+And I pointed out that we need to be 
+careful what we mean by algebra. 
+In fact, even today, there were two 
+meanings. 
+There's what I'd called sophisticated, or 
+aritmatical thinking, or meta 
+arithmetical thinking, which is the, the 
+kind of, which is what most people think 
+of as algebra. 
+It's what's the basis of algebra in the 
+high school system. 
+And then there's what mathematicians call 
+algebra, sometimes known as higher 
+algebra. 
+[COUGH] Okay. 
+Well first of all, and, and the focus 
+mainly is going to be almost exclusively 
+is on the former, which is algebra as it 
+arose out of arithmetic as a, as a way of 
+improving arithmetic calculations. 
+So I'm not going to be touching on higher 
+algebra, [SOUND] which is what is done, 
+so if you say that, if you come, if you 
+go around the, if you go around the 
+Stanford campus, you're going to math 
+department, and you go into an office and 
+someone says this is professor X, and 
+professor X is an algebraist, this is not 
+what professor X does. 
+Professor X does something very 
+different. 
+Perhaps works on something like Fermat's 
+last theoroem. 
+Although that turned out not to be 
+algebraic in the end, but that's another 
+story. 
+Okay, certainly not algebra, because it 
+uses symbols. 
+In fact, algebra, for many years, was 
+written, in a non symbolic fashion. 
+It was always done symbolically. 
+by the way, I will mention that, if you 
+start going on the web, and you go to, 
+even to Wikipedia and you look for 
+accounts on algebra, there's a lot of 
+misinformation floating out there. 
+That's one of the, Wikipedia's actually 
+pretty good on a lot of mathematical 
+content, but the last time I looked, in 
+terms of the history of algebra, it was 
+really very weak. 
+Largely, because it was based on the few 
+textbooks that were available, that 
+people have access to, most of which are 
+actually quite old, and scholarship has, 
+has advanced quite a bit since then. 
+[COUGH] Okay, so this is one of those 
+instances where beware of what you find 
+on the web. 
+Okay, we certainly so, it, it's not 
+because it's symbolic that makes it 
+arguable, it's the kind of thinking 
+that's going on. 
+[COUGH] and in fact the symbolic part 
+although you can trace it back to these 
+fairly early origins it really wasn't 
+until, even later than the 13th century, 
+that that we get modern symbolic algebra. 
+In fact 16 centuries when you can first 
+really identify the work of Phan's Viete, 
+Viete you can really recognize symbolic 
+algebra in the modern sense. 
+Okay, so, the key distinction is it's a 
+logical thinking rather than numerical 
+quantity thinking. 
+it's not calculating with numbers, it's 
+reasoning logically about numbers. 
+so whereas arithmetic is definitely 
+quantitative, algebra is very much a 
+qualitative discipline. 
+But it's focused on numbers, this kind of 
+algebra is still focused on numbers. 
+And one of the ways to distinguish it is 
+where was in calculation, you have some 
+data, and you do things to that data to 
+get an answer. 
+You can't get it with the data, you add 
+numbers together, you multiply them, and 
+it's a forward looking thing where you're 
+combining things. 
+You're, you're literally not getting new 
+information, you're combining information 
+you've got. 
+In order to get a result that was already 
+implicit in that data. 
+one of the features of algebra, is it's a 
+little bit different. 
+You know that there's an answer out 
+there, you give it a name, and then you 
+sort of almost work backwards. 
+You reason what, would have to happen to 
+get to that thing. 
+So you reason, logically, in order to, to 
+determine that value. 
+now it doesn't matter whether you call 
+that unknown by a name, and in fact in 
+medieval mathematics, it was used by 
+terms that really meant the thing. 
+You do this to the thing, you do that to 
+the thing and then you find out that the 
+thing is this. 
+so there were various terms in Latin and 
+other languages which really translate as 
+the thing. 
+and it only became known as the x, 
+solving for x, was more like 16, 17th 
+century. 
+So it's not to do with the language. 
+And, you know, my knowledge with, with 
+music, music is transcends the musical 
+notation, and algebra transcends any 
+particular notation. 
+It's the way of thinking that that 
+distinguishes it. 
+[COUGH] So my, one of the things I 
+mentioned last time was that, taking a 
+formula and putting numbers in is 
+outright arithmetic but the deriving of 
+that formula in the first place usually 
+involves qualitative, what we might call 
+algebraic reasoning. 
+And the examples I gave, again, last time 
+very quickly was solving a quadratic by 
+guessing and calculation. 
+That just doing arithmetic, you make a 
+guess and then you do some calculation. 
+If you're systematic and you substitute 
+in a formula, that's also arithmetic. 
+But if you look at the the method whereby 
+the formula itself is obtained. 
+Or in the case of a particular example 
+like this, looking at the structure of it 
+and reasoning about it then that's 
+really, I mean there's a, there's a fuzzy 
+borderline, and some people might 
+disagree with [UNKNOWN] classifying this 
+as algebraic because it is a fuzzy 
+borderline. 
+But I would say when you start doing 
+this, you've really crossed over into 
+into algebraic thinking, lets say its 
+fuzzy and and you know different people 
+might want to put the borderline in a 
+different place. 
+So I would say that's, that's, that's 
+that's moved over and that's, that's, 
+that's really algebra. 
+

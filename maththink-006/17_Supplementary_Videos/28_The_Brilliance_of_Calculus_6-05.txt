@@ -1,0 +1,206 @@
+ >> Okay, yes. 
+ >> derivatives be a combination or use of 
+algorithms? 
+ >> You mean in, in the terms of calculus? 
+ >> [INAUDIBLE]. 
+ >> Oh, actually I, one of the things I, I 
+probably will do is do a half a session 
+on calculus. 
+Because calculus is the, is the modern 
+technology well, without calculus we 
+wouldn't have modern technology. 
+And calculus so I'm going to differ with 
+detailed answer so I will definitely now 
+next week, if I'm going to talk about 
+next week is calculus. 
+Because it needs, it needs more than a 
+quick answer but let me give you a quick 
+answer any way because I'm on a roll now. 
+Okay, 
+The brilliance of calculus and its 
+absolutely brilliant is, it takes 
+something and its, its almost the same 
+brilliance as algebra. 
+in that sort of take something that's 
+intrinsically difficult in that case, 
+tedious because you're doing the same 
+calculation many times and by[INAUDIBLE] 
+up the abstraction instead of having to 
+do the same calculation many times, you 
+have a general method, a formula that you 
+can just apply without thinking. 
+That's what calculus, calculus takes an 
+incredibly difficult problem involving 
+rates of continuous change which when you 
+analyze it involves talking about 
+infinitesimal increments, and things 
+changing of infinitesimal amounts of time 
+gets very deep both philosophically and 
+computationally in terms of[UNKNOWN] 
+conceptually Philosophically and 
+conceptually difficult because you're 
+dealing with these infinitely, 
+infinitesimally small things and so 
+forth. 
+Okay. 
+Very challenging, very, very difficult. 
+In the seventeenth century it was a major 
+headache for people to do it. 
+Archimedes had struggled with it 
+thousands of years earlier, got results 
+but it was very hard to understand 
+exactly what it meant, how to make sense 
+of it. 
+What calculus does is take something 
+extremely difficult, and turning it into 
+a mindless algorithm. 
+Calculus is just a set of syntactic 
+rules, that allow you to work out the 
+answers to things involving continuous 
+change. 
+It took it from one end of the spectrum 
+to the other. 
+Calculus starts with something that is 
+conceptually intellectual, unbelievably 
+challenging. 
+The infinite is something that the human 
+mind literally can't grasp, and yet it 
+rears its head as soon as you start 
+looking at infinitesimal changes in 
+continuity. 
+It takes that extremely deep stuff that 
+our minds can't fully wrap around, and 
+reduces it to a completely mindless set 
+of symbolic manipulation. 
+That is technology written large. 
+Take something complicated and would use 
+it to something just push buttons. 
+Calculus was one of the World's first 
+great conceptual technology. 
+Technology in a sense that it's a black 
+box, you plug something in and the answer 
+comes out. 
+Magic happens inside, Magic happens 
+inside Calculus. 
+I became a mathematician when I met 
+Calculus in my last year of high school. 
+I thought Calculus, I thought mathematics 
+was kinda[UNKNOWN], I was going to be a, 
+I was going to go to university 
+Physicist, I wanted to do Physics. 
+I went to high school when Sputnick went 
+up. 
+I mean I thought space exploration all 
+this stuff so, so I went to univ, I was 
+going to go to university to do physics. 
+Spent all my time doing physics, wasn't 
+particularly good at mathematics. 
+Well, that's not true. 
+I, I wasn't gifted at mathematics, but I 
+needed to do it for physics, so I put a 
+lot of effort into any mathematics, which 
+I viewed as a set of tools that would 
+help me in physics. 
+Then in after my first year of sixth form 
+when I'm sort of 17, getting into the 
+last year of high school. 
+We start doing calculus. 
+We started really doing calculus. 
+I mean just looking at what the 
+definition of the derivative and so 
+forth. 
+And I'm presented with this stuff that A, 
+is obviously very powerful. 
+It allows you to calculate you know, 
+where the moon's going to be 3 weeks from 
+now. 
+It allows you to calculate all these 
+other things. 
+It's going to, it allows you to calculate 
+what's going to happen to a spinning top 
+when it starts to slow down. 
+It allows you to calculate all of these 
+wonderful predictive things with 
+incredible accuracy, and yet I have no 
+idea how it worked. 
+And for me to have something that was 
+thrust upon me that was clearly powerful, 
+and worked, and in a sense was simple 
+because you know you look that, a couple 
+of pages of the textbooks that is how it 
+works. 
+Make no sense to me. 
+And I'm that kind of guy who wants to 
+lift the hood up and see what's going on 
+here. 
+so for me, what turned me into a 
+mathematician, was realizing that there 
+was something powerful that I didn't 
+understand. 
+And it took me many years to understand 
+it, and by the time I did, I was a 
+mathematician. 
+because once you've got it, it was funny, 
+because most of the other kids in the 
+class, and, and at the beginning, my 
+teacher, said look. 
+Here's the formula, if you differentiate 
+x to the n, you get nx to the n minus 1. 
+Just use the sucker, and get the problem 
+solved. 
+And I was that kid that kept saying, yeah 
+okay, but where did that formula come 
+from, why does that formula work? 
+And I was the only kid in the class, 
+including the teacher, actually, who 
+really worried about why that was the 
+case. 
+you know, that was clear, that was the 
+point where I became a mathemetician. 
+Because everybone else was content to 
+just use it and get the answer. 
+And for me, the fact that they could that 
+without understanding it, is what made it 
+interesting. 
+because I wanted to know what Newton was 
+thinking when he came up with that thing 
+or what[UNKNOWN] was thinking. 
+So I'll come back to that next week. 
+It's really good question and it's a big 
+answer and it's the that our modern, and 
+we're doing big themes. 
+We've already looked at numbers. 
+What's the biggest invention that 
+mathematicians have produced that changed 
+the world? 
+Hindu arabic numerals. 
+That's fundamental to modern life for 
+everybody. 
+So that was the biggest one I would say. 
+What's the next biggest one? 
+Probably algebra, which is more efficient 
+ways of dealing with numbers. 
+And the next one's going to be calculus 
+because that gives us, because the first 
+one gives us all our commerce in our 
+financial business, in our, you know, 
+quantative stuff, money, began with 
+money, as far as we know. 
+All of that comes on from the numbers, 
+and on the other side we've got calculus, 
+that gives us all our modern science and 
+technology. 
+So these are big, big themes. 
+okay. 
+That was slightly more than a little 
+digression, but I'll come back to 
+calculus next time. 
+Okay, shall we take a break now? 
+Let's take a break now and then we'll 
+come back, and we'll talk about how we 
+[INAUDIBLE] count the votes in an 
+election. 
+[MUSIC] 
+. 
+ >> Stanford University. 
+

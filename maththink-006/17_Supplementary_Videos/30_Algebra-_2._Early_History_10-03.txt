@@ -1,0 +1,282 @@
+And when we look back historically with 
+the benefit of hindsight, we can see 
+algebraic thinking going back a long way. 
+It certainly wasn't symbolic algebra in 
+the sense we have now, although let me 
+nuance that, 'cause I've already referred 
+to that implicitly. 
+There's two issues. 
+There's how did they record what they 
+were doing, how did they write down on 
+their tablets and whatever, their 
+parchment. 
+How did they write down algebra? 
+Or arithmetic, for that matter? 
+And then the other issue is, how did they 
+do it? 
+Well, they've always, it's always been 
+done symbolically. 
+It's hard to imagine how you can do it 
+without some kind of scratching of some 
+sort of abstract symbols. 
+But when they wrote it down for many 
+centuries it was written down in words. 
+And I, I eluded to that last week in 
+connection with, with the Leonardo 
+Fibonacci although maybe it was two weeks 
+ago. 
+The when before the printing press when 
+thins were written down they had to 
+written down in a manner that allowed 
+fairly reliable copying. 
+And the writers knew that the scribes 
+would be literary people that could 
+probably get the words right, but they 
+wouldn't necessarily understand the 
+symbols. 
+And you know, one matter, one symbol 
+that's written wrongly can turn a correct 
+result into an incorrect result, can turn 
+something sensible into gibberish. 
+So in order to be to give some guarantee 
+that results will be preserved when when 
+things are copied. 
+most things are written in words and but 
+the, but it was always done symbolically. 
+So and one of the things you find on, on 
+some websites is a distinction between 
+rhetorical algebra and symbolic algebra. 
+That's, that's, that's all missing the 
+point. 
+It wasn't that it was a different kind of 
+algebra, it was just the distinction 
+between how it was written and how it was 
+done. 
+[COUGH] . 
+so we got the evidence of the Babylonians 
+doing something that was essentially 
+algebra. 
+it was, it was very much calc in term of 
+geometric problems. 
+but some of these, in some way was very 
+practical. 
+Some of them were actually numerical 
+problems that were couched in algebra in 
+geometric terms. 
+And some just seemed to be recreational. 
+[COUGH] and even though they didn't have 
+notational devices for talking about 
+variables in general cases, they talked 
+in terms of specific numbers. 
+It was clear, just as we do with modern 
+recipes very often, you know, take two 
+cups of this and three cups of that. 
+And you just as-, assume you can double 
+or triple any of the units. 
+it was clear that they applied in 
+general. 
+But it was with hindsight, this was 
+algebraic thinking. 
+okay and indeed to the degree of having 
+an unknown, an unknown that you reason 
+about. 
+the unknown wasn't a li-, wasn't a 
+number, it was with geometrics or the 
+unknown was a line. 
+That's algebra. 
+We might want to call it geometric 
+algebra, just to clear about it but again 
+this is a modern term. 
+They were just doing their stuff. 
+they were just trying to solve problems 
+and then in some cases, just to have a 
+good time. 
+and as mentioned a moment ago. 
+Sometimes they would do this to solve 
+arithmetic problems. 
+That, that's a feature that we can see 
+later on in the work of Omar Khayyam and 
+so forth, that it was a geometric 
+approach to essentially numeric problems. 
+[COUGH] And here's one, I think I got as 
+far as this last time this problem which 
+I've translated from base-60 into modern 
+decimal notation. 
+And it's written in, in words. 
+I added the second, the area of my two 
+squares, and I put it in decimal 
+notation, and expressed the problem, and 
+then it gave a geometric solution of 
+procedure, an algorthm if you like, an 
+algorithm for solving it. 
+in modern terms I expressed the area of 
+my two squares x squared plus y squared, 
+and the area, I did them together, is, it 
+comes up, is 1525, and then another 
+condition gives me that equation. 
+So I got two equations, one quadratic, 
+one linear, and you have to solve them. 
+That's pretty sophisticated. 
+it's pretty sophisticated in symbols but 
+if you're thinking about it 
+geometrically, I think most people today 
+[COUGH] though we could easily solve that 
+using algebraic pr-, procedures. 
+geometrically that's I would find that a 
+bit of a challenge geometrically. 
+this kind of problem was solved all over 
+the place. 
+You, you get the Egyptians doing it in 
+the rhind papyrus Chinese, these are 
+famous works from history. 
+And the early Greeks in Euclid's elements 
+but in those cases it's, it would fall, I 
+would say, and most historians I've 
+consulted which is not a lot. 
+But I've at least consulted modern 
+historians would say that that's not 
+really algebraic. 
+yeah, I should, I'm drawing on so, when I 
+wrote my book on Fibonacci the man of 
+numbers, I consulted with three of the 
+leading scholars, one Italian and two 
+American, on Medieval period. 
+Actually the, the, the pre-Medieval 
+period, the sort of the, the 
+Arabic-Persian Period in the 8th, 9th 
+centuries. 
+And and then they, the medieval period 
+and this, I consulted with three of the 
+best modern scholars on those areas, and 
+I'm, I'm pulling on those guys for my 
+information. 
+Rather than none of them have written, 
+books actually that's not quite true. 
+one of them's written some books but not, 
+none of the three have really written a 
+lot about what they know. 
+Not in the form of a book. 
+So their, their knowledge hasn't really 
+filtered on to the onto the internet, 
+yet. 
+Okay. 
+And I think, yes, I think it would get as 
+far as this. 
+Whereas we would do a plus b squared is a 
+squared plus 2a plus b squared, the 
+Greeks and others would think of that 
+geometrically in terms of actual areas. 
+You know, we talk about x squared but at 
+the, the word square indicates that its a 
+square floating around. 
+So a plus b squared that means its a 
+square which transfer a plus b and you 
+find that kind of thing, this kind of 
+geometric reasoning rather than algebraic 
+reasoning in all of those famous works. 
+Then we get something that really is 
+beginning to look like modern algebra 
+absent the x's and the y's and the z's, 
+which were not going to come till the 
+16th century. 
+And this is Diophantus who wrote this 
+multi-volume book, Arithmetica. 
+The word arithmetic is actually in the 
+title. 
+But this is really arithmetic done from a 
+higher order perspective. 
+it really was algebraic thinking. 
+we can recognize it as algebra. 
+Absent the symbols we can reco-, and 
+there are, there are symbols, but they're 
+not the, the familiar modern x, y's, and 
+z's and so forth. 
+but it was definite introducing an a, an 
+unknown, and then reasoning logical 
+solving equations and that was around 
+152, 150 Current Era. 
+so there were these letters, but that's, 
+you know, it's not symbolic algebra in 
+the modern sense, but it certainly is 
+algebra. 
+negative numbers we use, and he used 
+these techniques that we'll see in a 
+moment restoration and confrontation 
+moving things from one side of an 
+equation to another, eliminating like 
+terms from both sides. 
+And solved, use, used these methods to 
+solve polynomials up to degree six. 
+Okay, now let's, I don't think I got as 
+far as this. 
+I think this is where I stopped last 
+time. 
+Okay, so the, if we want to trace the 
+historical thread now, beyond Deophantus, 
+then we'll go into India, Brahmagupta 
+around 600 Common Era. 
+And he wrote this book which I am not 
+even going to attempt to pronounce But it 
+roughly means something like correctly 
+established teachings of Brahma. 
+that's to some disagreement exactly when 
+zero appeared. 
+But this is one of the, certainly one of 
+the first clear appearances of zero, 
+meaning that's there a discussion of the 
+properties of zero. 
+I know that you add zero to anything you 
+don't change it. 
+You multiply by zero, you get zero. 
+But that kind of a discussion, very 
+recognizable algebra. 
+We gain absent more than x, y and z. 
+Gloss. 
+And then solutions of quadratic formula, 
+including zero and negative numbers. 
+So that's very well established. 
+along 6, 600 or so of current year . 
+Then the next huge step, and this is that 
+path that I alluded to in connection with 
+and actually where you begin down in 
+India with the Hindu Arabic numerals. 
+Then, the, the, the Arabic speaking, 
+Persian speaking traders moving that up 
+Towards North Africa, and then crossing 
+the Mediterranean to Italy, and sort of a 
+three seminal figures from a historical 
+perspective. 
+There's Brahmagupta and then there's 
+al-Khwarizmi, and then there's Leonardo, 
+you know. 
+They, they were just three, and, and 
+essentially what they did that was 
+distinct was they each wrote a book that 
+survived. 
+if you want to change things, you can 
+write, you can do all sorts of things but 
+if you want to have a major effect on 
+history it will be recognized writing a 
+big book is, is of in a good way. 
+we know you regard Euclid, is been the 
+guy who arbitrated geometry. 
+Its not clear that Euclid did any of the 
+work with the origi-, they originated any 
+of the work in his book, he probably did. 
+But the real power for Euclid's elements 
+is the way it was organized, made 
+systematic, and made available to us and 
+laid out in a nice way. 
+and the same was true with al-Khwarizmi, 
+what two very important books, and 
+likewise with Leonardo. 
+You clearly have to be very good to do 
+that, but you, a lot of the work is 
+collection. 
+You know, that's why I ended up comparing 
+Leonardo to Steve Jobs. 
+He just make a really good job of 
+collecting it and marketing it and making 
+it accessible and that's how to influence 
+the world. 
+

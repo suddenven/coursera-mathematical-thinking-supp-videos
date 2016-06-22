@@ -1,0 +1,486 @@
+1
+00:00:05,550 --> 00:00:09,840
+Welcome back, and there's two topics 
+tonight, the first is the one I began in 
+
+2
+00:00:09,840 --> 00:00:13,900
+just sort of got into a little bit at the 
+beginning, at the end of last time. 
+
+3
+00:00:13,900 --> 00:00:17,40
+And so, I'll pick up on that, actually 
+think about the birth of algebra. 
+
+4
+00:00:17,40 --> 00:00:19,790
+Which is part of a general sort of 
+historical theme that's going to be 
+
+5
+00:00:19,790 --> 00:00:23,666
+running through this. 
+But I'm also into sparsing it with sort 
+
+6
+00:00:23,666 --> 00:00:28,557
+of more up to date things, and given the 
+events in the political arena, the second 
+
+7
+00:00:28,557 --> 00:00:32,994
+half is going to be about how do we count 
+the votes in a general election. 
+
+8
+00:00:32,994 --> 00:00:34,980
+Okay? 
+And the spoiler is you tell me who you 
+
+9
+00:00:34,980 --> 00:00:38,452
+want to win and I can give you a fair way 
+to count the votes so that person will 
+
+10
+00:00:38,452 --> 00:00:38,761
+win. 
+
+11
+00:00:38,761 --> 00:00:39,761
+ >> [INAUDIBLE] [LAUGH] . 
+
+12
+00:00:39,761 --> 00:00:40,947
+ >> Okay? 
+So, you know? 
+
+13
+00:00:40,947 --> 00:00:41,834
+ >> [INAUDIBLE] 
+
+14
+00:00:41,834 --> 00:00:43,880
+ >> It's, it's not who wins, well actually, 
+
+15
+00:00:43,880 --> 00:00:47,724
+it could be who wins the debate that can 
+really get into the White House, but 
+
+16
+00:00:47,724 --> 00:00:51,382
+really the game is won or lost when you 
+decide how you're going to count the 
+
+17
+00:00:51,382 --> 00:00:54,160
+votes. 
+So that would be the second half. 
+
+18
+00:00:54,160 --> 00:00:57,520
+Okay, I'll go a little bit, I'll go 
+fairly quickly for the first couple of 
+
+19
+00:00:57,520 --> 00:01:01,104
+minutes, because we, we got into this 
+last time, and this is about the birth of 
+
+20
+00:01:01,104 --> 00:01:03,702
+algebra. 
+And I pointed out that we need to be 
+
+21
+00:01:03,702 --> 00:01:07,225
+careful what we mean by algebra. 
+In fact, even today, there were two 
+
+22
+00:01:07,225 --> 00:01:10,346
+meanings. 
+There's what I'd called sophisticated, or 
+
+23
+00:01:10,346 --> 00:01:14,250
+aritmatical thinking, or meta 
+arithmetical thinking, which is the, the 
+
+24
+00:01:14,250 --> 00:01:17,240
+kind of, which is what most people think 
+of as algebra. 
+
+25
+00:01:17,240 --> 00:01:20,460
+It's what's the basis of algebra in the 
+high school system. 
+
+26
+00:01:20,460 --> 00:01:24,90
+And then there's what mathematicians call 
+algebra, sometimes known as higher 
+
+27
+00:01:24,90 --> 00:01:25,162
+algebra. 
+[COUGH] Okay. 
+
+28
+00:01:25,162 --> 00:01:30,986
+Well first of all, and, and the focus 
+mainly is going to be almost exclusively 
+
+29
+00:01:30,986 --> 00:01:36,810
+is on the former, which is algebra as it 
+arose out of arithmetic as a, as a way of 
+
+30
+00:01:36,810 --> 00:01:41,787
+improving arithmetic calculations. 
+So I'm not going to be touching on higher 
+
+31
+00:01:41,787 --> 00:01:45,378
+algebra, [SOUND] which is what is done, 
+so if you say that, if you come, if you 
+
+32
+00:01:45,378 --> 00:01:48,798
+go around the, if you go around the 
+Stanford campus, you're going to math 
+
+33
+00:01:48,798 --> 00:01:52,503
+department, and you go into an office and 
+someone says this is professor X, and 
+
+34
+00:01:52,503 --> 00:01:55,750
+professor X is an algebraist, this is not 
+what professor X does. 
+
+35
+00:01:55,750 --> 00:01:57,570
+Professor X does something very 
+different. 
+
+36
+00:01:57,570 --> 00:02:00,700
+Perhaps works on something like Fermat's 
+last theoroem. 
+
+37
+00:02:00,700 --> 00:02:03,924
+Although that turned out not to be 
+algebraic in the end, but that's another 
+
+38
+00:02:03,924 --> 00:02:07,591
+story. 
+Okay, certainly not algebra, because it 
+
+39
+00:02:07,591 --> 00:02:11,201
+uses symbols. 
+In fact, algebra, for many years, was 
+
+40
+00:02:11,201 --> 00:02:15,520
+written, in a non symbolic fashion. 
+It was always done symbolically. 
+
+41
+00:02:15,520 --> 00:02:20,64
+by the way, I will mention that, if you 
+start going on the web, and you go to, 
+
+42
+00:02:20,64 --> 00:02:24,466
+even to Wikipedia and you look for 
+accounts on algebra, there's a lot of 
+
+43
+00:02:24,466 --> 00:02:28,916
+misinformation floating out there. 
+That's one of the, Wikipedia's actually 
+
+44
+00:02:28,916 --> 00:02:32,884
+pretty good on a lot of mathematical 
+content, but the last time I looked, in 
+
+45
+00:02:32,884 --> 00:02:35,980
+terms of the history of algebra, it was 
+really very weak. 
+
+46
+00:02:35,980 --> 00:02:40,536
+Largely, because it was based on the few 
+textbooks that were available, that 
+
+47
+00:02:40,536 --> 00:02:45,160
+people have access to, most of which are 
+actually quite old, and scholarship has, 
+
+48
+00:02:45,160 --> 00:02:49,530
+has advanced quite a bit since then. 
+[COUGH] Okay, so this is one of those 
+
+49
+00:02:49,530 --> 00:02:52,850
+instances where beware of what you find 
+on the web. 
+
+50
+00:02:52,850 --> 00:02:57,128
+Okay, we certainly so, it, it's not 
+because it's symbolic that makes it 
+
+51
+00:02:57,128 --> 00:03:00,204
+arguable, it's the kind of thinking 
+that's going on. 
+
+52
+00:03:00,204 --> 00:03:06,759
+[COUGH] and in fact the symbolic part 
+although you can trace it back to these 
+
+53
+00:03:06,759 --> 00:03:13,314
+fairly early origins it really wasn't 
+until, even later than the 13th century, 
+
+54
+00:03:13,314 --> 00:03:21,602
+that that we get modern symbolic algebra. 
+In fact 16 centuries when you can first 
+
+55
+00:03:21,602 --> 00:03:27,191
+really identify the work of Phan's Viete, 
+Viete you can really recognize symbolic 
+
+56
+00:03:27,191 --> 00:03:32,314
+algebra in the modern sense. 
+Okay, so, the key distinction is it's a 
+
+57
+00:03:32,314 --> 00:03:37,440
+logical thinking rather than numerical 
+quantity thinking. 
+
+58
+00:03:37,440 --> 00:03:43,94
+it's not calculating with numbers, it's 
+reasoning logically about numbers. 
+
+59
+00:03:43,94 --> 00:03:49,269
+so whereas arithmetic is definitely 
+quantitative, algebra is very much a 
+
+60
+00:03:49,269 --> 00:03:53,390
+qualitative discipline. 
+But it's focused on numbers, this kind of 
+
+61
+00:03:53,390 --> 00:03:59,356
+algebra is still focused on numbers. 
+And one of the ways to distinguish it is 
+
+62
+00:03:59,356 --> 00:04:03,388
+where was in calculation, you have some 
+data, and you do things to that data to 
+
+63
+00:04:03,388 --> 00:04:06,100
+get an answer. 
+You can't get it with the data, you add 
+
+64
+00:04:06,100 --> 00:04:10,300
+numbers together, you multiply them, and 
+it's a forward looking thing where you're 
+
+65
+00:04:10,300 --> 00:04:13,49
+combining things. 
+You're, you're literally not getting new 
+
+66
+00:04:13,49 --> 00:04:16,20
+information, you're combining information 
+you've got. 
+
+67
+00:04:16,20 --> 00:04:19,780
+In order to get a result that was already 
+implicit in that data. 
+
+68
+00:04:19,780 --> 00:04:24,30
+one of the features of algebra, is it's a 
+little bit different. 
+
+69
+00:04:24,30 --> 00:04:27,270
+You know that there's an answer out 
+there, you give it a name, and then you 
+
+70
+00:04:27,270 --> 00:04:31,225
+sort of almost work backwards. 
+You reason what, would have to happen to 
+
+71
+00:04:31,225 --> 00:04:34,794
+get to that thing. 
+So you reason, logically, in order to, to 
+
+72
+00:04:34,794 --> 00:04:39,367
+determine that value. 
+now it doesn't matter whether you call 
+
+73
+00:04:39,367 --> 00:04:44,918
+that unknown by a name, and in fact in 
+medieval mathematics, it was used by 
+
+74
+00:04:44,918 --> 00:04:49,530
+terms that really meant the thing. 
+You do this to the thing, you do that to 
+
+75
+00:04:49,530 --> 00:04:52,200
+the thing and then you find out that the 
+thing is this. 
+
+76
+00:04:52,200 --> 00:04:56,736
+so there were various terms in Latin and 
+other languages which really translate as 
+
+77
+00:04:56,736 --> 00:05:01,670
+the thing. 
+and it only became known as the x, 
+
+78
+00:05:01,670 --> 00:05:04,790
+solving for x, was more like 16, 17th 
+century. 
+
+79
+00:05:04,790 --> 00:05:10,368
+So it's not to do with the language. 
+And, you know, my knowledge with, with 
+
+80
+00:05:10,368 --> 00:05:15,400
+music, music is transcends the musical 
+notation, and algebra transcends any 
+
+81
+00:05:15,400 --> 00:05:17,784
+particular notation. 
+It's the way of thinking that that 
+
+82
+00:05:17,784 --> 00:05:20,319
+distinguishes it. 
+[COUGH] So my, one of the things I 
+
+83
+00:05:20,319 --> 00:05:24,639
+mentioned last time was that, taking a 
+formula and putting numbers in is 
+
+84
+00:05:24,639 --> 00:05:29,679
+outright arithmetic but the deriving of 
+that formula in the first place usually 
+
+85
+00:05:29,679 --> 00:05:34,490
+involves qualitative, what we might call 
+algebraic reasoning. 
+
+86
+00:05:34,490 --> 00:05:38,577
+And the examples I gave, again, last time 
+very quickly was solving a quadratic by 
+
+87
+00:05:38,577 --> 00:05:41,810
+guessing and calculation. 
+That just doing arithmetic, you make a 
+
+88
+00:05:41,810 --> 00:05:47,138
+guess and then you do some calculation. 
+If you're systematic and you substitute 
+
+89
+00:05:47,138 --> 00:05:53,526
+in a formula, that's also arithmetic. 
+But if you look at the the method whereby 
+
+90
+00:05:53,526 --> 00:05:58,297
+the formula itself is obtained. 
+Or in the case of a particular example 
+
+91
+00:05:58,297 --> 00:06:02,719
+like this, looking at the structure of it 
+and reasoning about it then that's 
+
+92
+00:06:02,719 --> 00:06:06,940
+really, I mean there's a, there's a fuzzy 
+borderline, and some people might 
+
+93
+00:06:06,940 --> 00:06:11,228
+disagree with [UNKNOWN] classifying this 
+as algebraic because it is a fuzzy 
+
+94
+00:06:11,228 --> 00:06:14,161
+borderline. 
+But I would say when you start doing 
+
+95
+00:06:14,161 --> 00:06:18,717
+this, you've really crossed over into 
+into algebraic thinking, lets say its 
+
+96
+00:06:18,717 --> 00:06:23,1
+fuzzy and and you know different people 
+might want to put the borderline in a 
+
+97
+00:06:23,1 --> 00:06:29,144
+different place. 
+So I would say that's, that's, that's 
+
+98
+00:06:29,144 --> 00:06:37,709
+that's moved over and that's, that's, 
+that's really algebra. 
+

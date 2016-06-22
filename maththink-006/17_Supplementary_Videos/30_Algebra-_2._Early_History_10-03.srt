@@ -1,0 +1,704 @@
+1
+00:00:00,5 --> 00:00:07,250
+And when we look back historically with 
+the benefit of hindsight, we can see 
+
+2
+00:00:07,250 --> 00:00:13,398
+algebraic thinking going back a long way. 
+It certainly wasn't symbolic algebra in 
+
+3
+00:00:13,398 --> 00:00:17,552
+the sense we have now, although let me 
+nuance that, 'cause I've already referred 
+
+4
+00:00:17,552 --> 00:00:20,940
+to that implicitly. 
+There's two issues. 
+
+5
+00:00:20,940 --> 00:00:24,474
+There's how did they record what they 
+were doing, how did they write down on 
+
+6
+00:00:24,474 --> 00:00:26,780
+their tablets and whatever, their 
+parchment. 
+
+7
+00:00:26,780 --> 00:00:31,470
+How did they write down algebra? 
+Or arithmetic, for that matter? 
+
+8
+00:00:31,470 --> 00:00:34,740
+And then the other issue is, how did they 
+do it? 
+
+9
+00:00:34,740 --> 00:00:37,219
+Well, they've always, it's always been 
+done symbolically. 
+
+10
+00:00:38,890 --> 00:00:42,292
+It's hard to imagine how you can do it 
+without some kind of scratching of some 
+
+11
+00:00:42,292 --> 00:00:45,483
+sort of abstract symbols. 
+But when they wrote it down for many 
+
+12
+00:00:45,483 --> 00:00:49,382
+centuries it was written down in words. 
+And I, I eluded to that last week in 
+
+13
+00:00:49,382 --> 00:00:53,217
+connection with, with the Leonardo 
+Fibonacci although maybe it was two weeks 
+
+14
+00:00:53,217 --> 00:00:55,760
+ago. 
+The when before the printing press when 
+
+15
+00:00:55,760 --> 00:00:59,840
+thins were written down they had to 
+written down in a manner that allowed 
+
+16
+00:00:59,840 --> 00:01:03,800
+fairly reliable copying. 
+And the writers knew that the scribes 
+
+17
+00:01:03,800 --> 00:01:07,520
+would be literary people that could 
+probably get the words right, but they 
+
+18
+00:01:07,520 --> 00:01:10,60
+wouldn't necessarily understand the 
+symbols. 
+
+19
+00:01:10,60 --> 00:01:13,635
+And you know, one matter, one symbol 
+that's written wrongly can turn a correct 
+
+20
+00:01:13,635 --> 00:01:17,390
+result into an incorrect result, can turn 
+something sensible into gibberish. 
+
+21
+00:01:17,390 --> 00:01:22,979
+So in order to be to give some guarantee 
+that results will be preserved when when 
+
+22
+00:01:22,979 --> 00:01:27,211
+things are copied. 
+most things are written in words and but 
+
+23
+00:01:27,211 --> 00:01:32,261
+the, but it was always done symbolically. 
+So and one of the things you find on, on 
+
+24
+00:01:32,261 --> 00:01:37,246
+some websites is a distinction between 
+rhetorical algebra and symbolic algebra. 
+
+25
+00:01:37,246 --> 00:01:40,560
+That's, that's, that's all missing the 
+point. 
+
+26
+00:01:40,560 --> 00:01:43,120
+It wasn't that it was a different kind of 
+algebra, it was just the distinction 
+
+27
+00:01:43,120 --> 00:01:44,711
+between how it was written and how it was 
+done. 
+
+28
+00:01:44,711 --> 00:01:48,710
+[COUGH] . 
+so we got the evidence of the Babylonians 
+
+29
+00:01:48,710 --> 00:01:51,877
+doing something that was essentially 
+algebra. 
+
+30
+00:01:51,877 --> 00:01:55,790
+it was, it was very much calc in term of 
+geometric problems. 
+
+31
+00:01:55,790 --> 00:01:58,690
+but some of these, in some way was very 
+practical. 
+
+32
+00:01:58,690 --> 00:02:02,395
+Some of them were actually numerical 
+problems that were couched in algebra in 
+
+33
+00:02:02,395 --> 00:02:05,968
+geometric terms. 
+And some just seemed to be recreational. 
+
+34
+00:02:05,968 --> 00:02:11,626
+[COUGH] and even though they didn't have 
+notational devices for talking about 
+
+35
+00:02:11,626 --> 00:02:16,470
+variables in general cases, they talked 
+in terms of specific numbers. 
+
+36
+00:02:16,470 --> 00:02:19,935
+It was clear, just as we do with modern 
+recipes very often, you know, take two 
+
+37
+00:02:19,935 --> 00:02:24,36
+cups of this and three cups of that. 
+And you just as-, assume you can double 
+
+38
+00:02:24,36 --> 00:02:27,404
+or triple any of the units. 
+it was clear that they applied in 
+
+39
+00:02:27,404 --> 00:02:30,513
+general. 
+But it was with hindsight, this was 
+
+40
+00:02:30,513 --> 00:02:35,318
+algebraic thinking. 
+okay and indeed to the degree of having 
+
+41
+00:02:35,318 --> 00:02:38,605
+an unknown, an unknown that you reason 
+about. 
+
+42
+00:02:38,605 --> 00:02:43,937
+the unknown wasn't a li-, wasn't a 
+number, it was with geometrics or the 
+
+43
+00:02:43,937 --> 00:02:48,230
+unknown was a line. 
+That's algebra. 
+
+44
+00:02:48,230 --> 00:02:51,826
+We might want to call it geometric 
+algebra, just to clear about it but again 
+
+45
+00:02:51,826 --> 00:02:54,910
+this is a modern term. 
+They were just doing their stuff. 
+
+46
+00:02:54,910 --> 00:02:57,748
+they were just trying to solve problems 
+and then in some cases, just to have a 
+
+47
+00:02:57,748 --> 00:03:01,160
+good time. 
+and as mentioned a moment ago. 
+
+48
+00:03:01,160 --> 00:03:05,440
+Sometimes they would do this to solve 
+arithmetic problems. 
+
+49
+00:03:05,440 --> 00:03:09,994
+That, that's a feature that we can see 
+later on in the work of Omar Khayyam and 
+
+50
+00:03:09,994 --> 00:03:14,518
+so forth, that it was a geometric 
+approach to essentially numeric problems. 
+
+51
+00:03:14,518 --> 00:03:21,121
+[COUGH] And here's one, I think I got as 
+far as this last time this problem which 
+
+52
+00:03:21,121 --> 00:03:26,179
+I've translated from base-60 into modern 
+decimal notation. 
+
+53
+00:03:26,179 --> 00:03:30,970
+And it's written in, in words. 
+I added the second, the area of my two 
+
+54
+00:03:30,970 --> 00:03:36,33
+squares, and I put it in decimal 
+notation, and expressed the problem, and 
+
+55
+00:03:36,33 --> 00:03:41,179
+then it gave a geometric solution of 
+procedure, an algorthm if you like, an 
+
+56
+00:03:41,179 --> 00:03:46,264
+algorithm for solving it. 
+in modern terms I expressed the area of 
+
+57
+00:03:46,264 --> 00:03:51,742
+my two squares x squared plus y squared, 
+and the area, I did them together, is, it 
+
+58
+00:03:51,742 --> 00:03:56,580
+comes up, is 1525, and then another 
+condition gives me that equation. 
+
+59
+00:03:56,580 --> 00:04:00,100
+So I got two equations, one quadratic, 
+one linear, and you have to solve them. 
+
+60
+00:04:00,100 --> 00:04:04,204
+That's pretty sophisticated. 
+it's pretty sophisticated in symbols but 
+
+61
+00:04:04,204 --> 00:04:07,800
+if you're thinking about it 
+geometrically, I think most people today 
+
+62
+00:04:07,800 --> 00:04:11,779
+[COUGH] though we could easily solve that 
+using algebraic pr-, procedures. 
+
+63
+00:04:11,779 --> 00:04:16,110
+geometrically that's I would find that a 
+bit of a challenge geometrically. 
+
+64
+00:04:16,110 --> 00:04:20,360
+this kind of problem was solved all over 
+the place. 
+
+65
+00:04:20,360 --> 00:04:24,650
+You, you get the Egyptians doing it in 
+the rhind papyrus Chinese, these are 
+
+66
+00:04:24,650 --> 00:04:30,12
+famous works from history. 
+And the early Greeks in Euclid's elements 
+
+67
+00:04:30,12 --> 00:04:35,304
+but in those cases it's, it would fall, I 
+would say, and most historians I've 
+
+68
+00:04:35,304 --> 00:04:39,895
+consulted which is not a lot. 
+But I've at least consulted modern 
+
+69
+00:04:39,895 --> 00:04:43,966
+historians would say that that's not 
+really algebraic. 
+
+70
+00:04:43,966 --> 00:04:48,658
+yeah, I should, I'm drawing on so, when I 
+wrote my book on Fibonacci the man of 
+
+71
+00:04:48,658 --> 00:04:53,10
+numbers, I consulted with three of the 
+leading scholars, one Italian and two 
+
+72
+00:04:53,10 --> 00:04:56,803
+American, on Medieval period. 
+Actually the, the, the pre-Medieval 
+
+73
+00:04:56,803 --> 00:05:00,378
+period, the sort of the, the 
+Arabic-Persian Period in the 8th, 9th 
+
+74
+00:05:00,378 --> 00:05:03,437
+centuries. 
+And and then they, the medieval period 
+
+75
+00:05:03,437 --> 00:05:07,859
+and this, I consulted with three of the 
+best modern scholars on those areas, and 
+
+76
+00:05:07,859 --> 00:05:10,990
+I'm, I'm pulling on those guys for my 
+information. 
+
+77
+00:05:10,990 --> 00:05:15,258
+Rather than none of them have written, 
+books actually that's not quite true. 
+
+78
+00:05:15,258 --> 00:05:19,743
+one of them's written some books but not, 
+none of the three have really written a 
+
+79
+00:05:19,743 --> 00:05:22,860
+lot about what they know. 
+Not in the form of a book. 
+
+80
+00:05:22,860 --> 00:05:27,416
+So their, their knowledge hasn't really 
+filtered on to the onto the internet, 
+
+81
+00:05:27,416 --> 00:05:27,864
+yet. 
+Okay. 
+
+82
+00:05:27,864 --> 00:05:34,190
+And I think, yes, I think it would get as 
+far as this. 
+
+83
+00:05:34,190 --> 00:05:37,850
+Whereas we would do a plus b squared is a 
+squared plus 2a plus b squared, the 
+
+84
+00:05:37,850 --> 00:05:41,828
+Greeks and others would think of that 
+geometrically in terms of actual areas. 
+
+85
+00:05:41,828 --> 00:05:45,788
+You know, we talk about x squared but at 
+the, the word square indicates that its a 
+
+86
+00:05:45,788 --> 00:05:49,228
+square floating around. 
+So a plus b squared that means its a 
+
+87
+00:05:49,228 --> 00:05:53,864
+square which transfer a plus b and you 
+find that kind of thing, this kind of 
+
+88
+00:05:53,864 --> 00:05:59,329
+geometric reasoning rather than algebraic 
+reasoning in all of those famous works. 
+
+89
+00:06:01,270 --> 00:06:05,625
+Then we get something that really is 
+beginning to look like modern algebra 
+
+90
+00:06:05,625 --> 00:06:09,712
+absent the x's and the y's and the z's, 
+which were not going to come till the 
+
+91
+00:06:09,712 --> 00:06:14,308
+16th century. 
+And this is Diophantus who wrote this 
+
+92
+00:06:14,308 --> 00:06:19,358
+multi-volume book, Arithmetica. 
+The word arithmetic is actually in the 
+
+93
+00:06:19,358 --> 00:06:22,792
+title. 
+But this is really arithmetic done from a 
+
+94
+00:06:22,792 --> 00:06:27,734
+higher order perspective. 
+it really was algebraic thinking. 
+
+95
+00:06:27,734 --> 00:06:32,110
+we can recognize it as algebra. 
+Absent the symbols we can reco-, and 
+
+96
+00:06:32,110 --> 00:06:36,190
+there are, there are symbols, but they're 
+not the, the familiar modern x, y's, and 
+
+97
+00:06:36,190 --> 00:06:40,494
+z's and so forth. 
+but it was definite introducing an a, an 
+
+98
+00:06:40,494 --> 00:06:46,698
+unknown, and then reasoning logical 
+solving equations and that was around 
+
+99
+00:06:46,698 --> 00:06:51,673
+152, 150 Current Era. 
+so there were these letters, but that's, 
+
+100
+00:06:51,673 --> 00:06:56,650
+you know, it's not symbolic algebra in 
+the modern sense, but it certainly is 
+
+101
+00:06:56,650 --> 00:07:00,573
+algebra. 
+negative numbers we use, and he used 
+
+102
+00:07:00,573 --> 00:07:07,266
+these techniques that we'll see in a 
+moment restoration and confrontation 
+
+103
+00:07:07,266 --> 00:07:13,86
+moving things from one side of an 
+equation to another, eliminating like 
+
+104
+00:07:13,86 --> 00:07:17,354
+terms from both sides. 
+And solved, use, used these methods to 
+
+105
+00:07:17,354 --> 00:07:22,155
+solve polynomials up to degree six. 
+Okay, now let's, I don't think I got as 
+
+106
+00:07:22,155 --> 00:07:25,775
+far as this. 
+I think this is where I stopped last 
+
+107
+00:07:25,775 --> 00:07:28,533
+time. 
+Okay, so the, if we want to trace the 
+
+108
+00:07:28,533 --> 00:07:34,77
+historical thread now, beyond Deophantus, 
+then we'll go into India, Brahmagupta 
+
+109
+00:07:34,77 --> 00:07:37,986
+around 600 Common Era. 
+And he wrote this book which I am not 
+
+110
+00:07:37,986 --> 00:07:43,154
+even going to attempt to pronounce But it 
+roughly means something like correctly 
+
+111
+00:07:43,154 --> 00:07:46,179
+established teachings of Brahma. 
+that's to some disagreement exactly when 
+
+112
+00:07:46,179 --> 00:07:50,395
+zero appeared. 
+But this is one of the, certainly one of 
+
+113
+00:07:50,395 --> 00:07:58,79
+the first clear appearances of zero, 
+meaning that's there a discussion of the 
+
+114
+00:07:58,79 --> 00:08:02,631
+properties of zero. 
+I know that you add zero to anything you 
+
+115
+00:08:02,631 --> 00:08:05,340
+don't change it. 
+You multiply by zero, you get zero. 
+
+116
+00:08:05,340 --> 00:08:08,520
+But that kind of a discussion, very 
+recognizable algebra. 
+
+117
+00:08:08,520 --> 00:08:12,920
+We gain absent more than x, y and z. 
+Gloss. 
+
+118
+00:08:12,920 --> 00:08:18,266
+And then solutions of quadratic formula, 
+including zero and negative numbers. 
+
+119
+00:08:18,266 --> 00:08:26,530
+So that's very well established. 
+along 6, 600 or so of current year . 
+
+120
+00:08:26,530 --> 00:08:30,885
+Then the next huge step, and this is that 
+path that I alluded to in connection with 
+
+121
+00:08:30,885 --> 00:08:35,44
+and actually where you begin down in 
+India with the Hindu Arabic numerals. 
+
+122
+00:08:35,44 --> 00:08:41,140
+Then, the, the, the Arabic speaking, 
+Persian speaking traders moving that up 
+
+123
+00:08:41,140 --> 00:08:46,580
+Towards North Africa, and then crossing 
+the Mediterranean to Italy, and sort of a 
+
+124
+00:08:46,580 --> 00:08:50,290
+three seminal figures from a historical 
+perspective. 
+
+125
+00:08:50,290 --> 00:08:55,730
+There's Brahmagupta and then there's 
+al-Khwarizmi, and then there's Leonardo, 
+
+126
+00:08:55,730 --> 00:08:57,990
+you know. 
+They, they were just three, and, and 
+
+127
+00:08:57,990 --> 00:09:01,338
+essentially what they did that was 
+distinct was they each wrote a book that 
+
+128
+00:09:01,338 --> 00:09:04,430
+survived. 
+if you want to change things, you can 
+
+129
+00:09:04,430 --> 00:09:09,142
+write, you can do all sorts of things but 
+if you want to have a major effect on 
+
+130
+00:09:09,142 --> 00:09:13,564
+history it will be recognized writing a 
+big book is, is of in a good way. 
+
+131
+00:09:13,564 --> 00:09:18,998
+we know you regard Euclid, is been the 
+guy who arbitrated geometry. 
+
+132
+00:09:18,998 --> 00:09:22,750
+Its not clear that Euclid did any of the 
+work with the origi-, they originated any 
+
+133
+00:09:22,750 --> 00:09:27,826
+of the work in his book, he probably did. 
+But the real power for Euclid's elements 
+
+134
+00:09:27,826 --> 00:09:32,35
+is the way it was organized, made 
+systematic, and made available to us and 
+
+135
+00:09:32,35 --> 00:09:35,862
+laid out in a nice way. 
+and the same was true with al-Khwarizmi, 
+
+136
+00:09:35,862 --> 00:09:39,240
+what two very important books, and 
+likewise with Leonardo. 
+
+137
+00:09:39,240 --> 00:09:43,173
+You clearly have to be very good to do 
+that, but you, a lot of the work is 
+
+138
+00:09:43,173 --> 00:09:48,540
+collection. 
+You know, that's why I ended up comparing 
+
+139
+00:09:48,540 --> 00:09:53,862
+Leonardo to Steve Jobs. 
+He just make a really good job of 
+
+140
+00:09:53,862 --> 00:10:01,982
+collecting it and marketing it and making 
+it accessible and that's how to influence 
+
+141
+00:10:01,982 --> 00:10:03,87
+the world. 
+

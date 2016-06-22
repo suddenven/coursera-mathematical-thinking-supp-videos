@@ -1,0 +1,423 @@
+.
+>> So Paul and Keith and I are together to
+discuss the reincarnation of the
+mathematical course that's been online.
+It's, it's, it's not a 1.2.
+It's actually the introduction of
+mathematical thinking, new and improved.
+>> I would call it version 0.2.
+>> Okay [laugh].
+>> 0.1 was last September.
+This is 0.2.
+And we might meet, we might, we might
+reach a better release version[LAUGH] in a
+couple of years time.
+Of course we're releasing it.
+>> So is this a matter of your deciding to
+change content, or is this, the changes
+are more a response to learning about
+MOOCs as you go along?
+>> Partly, we're learning about, its the
+same content in, in some sense.
+It's partly learning about MOOCs, and it's
+partly the feedback we got from the
+students the first time around.
+The, the, we got a lot of ideas for what
+we thought, what we think might be
+improvements.
+We won't really know whether they're
+improvements until we run them out and
+test them.
+>> Paul, what do you see as the big
+difference here between teaching this same
+content to a flesh and blood classroom
+[LAUGH]with students in front of you?
+>> There's a lot of differences.
+I think one of the biggest differences in
+a MOOC is, is the, the need to plan ahead.
+That in a normal classroom, you have a lot
+of opportunity to kind of change what
+you're doing dynamically in the moment.
+Whereas, in a MOOC, you kind of have to
+have everything set and ready to go before
+the course even begins.
+And that's where the second version, we
+can make all these changes that we've, you
+know, kind of thought up as we were going
+the first time.
+And it's like, oh, well, we can't put that
+in right now[LAUGH] because the course is
+already running.
+But now we have a chance to put some of
+those things in.
+>> So, can you, can you give me an example
+of one of the key changes you've made,
+Keith?
+>> One change, and this is the most
+obvious one to the students, is last fall,
+it was a seven week course.
+This week, I've taken the same material
+and spread it over ten weeks, because I
+got a lot of feedback from students who
+were clearly motivated, dedicated, were
+doing fine, but they had lives to live.
+They weren't full time students, and they
+would say, look, but I got to week 5, and
+I had to go on a business trip.
+And there were two lectures in week 5.
+If there had been one lecture in week 5, I
+could have caught up at the end of the
+week, but there were two lectures.
+I had to drop out.
+And so what I am doing is I am giving the
+first two weeks over two lectures a week,
+because it's very introductory.
+From week three onwards, there's only one
+lecture a week.
+So someone who has to miss a couple of
+days because they've got some commitments
+will have time to catch up.
+>> And that was born out by the, the some
+of the survey data we collected.
+The median age in the last course was in,
+people in their mid 30s.
+So it's not just, you know, high
+schoolers, or early college students who
+want to explore this area.
+It's a, we have a lot of students who are,
+you know, who are professionals who want
+to come back and look at this kind of
+stuff that maybe they, you know, had to
+drop when they were in college or they
+never got a chance to explore.
+So, it's a very different kind of
+population than traditional college.
+>> It's almost counterintuitive that it
+would take more weeks to do it, because
+you figure, if it's an online course and
+you have, you don't have to be there at 3
+PM on Thursday, you have all day Thursday
+to go check in there.
+You would almost think it would go faster.
+>>, The freedom in the scheduling.
+>> Not with this kind of a course, because
+the, and I kept telling my students this.
+I kept putting it out on my blogs and so
+forth.
+That the bit that they see on the video,
+that bit that's actually online, that just
+sets the stage.
+Because learning mathematics at this level
+involves a lot of thinking on your own and
+a lot of talking with other people and
+struggling to master material.
+So you could maybe watch a 30 minute video
+that I give.
+It may take you two or three hours of
+intense thinking, off and on, to make
+sense of that thing.
+So if, I describe my role as really, the
+conductor of an orchestra.
+You know, I, I decide which tune they're
+going to play, I raise the baton, and I
+leave them to work and I go off and have a
+cup of coffee somewhere.
+>> [laugh].
+>> And then I come back later and see how
+they're doing and checking in because it's
+really for them to learn.
+I'm not really teaching.
+I'm just setting the stage so they can
+learn.
+So there's a lot of time they need to make
+sense of what I manage to get through in,
+in 30 minutes on video.
+>> And it gives a little bit more
+flexibility having the course be over 10
+weeks, even for people who could do it
+faster.
+They can still kind of, I mean, they can
+still work fairly quickly in that 10
+weeks.
+>> Mm-hm.
+>> And then, I mean, one of the things
+Keith says throughout the videos is, you
+have to do this slowly, you have to take
+your time, you have to think about.
+So even the people who are getting it, and
+who are going quickly can still benefit
+from having that extra time, I think.
+>> So having had your, your base in
+physical, you know, right there,
+education, what's been your biggest shock?
+What's been your biggest lesson?
+>> Oh wow.
+There were lots of little shocks, I think.
+The thing that comes to mind is actually
+not a shock, because I expected it was
+going to happen, but I was sort of
+surprised when it really did.
+You know, I love teaching one on one with
+a student.
+I love teaching students in groups of
+maybe five to ten.
+>> Mm-hm.
+>> Bring it up to 20, I've never, I always
+try to cut my classes at 20 when I get
+physical classes.
+I've taught classes of 250 and 300.
+That's the worst possible, because there's
+no contact.
+It's just an audience.
+They're basically just wallpaper around
+the room, and they're all on Facebook at
+the same time anyway.
+>> [laugh].
+>> So there's no contact.
+You would think 65,000 students, even
+worse.
+It's not 65,000 students.
+It's 65,000 individual students.
+Teaching on a MOOC is one on one.
+You have a student sitting next to you.
+But if someone watches my class, you
+occasionally see my face, but that's just
+to make human contact.
+Most of what you see, is that hand and a
+piece of paper.
+The way we record them is an overhead
+camera on my desk at home, piece of paper,
+talking to a student, that in my mind is
+sitting next to me, in conversational
+terms going through some mathematics.
+Now, the student can't answer back in real
+time, which is a big problem.
+>> Yes.
+>> And we can and people like Paul are
+going to try and help me to compensate for
+that.
+But it's basically sitting next to the
+professor and talking to the professor and
+trying to understand what's going on.
+In other words, in a MOOC, you're teaching
+1 student.
+>> And well, well, Paul, when you talk
+about the logistics of that, I mean, when
+you have a teacher who's actually online,
+on that time, changing things or just
+putting it up, does, isn't there a natural
+advantage for the student who's likewise
+online at exactly the same time and
+doesn't have that delayed reaction of 10
+hours later coming on and, and seeing
+basically a canned lesson instead of a
+live lesson?
+>> Yeah, that's, that's an interesting
+question.
+I mean, I think that there's from the
+video perspective, since the videos are
+all kind of prerecorded, I don't know if
+there's too much of a difference.
+Certainly it, within the forums, there are
+times where, like, Keith or I will be
+logged into the forums.
+>> Right.
+>> And if somebody posts a question right
+then that one of us can address, there
+could be some advantage there.
+But actually, I think our experience was
+in the first course we actually, I think,
+intentionally try to stay out of the
+forum, like, answering questions right
+away, until there had been a fair amount
+of discussion or if it felt like it had
+gotten to a point that it was an
+unproductive disagreement.
+But there's actually so much value in, in
+staying out of the way, and letting the
+students discuss with each other in the
+forums.
+And our experience was, I mean you,
+because people post in the forums and
+there's going to be a response within ten
+minutes, 15 minutes almost every time.
+>> I'm expecting two kinds of people to
+come.
+I know there were a lot of people who took
+the last course and had to bail.
+And some who took the last course and
+finished, but didn't do as well as they
+thought, who have already emailed me and
+said that they're definitely coming back
+and they'd, they'd like to try it again.
+So I'm expecting those to come back, and,
+and they will see some changes.
+There have been some changes.
+They would be unwise to be seduced by the
+fact that things looked remarkably the
+same in the first couple of weeks, because
+they do change as we move on.
+There's a difference in emphasis in the
+way some of the material's presented and
+some of the things I'm asking them to do.
+And they'll realize that as they go
+through it.
+And for people who are doing it the first
+time, you've got the benefit of the fact
+that we have now learned from our
+mistakes.
+Last time, it's going to be better than
+last time.
+Last time I went in to it thinking, if we
+don't totally fail, crash and burn, it's a
+success.
+>> [laugh].
+>> Yes.
+>> So by that measure, it was a success.
+We've set ourselves a standard now.
+It was okay last time.
+It was, it was actually one of the most
+successful courses that Coursera would put
+on at the time.
+It was the second highest grossing in
+terms of students that they've had.
+>> Not bad.
+>> So it was, it was doing pretty well.
+That, may be the math guy thing that
+helped there.
+But it, but it did pretty well.
+But that set us a bar, and we now
+definitely, I mean, I will be disappointed
+if we don't exceed that bar.
+>> An individual can feel so involved and
+so personally invested that they would
+literally contact the instructor and say
+I'm coming back.
+>> Oh, yeah, yeah.
+Yeah, no, they I mean, and, and in a
+sense, we set them up for doing that.
+Because one of the things I tried to
+convey was getting a sense of me as a
+person.
+You know, I actually appear on camera.
+And I didn't have to.
+I could have done it like Khan Academy,
+where you never see the person involved.
+I want them to get a sense of me.
+Because mathematics is dry, abstract,
+decontextualized.
+I think you need a person to make contact
+of, you know.
+I was their friendly grandfather, or the
+uncle or whatever it was.
+I thought that was really important.
+>> Mm-hm.
+>> But if you watch what I'm doing, I'm
+actually not teaching.
+I'm not telling them any material.
+I'm talking about the course.
+I'm trying to motivate them.
+I'm the coach, if you like, saying you
+know, you can do this.
+Keep at it.
+And it was making human contact.
+You know, I've recorded it in the studio
+into camera, eye contact.
+But that was all about making contact with
+a human being.
+The moment we start talking about
+mathematics, I drop out and it was just my
+hand there.
+So, it was all about making that human
+contact.
+So not surprisingly, they did feel and
+responded.
+They feel they knew me.
+That was a trick.
+It's like everybody knows the news reader
+on their favorite TV channel.
+>> Right.
+>> It's a member of the family, because
+they're in your living room every night at
+6 o'clock.
+That's powerful.
+>> That's wonderful.
+>> I wanted to use that.
+>> Yeah, that's, that's actually a high,
+high compliment.
+>> And for, I mean, for all of the emails
+that you got telling, telling you people
+would come back.
+The posts, we did a survey at the end of
+the course last time and I would say there
+must have been hundreds and hundreds of
+people in the post survey when, in the
+free response.
+Instead of giving feedback on the course
+they said, oh, I'm sorry I didn't finish.
+I'll, [laugh], I'm going to do it better
+next time.
+Like, I mean,it was, it was amazing that,
+I mean, so many people wanted, I think
+they felt that personal connection in such
+a way that they're like.
+>> Yeah.
+>> They didn't want to let us down by not
+finishing the course.
+>> Yeah, yeah,these, that's what
+education's about.
+>> [laugh].
+>> The teacher, you know, teachers don't
+really teach.
+What they do is they inspire students to
+learn.
+>> Mm-hm.
+>> I don't think we can, I don't think I
+can teach anybody anything.
+The best I can hope is to inspire them to
+learn, because learning is the active
+thing.
+>> Right.
+>> What teaching is, in some sense except
+inspiration.
+And so, my, I, I see my role as to inspire
+them.
+And, in a sense, it's an easy one, because
+I love the subject.
+And I like to inspire people.
+You know, there's, there's, you have to
+fake a lot in the medium.
+>> Right.
+>> But what you're not faking is your love
+of the subject.
+>> Yeah, or you wouldn't be there.
+>> And that you're going to be there.
+So I was very gratified that they
+contacted me, because it meant that much
+had worked.
+You know, the one thing I couldn't do,
+which I love doing with real students, is
+when they come into your office, as they
+do all the time, when you talk to them.
+That's missing.
+>> Yeah.
+>> For, for those of us giving them,
+there's a lot of, of interesting upsides.
+The big downside is you never get to know
+the students.
+>> Mh-hm.
+>> You know, we wouldn't be in the
+business if we didn't like getting to know
+students.
+>> Absolutely.
+>> Actually I've had some professors that
+I'm a little bit suspicious about.
+>> [laugh].
+>> [laugh].
+>> [laugh] But most of us love this thing.
+>> There's one in every crowd.
+[laugh] Well thanks guys.
+>> Okay.
+Thank you.
+>> Abliged to.
+.

@@ -1,0 +1,103 @@
+[BLANK_AUDIO]. 
+ >> Yes. 
+ >> What is the difference between an 
+algebraic expression, an algorithm and a 
+model? 
+ >> The difference between algebraic, what? 
+ >> Expression. 
+ >> Expression, an algorithm and a model. 
+ >> And a model? 
+Okay, well the word model is It's usually 
+not, a lot of things in mathematics. 
+It's very often just means an equation or 
+a set of equations where you take some 
+feature of the world, something going on 
+in the world and you represent it by a 
+model. 
+You know, it could be a graphic, it could 
+be a network, whatever it is, it's some 
+arithmetic, some algebraic, some 
+mathematical representation of something 
+in the world that you can solve. 
+So you're modelling the world so these 
+abstractions, in the course of building a 
+model when you apply that model to the 
+world, then very often, lead you to or 
+involves developing algorithms. 
+Algorithms are procedures for solving 
+problems. 
+Let me back up, I think them the crucial 
+distinction is that the model is a 
+representation of an aspect of the world. 
+An algorithm is a procedure for doing 
+things that allow you to make conclusions 
+about the world. 
+Very often an algorithm of wise is in a 
+used in the context of a model. 
+In fact arguably always this. 
+You need a model that represents 
+something in the world, and in that model 
+you can apply algorithms to draw 
+conclusions about the world. 
+relative to that model, you can also do 
+algebraic reasoning, which may or may not 
+be algorithmic. 
+Algorithmic means step one, step two, 
+step three, step four, but not all 
+mathematical reasoning is algorithmic. 
+It can be just, i've no idea how to solve 
+it, i've no idea how to solve it, i've no 
+idea how to solve it, oh, I can solve it 
+that way. 
+It's insight, it's the ah-hah moment, and 
+a lot of mathematics is like that. 
+It's very much not algorithmic. 
+often, mathematics preceeds by, no idea, 
+no idea, no idea, oh, great idea. 
+And then when you reflect on that idea 
+you can get an algorithm so that all the 
+people can do it. 
+okay. 
+So a classic example I guess would be 
+solving the quadratic. 
+It was a great idea, you can do it by 
+turning it into a perfect square, 
+completing the square and ancient method 
+we all learn in high school or in middle 
+school. 
+And the first person who did that you 
+know that's brilliant, we just say, wow, 
+I just turn this into a real square, now 
+actually, you could imagine that 
+happening if you're thinking 
+geometrically actually. 
+But the moment that person did that, you 
+can turn it into the formula for the 
+quadratic. 
+And then you just got an algorithm, you 
+just plug in the values, x is minus b 
+plus or minus the square root of b 
+squared minus 4ac over 2a. 
+There's the algorithm, that's the 
+procedure. 
+That came about as a result of a greater 
+how moment. 
+So, back to the question, models of how 
+we start with the world, and represent 
+them in mathematics, and then once we've 
+got a model, once we've got the world 
+captured, an aspect of the world captured 
+in mathematics, we can apply algorithms, 
+step by step procedures or we can apply 
+algebraic reasoning or geometric 
+reasoning to draw conclusions about the 
+world. 
+And that reasoning may be algorithmic or 
+it may just be thinking relationally 
+until you have an insight. 
+Okay, I think I've got as close as I'm 
+going to get on the spur of the moment, 
+yeah. 
+ >> [MUSIC] 
+Stanford University. 
+

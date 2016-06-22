@@ -1,0 +1,632 @@
+1
+00:00:06,420 --> 00:00:07,840
+Before you start the course proper,
+
+2
+00:00:07,840 --> 00:00:11,730
+you should spend some time
+finding out where on the website.
+
+3
+00:00:11,730 --> 00:00:15,690
+There's a lot of information there,
+but it does take some getting used to,
+
+4
+00:00:15,690 --> 00:00:20,510
+particularly if this is your
+first course over Mooc.
+
+5
+00:00:20,510 --> 00:00:22,920
+Let me start with the homepage,
+that's the page behind me.
+
+6
+00:00:24,150 --> 00:00:27,400
+This is the one you saw when you first
+logged onto the actual course site.
+
+7
+00:00:29,720 --> 00:00:32,910
+The homepage is where you should look
+first every time you logon to the site,
+
+8
+00:00:32,910 --> 00:00:37,750
+because that's where I post reminders,
+updates and other important information.
+
+9
+00:00:38,940 --> 00:00:42,120
+Now, let's look at the main navigation
+bar on the left hand side of the screen.
+
+10
+00:00:43,710 --> 00:00:46,880
+As you'll see,
+it's divided into four sections.
+
+11
+00:00:46,880 --> 00:00:51,280
+The first section has just two links, both
+to important course information pages.
+
+12
+00:00:52,700 --> 00:00:56,360
+At the top, there's a link
+to the daily bulletin board.
+
+13
+00:00:56,360 --> 00:00:59,040
+The main content of the site's homepage,
+you can see behind me.
+
+14
+00:01:00,620 --> 00:01:03,020
+Below that is the cost time table.
+
+15
+00:01:03,020 --> 00:01:06,030
+A PDF file, I recommend you print off and
+keep with you.
+
+16
+00:01:07,430 --> 00:01:10,360
+It lists all the key deadlines,
+so you can plan ahead.
+
+17
+00:01:12,120 --> 00:01:14,740
+If I have to change
+anything in the schedule,
+
+18
+00:01:14,740 --> 00:01:17,055
+I'll post a bulletin board
+message on the site's homepage.
+
+19
+00:01:19,000 --> 00:01:23,530
+By the way, don't try to print off
+PDF files from your web browser.
+
+20
+00:01:23,530 --> 00:01:26,750
+Browsers don't always
+display PDF files well.
+
+21
+00:01:26,750 --> 00:01:29,390
+In particular,
+they can miss mathematical symbols.
+
+22
+00:01:30,440 --> 00:01:33,740
+Always download the file and
+print it off using Adobe Reader.
+
+23
+00:01:35,370 --> 00:01:37,960
+Below those two links
+is the second section,
+
+24
+00:01:37,960 --> 00:01:40,775
+which lists the parts of the website
+where you actually do things.
+
+25
+00:01:40,775 --> 00:01:46,349
+Discussion forums, videos,
+
+26
+00:01:46,349 --> 00:01:51,290
+problem sets,
+in lecture quiz duplicates, and
+
+27
+00:01:51,290 --> 00:01:55,090
+finally the test flight process,
+which we can largely ignore for now.
+
+28
+00:01:56,510 --> 00:02:00,189
+The video section is where,
+in addition to the videos themselves,
+
+29
+00:02:00,189 --> 00:02:04,319
+you'll find links to the assignment
+sheets that accompany each lecture and
+
+30
+00:02:04,319 --> 00:02:06,336
+to PDF versions of the problem sets.
+
+31
+00:02:07,794 --> 00:02:10,671
+I'll say a little bit about what
+those terms, problem set and
+
+32
+00:02:10,671 --> 00:02:12,060
+assignment mean in a minute.
+
+33
+00:02:15,150 --> 00:02:18,770
+Below the course activities,
+is a section called Course Information.
+
+34
+00:02:20,290 --> 00:02:23,410
+Before you start work on the course,
+you should look through the first
+
+35
+00:02:23,410 --> 00:02:27,210
+four items in this section, as well as
+the last one on the grading policy.
+
+36
+00:02:29,040 --> 00:02:31,890
+The first two describe the nature of
+the course and how it's structured.
+
+37
+00:02:33,480 --> 00:02:35,610
+The first few times I gave this course,
+
+38
+00:02:35,610 --> 00:02:38,310
+some students felt bewildered by
+the way the course progressed.
+
+39
+00:02:39,490 --> 00:02:43,440
+Mostly, they ran into difficulties because
+they haven't paid attention to those two
+
+40
+00:02:43,440 --> 00:02:45,550
+course information sections.
+
+41
+00:02:45,550 --> 00:02:48,350
+Though I have since reworded them to
+try and make things a bit clearer.
+
+42
+00:02:50,350 --> 00:02:52,620
+The course goals page is fairly long, but
+
+43
+00:02:52,620 --> 00:02:56,710
+provides some fairly important
+background information about the course.
+
+44
+00:02:56,710 --> 00:02:59,500
+In particular,
+it tells you what to expect and why.
+
+45
+00:03:01,830 --> 00:03:02,940
+If you're taking the course for
+
+46
+00:03:02,940 --> 00:03:07,679
+a certificate, you have two options,
+the basic course and the extended course.
+
+47
+00:03:09,410 --> 00:03:11,040
+If you complete the basic course,
+
+48
+00:03:11,040 --> 00:03:14,400
+which lasts eight weeks, you'll
+receive statement of accomplishment.
+
+49
+00:03:16,050 --> 00:03:19,520
+If you continue for two further weeks and
+complete all parts of the test flight
+
+50
+00:03:19,520 --> 00:03:23,340
+process, you'll receive a statement
+of accomplishment with distinction.
+
+51
+00:03:24,850 --> 00:03:26,510
+You don't have to make
+an official selection.
+
+52
+00:03:27,510 --> 00:03:30,900
+Simply decide at the end of eight
+weeks whether you want to stop and
+
+53
+00:03:30,900 --> 00:03:34,310
+a collect statements of accomplishments or
+continue for
+
+54
+00:03:34,310 --> 00:03:37,160
+the final two weeks to get
+a distinction certificates.
+
+55
+00:03:39,390 --> 00:03:41,320
+Notice that the certificates
+are awarded for
+
+56
+00:03:41,320 --> 00:03:44,620
+completion of the appropriate course,
+not the grade you get.
+
+57
+00:03:46,130 --> 00:03:49,080
+You will receive your aggregate score,
+but it will be
+
+58
+00:03:49,080 --> 00:03:52,560
+in the cover letter to your certificate,
+not on the certificate itself.
+
+59
+00:03:54,250 --> 00:03:58,800
+This is because the points awarded have
+little significance outside the course.
+
+60
+00:03:58,800 --> 00:04:00,700
+Their relevance is within the course.
+
+61
+00:04:02,560 --> 00:04:06,420
+The course treats points like the points
+that are awarded in a video game.
+
+62
+00:04:06,420 --> 00:04:09,750
+They have significance inside the game,
+but no value outside.
+
+63
+00:04:11,080 --> 00:04:13,420
+You should use them as a guide
+to measure your progress.
+
+64
+00:04:15,370 --> 00:04:18,290
+If you're new to the topics
+covered in this course,
+
+65
+00:04:18,290 --> 00:04:21,730
+a grade of 35% on a problem
+set can be a good result.
+
+66
+00:04:24,920 --> 00:04:27,037
+Just as happens in many video games,
+
+67
+00:04:27,037 --> 00:04:30,877
+to get high scores, you have to
+keep coming back and trying again.
+
+68
+00:04:33,563 --> 00:04:37,810
+A bit lower down the page, there's also
+section on the underlying cause pedagogy.
+
+69
+00:04:39,290 --> 00:04:42,450
+Chances are, unless you've been
+a student at a good college or
+
+70
+00:04:42,450 --> 00:04:46,500
+university, you may never have experienced
+a course with a structure as this one.
+
+71
+00:04:49,000 --> 00:04:52,130
+You should definitely read
+this section carefully.
+
+72
+00:04:52,130 --> 00:04:54,940
+Also, watch the 20 minute
+video linked to it.
+
+73
+00:04:57,840 --> 00:05:03,250
+The pedagogy paragraph and that video
+explain why you don't see my tutorial
+
+74
+00:05:03,250 --> 00:05:07,330
+explanations of assigned work until
+after you've attempted to complete it.
+
+75
+00:05:09,270 --> 00:05:13,700
+The course isn't about whether you
+can solve the assigned problems.
+
+76
+00:05:13,700 --> 00:05:14,800
+It's about attempting them.
+
+77
+00:05:15,990 --> 00:05:20,290
+To put it bluntly, if you can do
+most of the assigned problems,
+
+78
+00:05:20,290 --> 00:05:21,880
+you really don't need this course.
+
+79
+00:05:24,840 --> 00:05:28,510
+The next section, course structure,
+describes how the course is
+
+80
+00:05:28,510 --> 00:05:32,110
+constructed to embody those
+underlying pedagogic principles.
+
+81
+00:05:33,680 --> 00:05:36,850
+Like the previous page, it's long and
+packed with valuable information.
+
+82
+00:05:38,870 --> 00:05:43,150
+The one point I want to emphasize,
+is the statement that the assignments and
+
+83
+00:05:43,150 --> 00:05:45,330
+problem sets are the heart of the course.
+
+84
+00:05:47,080 --> 00:05:50,780
+It's when you're struggling with those
+problems that the actual learning will
+
+85
+00:05:50,780 --> 00:05:54,380
+take place and you will struggle.
+
+86
+00:05:54,380 --> 00:05:58,220
+Perhaps not in the first couple of weeks,
+but for sure, before the course is done.
+
+87
+00:05:59,780 --> 00:06:04,810
+Though the lecture and tutorial videos are
+the visible part of a Mooc, in my course,
+
+88
+00:06:04,810 --> 00:06:08,490
+their purpose is mostly to give you
+a bit of background information and
+
+89
+00:06:08,490 --> 00:06:10,700
+provide examples of mathematical thinking.
+
+90
+00:06:12,000 --> 00:06:13,890
+They're not instructional, and
+
+91
+00:06:13,890 --> 00:06:16,290
+they won't show you how to do
+any of the assignment problems.
+
+92
+00:06:17,650 --> 00:06:19,750
+Now it may not be what you're used to,
+
+93
+00:06:19,750 --> 00:06:22,220
+but it is how mathematics
+is learned at university.
+
+94
+00:06:23,610 --> 00:06:24,780
+It has to be done that way.
+
+95
+00:06:25,880 --> 00:06:28,940
+Since the goal is to acquire
+the ability to solve a novel problem,
+
+96
+00:06:29,970 --> 00:06:33,450
+it doesn't help you, for me to show
+you how to solve specific examples.
+
+97
+00:06:35,010 --> 00:06:39,450
+The only way to acquire that ability,
+is to keep trying and
+
+98
+00:06:39,450 --> 00:06:41,350
+failing, until you get it.
+
+99
+00:06:43,010 --> 00:06:46,910
+That's why this course rewards time
+spent and effort, not performance.
+
+100
+00:06:48,210 --> 00:06:52,360
+The only attempts you make that
+are graded at all are the problem sets,
+
+101
+00:06:52,360 --> 00:06:53,550
+in both versions of the course.
+
+102
+00:06:55,510 --> 00:06:59,320
+The problem sets consist of typical
+assignment problems, for which you
+
+103
+00:06:59,320 --> 00:07:03,450
+enter an answer on the course website and
+receive a machine-assigned grade.
+
+104
+00:07:04,710 --> 00:07:09,029
+The primary purpose of those grades is to
+give you some feedback on your progress.
+
+105
+00:07:10,280 --> 00:07:12,180
+This is particularly helpful for
+
+106
+00:07:12,180 --> 00:07:15,430
+students taking this course a second,
+or even a third time.
+
+107
+00:07:17,690 --> 00:07:20,360
+The only other relevance
+of the machine grids,
+
+108
+00:07:20,360 --> 00:07:23,030
+is to determine what constitute
+completion of the course.
+
+109
+00:07:24,920 --> 00:07:28,180
+Check out the last page in the course
+information section, grading and
+
+110
+00:07:28,180 --> 00:07:32,450
+statements of accomplishment, to see
+how the final grades are computed, and
+
+111
+00:07:32,450 --> 00:07:33,380
+certificates awarded.
+
+112
+00:07:35,170 --> 00:07:38,060
+I'll leave you to check out
+the remaining parts of the website,
+
+113
+00:07:38,060 --> 00:07:39,120
+once the course is under way.
+
+114
+00:07:40,560 --> 00:07:44,060
+For now, just concentrate on
+the pages I just discussed.
+
+115
+00:07:45,950 --> 00:07:49,670
+Finally, if you want to know more
+about the design of this course and
+
+116
+00:07:49,670 --> 00:07:56,200
+pedagogy behind it,
+check out my blog, mooctalk.org.
+
+117
+00:07:56,200 --> 00:07:59,940
+I've been blogging about this course since
+I started work on the first version,
+
+118
+00:07:59,940 --> 00:08:01,060
+back in spring 2012.
+
+119
+00:08:01,060 --> 00:08:05,710
+On the course readings page,
+
+120
+00:08:05,710 --> 00:08:09,310
+I provide links to some particular posts
+I think you definitely should read.
+
+121
+00:08:11,270 --> 00:08:16,434
+I know from experience that many students
+need to know why things are set up
+
+122
+00:08:16,434 --> 00:08:17,555
+a certain way.
+
+123
+00:08:17,555 --> 00:08:22,330
+Many of those blog posts were written in
+response to student comments from previous
+
+124
+00:08:22,330 --> 00:08:23,220
+sessions of this course.
+
+125
+00:08:24,310 --> 00:08:26,720
+So chances are, by now,
+
+126
+00:08:26,720 --> 00:08:30,020
+any question you have will already
+have been addressed on that blog.
+
+127
+00:08:32,260 --> 00:08:32,910
+Okay.
+
+128
+00:08:32,910 --> 00:08:37,490
+I suggest you now spend some time becoming
+very familiar with the site structure and
+
+129
+00:08:37,490 --> 00:08:39,040
+the parts I've drawn your attention to.
+
+130
+00:08:40,930 --> 00:08:43,220
+You can look into
+the evaluation rubric and
+
+131
+00:08:43,220 --> 00:08:46,780
+check out test flight once
+the course is underway.
+
+132
+00:08:46,780 --> 00:08:48,480
+They're not relevant in
+the first couple of weeks.
+
+133
+00:08:50,080 --> 00:08:51,101
+And the ride is about to begin.
+

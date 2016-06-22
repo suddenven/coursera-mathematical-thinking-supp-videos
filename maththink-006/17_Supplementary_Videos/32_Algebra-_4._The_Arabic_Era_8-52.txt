@@ -1,0 +1,233 @@
+Okay[COUGH]. 
+Here's a very famous, a historically 
+famous problem, from al-Khwarizmi's 
+Algebra. 
+This is how it was written. 
+Doesn't look like algebra today but it's 
+all language, all words. 
+Let me give you, well actually, let me 
+read it out. 
+Because this was a, a, a modern 
+translation, a fairly literal 
+translation, from al-Khwarizmi's book. 
+If some one say, you divide 10 into two 
+parts, multiply the 1 by itself; it will 
+be equal to the other taken 81 times. 
+Computation; You say, 10 less thing 
+that's going to be a 10 but it is less 
+something. 
+It's a diminish 10, multiplied by itself 
+is a 100 plus a square less 20 things. 
+So the less doesn't mean you're 
+subtracting, it means it's reduced 
+somehow and this is equal to 81 things. 
+Separate the 20 things from a hundred and 
+square and a square and add them to 81. 
+It will then be a 100 plus a square, 
+which is equal to a 101 roots. 
+Halve the roots; the moiety and we'll 
+come back to that in a minute, is 50 and 
+a half. 
+Multiply this by itself, it is 2550 and a 
+quarter. 
+Subtract from this 100 the remainder is 
+2450 and a quarter. 
+Extract the root from this, it is 49 and 
+a half. 
+Subtract this from the moiety of the 
+roots, which is 50 and a half. 
+There remains 1, and this is one of the 
+two parts. 
+most of us would find that quite 
+challenging to to understand let me take 
+you out of your misery[LAUGH] they were 
+solving this. 
+You've got a 10 slimmed down by an amount 
+x, you're squaring it and you get 81. 
+That's the solution to that. 
+And actually if you follow that through 
+that's just the, the sort of like the way 
+we might solve the equation. 
+I'm not going to go through the details, 
+but it's sort of like the way you, you 
+sort of follow that through and 
+understand that what you would do. 
+bearing in mind that they didn't have 
+negatives, but they could move things 
+from one side to the other. 
+I'm going to move on,[LAUGH] I, you, it 
+was really just, the, the, I, I didn't 
+want you to spend a lot of time, just to 
+show you that the way it was laid out 
+much simpler, we would think, to just 
+solve that equation because we reduced 
+algebra to very much just symbolic 
+manipulation. 
+Well the point about solving that 
+quadratic is you can do it without 
+switching your brain on. 
+Once you know the method, you can just 
+grind the handle. 
+It's very much algorithmic. 
+Okay so that was al-Khwarizmi. 
+I will mention that al-Khwarizmi, because 
+he was describing procedures for doing 
+arithmetic, especially in his first book. 
+Well actually both books. 
+Gave birth to the modern word algorithm. 
+So the word algorithm for computation 
+procedure is derived from al-Khwarizmi' . 
+So he, he left the word with 2 words 
+algorithm and algebra. 
+Pretty, pretty significant. 
+Okay, so that how al-Khwarizmi, and 
+there's another nice picture for one of 
+the books. 
+Then the next major figure almost 
+immediately afterwards was Abu Kamil a 
+guy who wrote a, many books at least 10 
+of which we know. 
+did a whole bunch of things really 
+dramatic individual, remarkable 
+individual. 
+he actually used that equation to solve, 
+to calculate the side of a regular 
+pentagon. 
+some very remarkable piece of work.um, 
+and the guy was so sort of amazing and 
+obsessive one might say that in one case 
+he looked at many, what is known as 
+indeterminate problems, problems where 
+there's not a unique solution but there 
+are many solutions, and in one case he 
+actually went through and found 2,005, 7, 
+676 solutions. 
+Hand calculation of all those many 
+solutions. 
+well you think, there were fewer 
+distractions then, right? 
+ >> Yes. 
+ >> So, it was even so that's, that's pretty 
+remarkable. 
+the next major figure, and there were, 
+there were a lot of people involved. 
+This was a huge en, en, enterprise going 
+on, I'm just mentioning some of the more 
+famous people. 
+And then we've got al-Karaji recognized 
+that the sequence. 
+Well that first remark is really a modern 
+interpretation of what he did. 
+You have to sort of read it with modern 
+eyes, but essentially he realized that 
+you can keep running up the exponents 
+indefinitely. 
+likewise from a modern perspective, he 
+discovered proof by induction. 
+The method of proof by induction where 
+you prove the first case and then you're 
+sure that if it's true for n it's true 
+for n plus 1, for those of you who've 
+been through that kind of an education. 
+it's not explicit in his work but it's 
+certainly implicit and some of the 
+historians I talked to said that yeah 
+it's a little bit of a stretch to call it 
+induction. 
+but from my perspective as a 
+mathematician it was induction. 
+it depends how you define it. 
+I could certainly look at it and see 
+induction. 
+and he verified this which is typically 
+done today by induction, that the sum of 
+the first n cubed is that formula. 
+I think I should add some, I think that 
+problem is on the test, the problem sheet 
+that I'm handing out to my student in my 
+online class today. 
+If it's not today, it's on Wednesday, so, 
+don't tell them. 
+[LAUGH] Right? 
+I think, I think I'm asking them to prove 
+this one as an example of induction 
+proofs. 
+he wrote at least three books. 
+then there's the famous Omar Khayyam no 
+more in the west as a poet I never 
+thought his poetry was that good but his 
+mathematics was brilliant and I think the 
+fact he's known as a poet reflects more 
+on our values in society where we value 
+poetry over mathematics. 
+I, I wouldn't change the balance the 
+other way I'd say. 
+I wouldn't want to put them on a battle, 
+because they're both important things. 
+okay yeah but he certainly did some 
+spectacular mathematics, worked on 
+astronomy, calendar reform, a very 
+significant figure very, very detailed 
+cataloguing of things. 
+All the possible kinds of equations, 
+relating them to geometric constructions. 
+His, his book is, is easily available in 
+at least three translations, including 
+one as recent as last year. 
+so if cubic's using very intricate 
+instructions involving conic sections 
+methods that are sometimes taught today 
+in, in, in classes of fork or some kind 
+of thing. 
+and actually looked at the issue of 
+things that could, could, couldn't be 
+solved by ruler and compass methods. 
+So was very much into the kind of things 
+that are still. 
+At least in high school geometry courses, 
+still very much a focus. 
+I know, a rather nice picture from this 
+manuscript of the cubic equation in this 
+section of conic section. 
+Okay, and then this amazing person, did a 
+whole bunch of things. 
+certainly a child prodigy, he wrote over 
+80 books and articles got involved in all 
+sorts of other enterprises. 
+al-Samaw'al. 
+And this is really a sort of a quotation 
+from, I mean, this is a quotation from 
+one of his writings. 
+He said that algebra involves quote, 
+"Operating on unknowns using all the 
+arithmetical tools, in the same way as 
+the arithmetician operates on the known." 
+That nails that distinction between 
+algebra and, and arithmetic. 
+You're using arithmetical tools but, 
+you're doing it a different level of 
+abstraction. 
+You're doing it on the unknowns, which 
+means you're sort of doing logical 
+reasoning with them. 
+You're doing qualitative reasoning in an 
+arithmetic framework as opposed to 
+calculating with the numbers. 
+And he, among the things he did was true 
+of this result for the sums of the 
+squared. 
+Again, that's expressing it in modern 
+notation. 
+So absent and notation you've got an 
+awful lot of modern algebra been on this 
+period. 
+but the story then picks up by Leonardo 
+and then if we're satisfied with Leonardo 
+we can pick up essentially the same story 
+in terms of spreading the word with Steve 
+Jobs, so that was a quick tour through 
+algebra, the history of algebra up to, 
+essentially to modern times. 
+ >> [MUSIC] 
+Stanford University. 
+

@@ -1,0 +1,664 @@
+Doctor Keith Devlin is a very big
+guy in the world of math education.
+Not to mention the world of math research.
+I'm introducing you to him here because
+I love how he thinks about learning in
+the world of mathematics and
+how his ideas about learning relate to
+learning in all sorts of topics
+way outside of Mathematics.
+Among many other duties, Keith is
+a co-founder and Executive Director of
+Stanford's Human Sciences and
+Technology Advanced Research Institute,
+a co-founder and president of
+an educational technology company,
+BrainQuake that creates
+mathematical learning video games.
+He's also a world economic forum fellow.
+A fellow of the American Association for
+the Advancement of Science.
+And a fellow of
+the American Mathematical Society.
+Last, but definitely not least, he is
+The Math Guy on National Public Radio.
+Welcome Dr. Devlin.
+Thanks for
+being with us here today Doctor Devlin.
+Let's just dive right in.
+What's the biggest tip you can
+share with our viewers about how to
+most effectively approach a math
+problem that they might be stuck on?
+Well the first thing of
+course is don't panic.
+That's the famous Douglas Adams motto.
+From the Hitchiker's Guide to The Galaxy
+and it holds just as much for
+mathematics as it did for,
+for the Hitchiker's Guide.
+You have to begin by understanding
+what the problem's about.
+What are you trying to do?
+What do you want to achieve and
+what information do you have?
+You must have, I mean,
+you've really gotta avoid the thing that
+actually teachers try to impress on you
+of trying to see if you can match it
+to some template and to act quickly.
+One of the worst things that I think
+happens in the school system is people
+come away thinking that solving math
+problems is something that has to be
+done at speed.
+It absolutely is not.
+So you have to sit back take a deep breath
+begin by understanding the problem.
+If the problem involves numbers
+put in a few simple numbers.
+Threes and fours and, and
+just play with it to get a sense of it.
+If it's a geometric problem do
+some little diagrams or you may,
+I often end up writing.
+Simple little graph diagrams with dots and
+lines connecting them.
+Just something to give me a sense
+of what that problem's about.
+At that point, you can ask yourself
+do I know any techniques that look as
+though they would work for this problem?
+If they do and
+you're in luck the problem's solved.
+Actually that's usually very
+unsatisfying because you've just applied
+somebody else's thinking.
+Mathematics gets interesting when you,
+you have to force yourself to find up
+a new, a new method, or some new approach.
+So let's just assume that none
+of the techniques you know work.
+The next thing is,
+can I adapt an existing technique.
+Well, maybe you can, maybe you can't.
+If you can, that usually leaves you
+with a nice feeling because
+you've done something yourself.
+The really challenging ones and the ones
+where it gets actually exciting and fun.
+Is where you,
+you it's becomes clear well at least you
+think that nothing you know is
+going to help you with that.
+At that point what you do is you,
+you, you,
+you basically you bash away at it several
+times with, with just naive approaches.
+Almost certain that it won't work.
+You just try this you try that.
+You, you come up with ideas based
+on what the problem's asking you to
+do because solving a problem is a journey.
+You begin with the information you've got.
+Either the information you're
+given with the problem or
+information you already know.
+You may have to add
+some extra information.
+You may do a Google search find
+some extra information about it.
+At that point, the journey takes place and
+you have to get to the goal and, and
+solve the problem.
+If none of the methods you try for
+the first half hour, maybe I'm,
+depending on the problem it could
+be half hour, a couple of hours.
+Sometimes it's a day or a few weeks.
+But if nothing happens, then the best
+thing to do is walk away from the problem.
+Go and do something else.
+In my case for most of my career
+I was a long distance runner.
+If I really came up against it.
+I would put on my running gear, whatever
+the weather, and I'd go out for a three or
+four hour run.
+And when I came back,
+a I felt good I felt relaxed and
+quite often on the course of that ride or,
+or on that, that run or when I
+got back the problem seemed different and
+I could, I had some new ideas.
+As I got older my knees gave away from 25
+years of heavy duty running these days I
+ride a bicycle.
+But I'd go on my bike, and I'd go for
+a three or four hour bike ride.
+And I come back, and first of all, I can
+approach the problem with a fresh eye.
+And secondly, in some cases,
+what seemed to be an impossible
+problem has melted away.
+I look at it and think oh,
+gee, that was obvious.
+Why didn't I see it before?
+Well, I don't quite think
+that because I know that the,
+the feeling you have when you
+solve a problem is always duh!
+Why didn't I think of that before?
+And if that doesn't work,
+you start the cycle again.
+You bash your way at it again, make no
+progress and then you go for another
+bike ride, or another swim or whatever
+it is you like to do, a nice long walk.
+But it's important to keep ice to keep
+oscillating between bashing away at it and
+then backing off and doing something
+else to let the brain do it's own thing.
+I think that was one of
+the hardest things for
+me to realize was how
+important it is to back away.
+That it, that sometimes especially
+when it's something difficult it's as
+important to be able to focus on it.
+As it is to be able to
+back away from it and
+then come back later with a fresh
+perspective and a fresh mind.
+Okay, I, it, for, for difficult problems,
+I have never, ever solved a difficult
+problem sitting at a desk or even sitting
+in my chair, thinking about the problem.
+I've never done that and
+I'm not sure it's possible to do that.
+Because if you think about it, if a
+problem's solution requires something new.
+Applying all of your conscious
+thinking by definition can't solve it
+because you're looking for something new.
+The weird thing about the brain is
+when you've done that preparation of
+bashing away without success and
+you go and do something else.
+I've mentioned physical activity because
+I'm a sort of a physical active guy.
+Although the biggest result in my PhD,
+was actually when I was
+getting out of the bath.
+I, I, I'd taken a long bath, that you
+don't have to sort of exert lots of
+energy, you have to do
+something different.
+Having a bath is a,
+is a famous one amongst mathematicians for
+solving problems.
+But somehow weird stuff happens inside the
+brain when you're doing something else.
+And what three hours ago seemed
+like an impossible problem.
+Just melts away and
+everything just falls into place.
+The brain sorts it out when
+it's left alone to do it.
+And that's exactly the kinds of ideas that
+we're talking about in, in our course.
+It is important to do that initial work.
+It's no good just going out for
+a bike ride.
+You've got to have gone through that
+process of really coming up against it and
+seeing everything that doesn't work
+because that seems to set up their mind in
+order to do this mysterious stuff it does,
+when you're engaged in something else.
+When your conscious mind is
+engaged in something else.
+Absolutely.
+It, that's so important.
+Well, one thing that you've described,
+is that, in higher mathematics.
+There should be a lot less doing and
+a lot more thinking.
+Can you tell our viewers
+what you mean by that and
+how, how does that relate to areas of
+learning that are outside mathematics?
+Yeah and this is really where
+you've got to unlearn lots of
+the things that you're taught at school.
+And actually you're taught, teachers do
+that for very good reasons because of
+the where we, especially in
+the United States and parts of Europe,
+the way we subject people to endless
+test taking in, with timed tests.
+The, the way to get through the school
+system is to learn to act fast under
+pressure of time and that's the last thing
+you can do when it comes to mathematics.
+You've really got to
+let it take its course.
+It's not, I mean,
+people have different speeds.
+I've, I've worked for
+some very fast mathematicians,
+the the young math professor from Stanford
+who won a Field's medal recently.
+She has gone on record as saying
+her teachers at school thought she
+wasn't good at mathematics
+because she was so slow.
+Well she may be slow, but she now has
+the equivalent of a Nobel prize in
+mathematics and, and
+congratulations to her for doing that.
+You really have to let it take its time.
+It's a slow process.
+You've gotta remember that
+mathematics is relatively recent,
+you know, 2 or 3,000 years.
+So you're bringing what's
+essentially a stone age brain
+to a domain that's a couple
+of thousand years old.
+In fact, most mathematics
+is only a few decades old.
+So, how can you take this brain that,
+that evolved to survive in the wilds and
+to, and then more recently,
+to survive in social en, environments.
+How can you take that brain and apply just
+all this abstract problem in mathematics?
+Well the answer is we don't
+really know how we do that.
+What we do know is that if
+you familiarize yourself with
+the problem to such an extent that,
+that problem is like a member of your
+family then the act of solving that math
+problem is actually not unlike solving
+a difficult problem you have at home.
+You know we're very good at
+solving social problems and
+problems about our environment.
+Because evolution set us up for that so,
+somehow we have to figure out how to
+let that brain solve that abstract problem
+in mathematics, and the act of getting
+inside the problem and thinking about it
+for a long period of time, so that it's so
+familiar then the natural circuits in the
+brain that serve us well all of the time.
+Actually come into play for
+a math problem.
+Now, there, there's no proof of that, but
+that's certainly my own
+experience of what goes on.
+Yes.
+Well, all I can say is three cheers for
+slow thinking and I love the idea
+of thinking about math and a, and
+a difficult problem as being something
+that's a member of your family.
+Yeah, it's you know, I mean.
+Math, in many ways
+mathematics problems are not,
+they're not fundamentally different from
+other problems except in one respect,
+they're about totally abstract things.
+So, someone solving a math problem has an
+initial problem that someone doesn't have
+if they're solving a problem in
+real life or a coaching problem in,
+in sort of football.
+Or, or, or, or, what and
+even most of the time and I,
+I used to spend a lot
+of time rock climbing.
+And rock climbing is, is,
+is partly physical but
+it's also a lot of problem solving.
+Because you're having to look for
+these moves, you're having to
+move your body in the right way.
+So there's an awful lot of problem
+solving that we do all of the time.
+And that's what the brain evolved to do.
+And in the case of mathematics, however,
+the world in which you're solving those
+problems isn't one we're familiar with.
+You initially have to, to create that,
+that world in, inside of you, and this,
+I think, is why I think it's essential to
+knock away at the problem for, for 10,
+15 minutes, a day, two days before
+you let the brain do its own thing.
+My guess and my perception of what's
+going on is that, that process is
+making my mind familiar with that domain
+with that problem to such an extent that,
+that problem is just like
+a problem I'd have with my family.
+Or, or, or, or my workplace or whatever.
+I've got all of this apparatus for solving
+real world problems and social problems.
+And once that math problem is inside my
+mind, it's another problem just like that.
+So solving the math problem
+usually isn't the hard part.
+The hard part is getting that
+problem familiar inside your mind.
+And the only way to do that is
+just keep living in the problem.
+Get inside the problem.
+Really.
+Live inside that problem for ten minutes,
+half an hour, maybe even a few days.
+In the case of Andrew Wile, solving
+Fermat's last theorem a few years ago.
+It took him seven years to
+really get inside that problem,
+to the point where we
+could see the solution.
+We'll part of what you do when your
+spending a lot of time with a problem is
+you're in some sense reaffying and
+growing the neural structures that
+are related to what you're
+trying to think about.
+And one of the things that Doctor Synoski
+and I emphasized quite strongly in our
+course is how exercise
+helps actually build neural
+structures it, it allows you to learn
+better it allows you mem, remember better.
+So how, how does exercise play a role
+in your own ability to do mathematics?
+That's that's a good one.
+But it certainly is the case for
+me if, when I was a PhD student, and
+my closest colleague was a, was a,
+was a, a mathematician from from
+the United States, came over to England
+when I was a student back in Bristol.
+And he was a rock climber.
+In fact I learned to rock climb with him.
+And we used to go on these three or
+four hour rock climbs and, and.
+We would almost certainly
+by the time we got to the,
+to the top of the climb we'd done some
+mathematics because you do a climb and
+you get to a ledge and you're, you're
+tied up and then you chat for a while.
+As you're sort of belayed
+onto the rock face.
+And we'd talk about mathematics.
+And then we'd forget the mathematics and
+we'd do onto the physical
+stuff of climbing.
+And when you're climbing as,
+as when you're bicycling very fast.
+Your mind is totally focused
+on that physical activity.
+That's, your entire world is physical.
+So you're focused on the climbing, or
+you're focused on riding your bike.
+And, but stuff is going on in
+the background in your mind.
+It's working on those things
+that you've talked about.
+And we'd finish a pitch, we'd put,
+get ourselves back on [INAUDIBLE],
+we'd talk about the problem.
+And we've made progress on the problem.
+So, as a graduate students,
+I discovered this method of thinking,
+doing, thinking, doing.
+It was incredibly powerful.
+You know, I can mix conjectures and,
+and sort of self reflect as to why
+the physical activity is important.
+I mean, aspects clearly are.
+You're focusing on that activity.
+It's very refreshing you know, the,
+we tend to think these days that
+the mind is separate from the body.
+I don't buy that.
+It certainly isn't the case for me.
+I find that if my body's tired
+my mind is tired and vice versa.
+They stimulate each other.
+So the, you know, the mind did
+evolve to help the body survive, and
+I think it's, it's a mistake to try and
+think of those as separate.
+If you nurture the body, the mind follows.
+You know, this, this goes back to the days
+of having physical education in schools
+and so forth, this is hardly original,
+but I think we need to take it seriously.
+I've never, ever,
+well I have solved problems in the bath.
+That's a, that's a,
+that's a somewhat more relaxing case.
+But even in the bath, it's simply,
+you know, it's a, it's a,
+it's an artificial environment
+in which you're relaxed.
+You're in water, you're doing things,
+you're fresh, you're freed of the mind.
+The mind is absolutely not
+thinking about that problem.
+It's doing other things.
+In my case definitely the, the bath,
+the bath examples not withstanding.
+Physical activity plays a big role.
+Exactly why, I don't know.
+But I do know it works.
+[LAUGH].
+Well there is actually good research
+evidence they're uncovering the,
+the bio-physiological mechanisms
+by which it does take an affect.
+But I, I have to ask, with everything
+that you do, do you ever catch yourself?
+It's hard to believe, but
+do you ever procrastinate?
+And if you do,
+what do you do to get yourself out of it?
+[LAUGH] yeah.
+Well, first of all, I do, do many things.
+You know?
+I've got my own
+educational technology company.
+I do lots of biking.
+I, I run an institute at Stanford.
+I do my teaching.
+I do, I'm actually on Twitter a lot.
+I do a whole bunch of things.
+You might think I'm a multitasker.
+I absolutely do not multitask.
+Not least, because I know,
+from the research that's
+been done here at Stanford.
+A lot of it by my late colleague,
+Cliff Nass.
+That shows that a, human beings
+cannot multitask and b, the more you
+think you're good at multitasking
+the worse you are at doing it,
+so I absolutely don't try to use
+the serial processor to multitask.
+What I do is I serial task.
+I will work exclusively flat out for
+periods of time.
+Now they may only be ten minutes.
+They may be half an hour.
+Or they may be I mean recently I had
+to develop a whole set of 75 puzzles.
+A new set of puzzles for, for
+my educational video game
+that we launched last fall.
+And we wanted to bring
+out a different version.
+I worked nonstop on that for four days.
+I didn't do anything else other than eat,
+sleep and
+bicycle ride and my entire focus
+everything else went to one side.
+Was to get that thing done.
+And four days later I had
+the 75 puzzles worked and
+tested and everything and
+then I moved to something else.
+So what I do is I worked very intensely
+and very focused for periods of time.
+I mean, you know, it's amazed that, that,
+that friends and family are still by me
+because this is very focused and
+it excludes everything else.
+You know must I must be really
+difficult to live with at those times.
+But everything gets excluded.
+I focus on it.
+And then I it comes an end.
+Either because I finished the job or
+I just get tired and
+want to switch and I'm really getting,
+getting frustrated with it.
+Then I'll switch and do something else.
+And what I've learned to do
+very efficiently is switch from
+one to the other.
+It doesn't take me more than a few minutes
+at most to switch from one to the other.
+Procrastination comes from recognizing
+that I need to make that switch.
+I'll keep going and keep going, and
+I'll think I want to do this little thing,
+I want to do this little thing.
+And I do find myself doing
+lots of other little things.
+I'll go start to read my Twitter feed and
+things for
+awhile, before making the switch.
+So the one moment where I will
+procrastinate is starting something new,
+for obvious reasons.
+You've been in the groove, you've been
+making progress, and then it slowed down.
+And you've got to get in another groove.
+And, and I know that that
+takes willpower and effort.
+And like everybody else,
+I do have a procrastination streak.
+But the only time it affects
+me is making that switch.
+Once I've done it, I'm away in that domain
+until I've either solved that issue, or
+done it, or completed it.
+Or got tired of it, and need a break.
+And that, I found, works extremely well.
+That, that's actually something
+that we talk about in this course,
+is just that idea of, you don't
+need to use willpower all the time.
+You just need to put it one little place,
+wherever you need.
+Where you're getting that cue.
+That's where you need to
+be applying willpower and
+that seems to be exactly what you do.
+And it's true that I'm fortunate to
+have been able to carve out a career for
+myself where most of the time I'm
+doing stuff I really want to do.
+So even though I may not want
+to write that blog post.
+I know at the back of my mind
+that the moment I get into it and
+written a fair sentences.
+Writing that blog post will be the most
+important, and most wonderful, and
+rewarding thing in the world,
+until it's finished.
+But then I have to sort of stop that and
+do something else.
+And that's when there's these hiatus
+moments when, when I procrastinate.
+It's the, the, the, the switching gears to
+something else that, that's, that I find,
+I won't say I find it difficult,
+because I've been doing it all my life.
+But you do need willpower to do that.
+At least I find I need willpower
+to do that and if I'm not careful,
+it will just fritter away with
+social media or or whatever.
+I, I feel the same way
+in how I handle things.
+One thing I, I like to do is.
+I think of my life as like
+this enormous funnel where
+there's all these things that
+are demanding to be done.
+But then only one thing can go
+through the funnel at a time.
+And so you, you just gotta give it up and
+realize one thing is all
+you can be focusing on.
+And if you have that approach it makes it
+a little easier to realize that
+you just can't do everything.
+You just do as much as you reasonably.
+Yeah.
+I mean, I mean one thing I do,
+do is when you know, I actually just
+upgraded my computer system to a,
+to a new Macintosh.
+The first thing I did was went to the.
+Into the system controls and
+switched off every single alert.
+I don't want visual alerts,
+I don't want noise alerts,
+I don't want to know if an email has come.
+I don't want to know if
+something's going on.
+I literally switch off all the alerts
+because I don't want things pushed to me.
+I want to go and find out things when
+I need them because the last thing I
+want if I am in the middle of
+working on an article say.
+Is to have some little mip,
+little beep going off to tell
+me some emails has arrived.
+I don't want to know that,
+because that's a distraction.
+I want to be in the world
+of writing that article,
+because if you take this human brain,
+and you put it into a problem,
+into a domain, and you set it free,
+it loves what it's doing,
+it doesn't want to give up, and
+it sure doesn't want to be distracted.
+And so, I don't destruct it.
+I just let it do what it does.
+Well, I, I thank you so
+much, Doctor Devlin, for
+sharing your wisdom with us, here today.
+It's just been a great
+pleasure talking with you.
+And I know our viewers will really, really
+learn a lot from what you had to say.
+Okay, the pleasures been all mine,
+absolutely.
+Thanks so much.
+

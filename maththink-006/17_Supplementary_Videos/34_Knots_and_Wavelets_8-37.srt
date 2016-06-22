@@ -1,0 +1,659 @@
+1
+00:00:01,466 --> 00:00:09,047
+[MUSIC]. 
+
+2
+00:00:09,047 --> 00:00:13,038
+I live and breath mathematics. 
+I'm aware of the fact that mathematics is 
+
+3
+00:00:13,038 --> 00:00:16,451
+been invented all the time. 
+And yet, I meet people regularly at 
+
+4
+00:00:16,451 --> 00:00:21,310
+parties and elsewhere who say, well, you 
+know, what's the interest in mathematics? 
+
+5
+00:00:21,310 --> 00:00:23,950
+Didn't the Greeks sort of finish that 
+2,000 years ago? 
+
+6
+00:00:23,950 --> 00:00:25,385
+And you know, I think, oh my goodness, 
+no. 
+
+7
+00:00:25,385 --> 00:00:29,102
+ >> Stanford University Mathematician 
+Keith Devlin knows that there are many 
+
+8
+00:00:29,102 --> 00:00:32,760
+reasons to be excited about math, and the 
+new ways math is being used today, 
+
+9
+00:00:32,760 --> 00:00:38,108
+something called knot theory for example. 
+ >> Knot theory actually begins in the 
+
+10
+00:00:38,108 --> 00:00:41,160
+middle of the nineteenth century and it's 
+what the name suggests. 
+
+11
+00:00:41,160 --> 00:00:44,130
+It's the mathematical study of knots. 
+The kind of knots you tie in a piece of 
+
+12
+00:00:44,130 --> 00:00:46,584
+string. 
+And what distinguishes one knot from 
+
+13
+00:00:46,584 --> 00:00:51,010
+another knot is the pattern whereby you 
+wrap the string around itself. 
+
+14
+00:00:51,010 --> 00:00:54,664
+But then, in the 1980s, biologists 
+started to team up with mathematicians, 
+
+15
+00:00:54,664 --> 00:00:58,260
+not to think about the kind of knots that 
+tie them that we can tie in pieces of 
+
+16
+00:00:58,260 --> 00:01:02,160
+string. 
+But to look at the knots in which our own 
+
+17
+00:01:02,160 --> 00:01:05,724
+DNA wraps itself, when it gets inside the 
+cell, when it, when it lives inside the 
+
+18
+00:01:05,724 --> 00:01:11,250
+cell, and what a virus does to, to, to 
+sort of manipulate that knot pattern. 
+
+19
+00:01:11,250 --> 00:01:14,630
+And so, it, it's, it's close to the stage 
+now where peoples' lives will be saved 
+
+20
+00:01:14,630 --> 00:01:17,698
+because mathematicians who know about 
+knot theory have teamed up with 
+
+21
+00:01:17,698 --> 00:01:22,897
+biologists to look at the fundamental. 
+Maybe, maybe some of the most fundamental 
+
+22
+00:01:22,897 --> 00:01:27,060
+knots that there are, the knots that are 
+right down inside our own cells. 
+
+23
+00:01:27,060 --> 00:01:29,700
+ >> Devlin spreads the word while 
+wearing many hats. 
+
+24
+00:01:29,700 --> 00:01:34,056
+Math professor, radio personality, 
+television content adviser, author, and 
+
+25
+00:01:34,056 --> 00:01:37,080
+lecturer. 
+ >> I've already mentioned the iPod 
+
+26
+00:01:37,080 --> 00:01:40,690
+designed just down the road here in sunny 
+Cupertino. 
+
+27
+00:01:40,690 --> 00:01:43,240
+well, those guys are geeks, down the 
+road. 
+
+28
+00:01:46,400 --> 00:01:48,740
+They are the kind of geeks that 
+understand this kind of stuff. 
+
+29
+00:01:48,740 --> 00:01:52,106
+So the Fourier's theory that's part of 
+the mathematics, behind what's going on 
+
+30
+00:01:52,106 --> 00:01:55,472
+in the you know, and you know, and these 
+guys now, you, you've got 60 gigabyte 
+
+31
+00:01:55,472 --> 00:02:00,490
+memories in some of these things. 
+That's enormous amount of storage. 
+
+32
+00:02:00,490 --> 00:02:02,530
+You can store movies in some, not this 
+one, but a bigger one, you can store 
+
+33
+00:02:02,530 --> 00:02:06,325
+movies in some of these. 
+That's because of very, very effective 
+
+34
+00:02:06,325 --> 00:02:09,902
+compression techniques. 
+What these things store isn't music or 
+
+35
+00:02:09,902 --> 00:02:13,760
+videos, it's numbers, billions and 
+billions of numbers. 
+
+36
+00:02:13,760 --> 00:02:17,298
+ >> When you're listening to your 
+favorite song, it's easy to forget that 
+
+37
+00:02:17,298 --> 00:02:22,930
+math is behind what makes digital music 
+devices and similar technology work. 
+
+38
+00:02:22,930 --> 00:02:26,346
+But just what specific mathematical 
+innovation makes this great escape 
+
+39
+00:02:26,346 --> 00:02:29,490
+possible? 
+An important one is wavelet theory, 
+
+40
+00:02:29,490 --> 00:02:33,188
+another form of new math. 
+ >> A wavelet is a very, very simple 
+
+41
+00:02:33,188 --> 00:02:37,023
+short little wave that will consist of 
+maybe one little blip or just a couple of 
+
+42
+00:02:37,023 --> 00:02:42,188
+blips that can be described by a simple 
+mathematical formula. 
+
+43
+00:02:42,188 --> 00:02:45,890
+ >> If this doesn't look simple, it's 
+because simplicity is relative. 
+
+44
+00:02:45,890 --> 00:02:49,930
+Equations for curves can be much more 
+complex. 
+
+45
+00:02:49,930 --> 00:02:53,468
+ >> Wavelets were first discovered, or 
+invented if you like, early in the 
+
+46
+00:02:53,468 --> 00:02:57,828
+twentieth century. 
+But it was only in the 1980s or 90s that 
+
+47
+00:02:57,828 --> 00:03:01,830
+mathematicians began to develop methods 
+for dealing with wavelets that allows us 
+
+48
+00:03:01,830 --> 00:03:05,252
+to take these days, a sound wave, it 
+could be a rock group or a two hundred 
+
+49
+00:03:05,252 --> 00:03:10,174
+piece orchestra. 
+And reduce them to a mathematical 
+
+50
+00:03:10,174 --> 00:03:13,672
+combination of these little individual 
+wavelets as they're called, which are 
+
+51
+00:03:13,672 --> 00:03:17,605
+little pieces of waves that don't keep 
+going on forever. 
+
+52
+00:03:17,605 --> 00:03:21,169
+Actually, what's happening is you're 
+hearing music that's been created right 
+
+53
+00:03:21,169 --> 00:03:25,576
+there, especially for you. 
+Because what's stored inside the device 
+
+54
+00:03:25,576 --> 00:03:30,490
+Is instructions, it's an instruction set 
+to recreate that music. 
+
+55
+00:03:30,490 --> 00:03:33,882
+That instruction set is written in the 
+language of mathematics, because the 
+
+56
+00:03:33,882 --> 00:03:37,433
+information that's stored in order to 
+recreate the music is actually hundreds, 
+
+57
+00:03:37,433 --> 00:03:41,440
+thousands, maybe millions and billions of 
+numbers. 
+
+58
+00:03:41,440 --> 00:03:45,039
+One way to think about wavelets and how 
+they're used is to think in terms of 
+
+59
+00:03:45,039 --> 00:03:48,587
+building a house. 
+If I were to give you, say five or six 
+
+60
+00:03:48,587 --> 00:03:52,032
+different kinds of bricks, then you know 
+and I know that you could go and find an 
+
+61
+00:03:52,032 --> 00:03:55,689
+architect who could use those [UNKNOWN] 
+different types of bricks to build houses 
+
+62
+00:03:55,689 --> 00:03:59,187
+of all sizes and all shapes, because it's 
+all a matter of how you put those bricks 
+
+63
+00:03:59,187 --> 00:04:05,025
+together. 
+Wavelet theory is essentially the same. 
+
+64
+00:04:05,025 --> 00:04:10,225
+It shows you how you can take any sound 
+wave or any video signal, any, any image, 
+
+65
+00:04:10,225 --> 00:04:17,060
+and how you can build it up from 
+individual little building blocks. 
+
+66
+00:04:17,060 --> 00:04:19,916
+In this case, the building blocks are 
+little graphical waves. 
+
+67
+00:04:19,916 --> 00:04:23,946
+ >> [MUSIC] And although, wavelet theory 
+was developed only decades ago, a short 
+
+68
+00:04:23,946 --> 00:04:27,976
+time in the history of mathematics ideas, 
+it was French mathematician Joseph 
+
+69
+00:04:27,976 --> 00:04:32,283
+Fourier who paved the way in the early 
+1800s. 
+
+70
+00:04:32,283 --> 00:04:36,078
+ >> He showed that if you take any sound 
+wave, actually any kind of wave 
+
+71
+00:04:36,078 --> 00:04:41,148
+whatsoever, you can split it up into 
+component sine waves. 
+
+72
+00:04:41,148 --> 00:04:45,904
+A sine wave is the simple up down wave 
+that you get when you hit a tuning fork. 
+
+73
+00:04:45,904 --> 00:04:50,170
+You can take any sound wave and split 
+that up into individual components. 
+
+74
+00:04:50,170 --> 00:04:52,240
+You need a lot of them, hundreds or 
+thousands of them. 
+
+75
+00:04:52,240 --> 00:04:55,810
+Actually, the mathematics says you need 
+infinitely many of them. 
+
+76
+00:04:55,810 --> 00:04:59,468
+What Fourier assured, was that if you 
+take a sound wave, a complicated wave 
+
+77
+00:04:59,468 --> 00:05:03,244
+like this one right on the top here, you 
+can actually make that by taking very, 
+
+78
+00:05:03,244 --> 00:05:08,372
+very many sound waves. 
+Like the one at the bottom of different 
+
+79
+00:05:08,372 --> 00:05:12,443
+amplitudes and frequencies, add them all 
+together, and get the complicated sound 
+
+80
+00:05:12,443 --> 00:05:17,012
+wave that we see here. 
+So, this complicated sound wave at the 
+
+81
+00:05:17,012 --> 00:05:20,672
+top can actually be built out of 
+components, all of which looks like this 
+
+82
+00:05:20,672 --> 00:05:25,270
+one on the bottom. 
+ >> It's like the sound of a choir. 
+
+83
+00:05:25,270 --> 00:05:28,406
+When you listen to many people singing 
+together, you hear a group of voices in 
+
+84
+00:05:28,406 --> 00:05:34,115
+unison. 
+In effect, a single sound. 
+
+85
+00:05:34,115 --> 00:05:37,443
+Of course, what you're listening to is 
+not just a single sound, it's made up of 
+
+86
+00:05:37,443 --> 00:05:41,306
+dozens of voices. 
+If you are able to hear each of these 
+
+87
+00:05:41,306 --> 00:05:45,970
+singers separately, you could pick out 
+one person's voice. 
+
+88
+00:05:47,399 --> 00:05:51,562
+The unified sound illustrates the basis 
+of Fourier's theory. 
+
+89
+00:05:51,562 --> 00:05:54,972
+ >> [MUSIC] Another way to get a handle 
+on Fourier's theory is to use the tuning 
+
+90
+00:05:54,972 --> 00:05:57,470
+fork. 
+We'll hit the tuning fork, and if you 
+
+91
+00:05:57,470 --> 00:06:00,198
+look on the oscilloscope screen, what 
+you're getting is an image, a visual 
+
+92
+00:06:00,198 --> 00:06:03,878
+image of the sound. 
+And because it's a turning fork making a 
+
+93
+00:06:03,878 --> 00:06:07,695
+pure sound, a pure note, what we're 
+seeing is a sine curve. 
+
+94
+00:06:07,695 --> 00:06:11,233
+If we were to take a whole bunch of 
+tuning forks and put them together, then 
+
+95
+00:06:11,233 --> 00:06:17,090
+we would be able to create any sound we 
+wanted to if we did it the right way. 
+
+96
+00:06:17,090 --> 00:06:20,506
+For example, if I take another tuning 
+fork and I hit the tuning fork, it's a 
+
+97
+00:06:20,506 --> 00:06:24,722
+different size tuning fork, I'm getting a 
+different sound. 
+
+98
+00:06:24,722 --> 00:06:27,584
+ >> If you look at the oscilloscope 
+tracings from both turning forks 
+
+99
+00:06:27,584 --> 00:06:30,976
+together, you can see how the second wave 
+looks like it's moving faster to the 
+
+100
+00:06:30,976 --> 00:06:36,351
+left. 
+[MUSIC] This is due to its slightly 
+
+101
+00:06:36,351 --> 00:06:39,008
+greater frequency, but it's still a sine 
+curve. 
+
+102
+00:06:39,008 --> 00:06:42,488
+ >> It's because the wave changes in its 
+dimensions that when you put them 
+
+103
+00:06:42,488 --> 00:06:46,148
+together, when you put lots of them 
+together, what results is not just one 
+
+104
+00:06:46,148 --> 00:06:50,855
+big sine curve. 
+But actually, one very complicated curve 
+
+105
+00:06:50,855 --> 00:06:54,572
+with all sorts of different wiggles in 
+it, that when you play it back could be 
+
+106
+00:06:54,572 --> 00:06:59,805
+indeed Beethoven's ninth symphony. 
+ >> That's part of the basis for today's 
+
+107
+00:06:59,805 --> 00:07:03,745
+digital music players. 
+But Fourier's discovery of how sine waves 
+
+108
+00:07:03,745 --> 00:07:07,462
+can be combined to make more complex 
+waves has now been advanced into uses of 
+
+109
+00:07:07,462 --> 00:07:12,250
+the simpler little pieces of waves or 
+wavelengths. 
+
+110
+00:07:12,250 --> 00:07:16,471
+Rather than going on and on endlessly, as 
+a sign wave does, wavelets, or wave 
+
+111
+00:07:16,471 --> 00:07:20,540
+particles start and stop. 
+Why is that important? 
+
+112
+00:07:20,540 --> 00:07:23,990
+Because the mathematical description of a 
+sound wave in terms of sine waves is very 
+
+113
+00:07:23,990 --> 00:07:27,340
+cumbersome. 
+Where as the description in terms of 
+
+114
+00:07:27,340 --> 00:07:30,703
+wavelets is much simpler and new 
+applications for wavelets are always 
+
+115
+00:07:30,703 --> 00:07:34,780
+being developed. 
+The FBI uses wavelets to help encode 
+
+116
+00:07:34,780 --> 00:07:38,685
+their fingerprint database. 
+Wavelets are beginning to help with 
+
+117
+00:07:38,685 --> 00:07:42,188
+weather forecasting. 
+Keith Devlin, like so many other 
+
+118
+00:07:42,188 --> 00:07:45,968
+mathematicians, is excited to know that 
+new mathematics, like recently developed 
+
+119
+00:07:45,968 --> 00:07:49,748
+wavelet theory, are still being invented 
+as our new connections between different 
+
+120
+00:07:49,748 --> 00:07:53,096
+types of math, and of course, the new 
+high tech developments born out of all 
+
+121
+00:07:53,096 --> 00:07:58,275
+this. 
+ >> mathematics is invented all the 
+
+122
+00:07:58,275 --> 00:08:00,806
+time. 
+Most of the mathematical knowledge we 
+
+123
+00:08:00,806 --> 00:08:03,542
+have, over half the mathematical 
+knowledge we have, was invented by 
+
+124
+00:08:03,542 --> 00:08:08,780
+mathematicians who were living today. 
+Mathematics is an incredibly vibrant 
+
+125
+00:08:08,780 --> 00:08:11,095
+subject. 
+I like it, I'm excited by it, and I want 
+
+126
+00:08:11,095 --> 00:08:13,885
+to, there's a natural human instinct to 
+want to share your excitement with 
+
+127
+00:08:13,885 --> 00:08:17,249
+others. 
+So when I, when I wrote my book on New 
+
+128
+00:08:17,249 --> 00:08:20,401
+Mathematics, it was an attempt to convey 
+to others. 
+
+129
+00:08:20,401 --> 00:08:23,540
+First of all, that New Mathematics is 
+happening all the time. 
+
+130
+00:08:23,540 --> 00:08:26,350
+And secondly, that it's exciting, cool 
+stuff. 
+
+131
+00:08:26,350 --> 00:08:29,980
+And thirdly, and deliberately thirdly, 
+it's important stuff that will in fact 
+
+132
+00:08:29,980 --> 00:08:33,380
+effect everyone's lives 20 or 30 years 
+from now. 
+

@@ -1,0 +1,523 @@
+1
+00:00:00,2 --> 00:00:03,862
+ >> Okay, yes. 
+
+2
+00:00:03,862 --> 00:00:11,872
+ >> derivatives be a combination or use of 
+algorithms? 
+
+3
+00:00:11,872 --> 00:00:13,983
+ >> You mean in, in the terms of calculus? 
+
+4
+00:00:13,983 --> 00:00:14,760
+ >> [INAUDIBLE]. 
+
+5
+00:00:14,760 --> 00:00:16,830
+ >> Oh, actually I, one of the things I, I 
+
+6
+00:00:16,830 --> 00:00:19,778
+probably will do is do a half a session 
+on calculus. 
+
+7
+00:00:19,778 --> 00:00:23,618
+Because calculus is the, is the modern 
+technology well, without calculus we 
+
+8
+00:00:23,618 --> 00:00:27,478
+wouldn't have modern technology. 
+And calculus so I'm going to differ with 
+
+9
+00:00:27,478 --> 00:00:31,74
+detailed answer so I will definitely now 
+next week, if I'm going to talk about 
+
+10
+00:00:31,74 --> 00:00:34,66
+next week is calculus. 
+Because it needs, it needs more than a 
+
+11
+00:00:34,66 --> 00:00:38,180
+quick answer but let me give you a quick 
+answer any way because I'm on a roll now. 
+
+12
+00:00:38,180 --> 00:00:42,331
+Okay, 
+The brilliance of calculus and its 
+
+13
+00:00:42,331 --> 00:00:45,930
+absolutely brilliant is, it takes 
+something and its, its almost the same 
+
+14
+00:00:45,930 --> 00:00:49,354
+brilliance as algebra. 
+in that sort of take something that's 
+
+15
+00:00:49,354 --> 00:00:53,514
+intrinsically difficult in that case, 
+tedious because you're doing the same 
+
+16
+00:00:53,514 --> 00:00:57,930
+calculation many times and by[INAUDIBLE] 
+up the abstraction instead of having to 
+
+17
+00:00:57,930 --> 00:01:02,218
+do the same calculation many times, you 
+have a general method, a formula that you 
+
+18
+00:01:02,218 --> 00:01:06,257
+can just apply without thinking. 
+That's what calculus, calculus takes an 
+
+19
+00:01:06,257 --> 00:01:10,597
+incredibly difficult problem involving 
+rates of continuous change which when you 
+
+20
+00:01:10,597 --> 00:01:14,441
+analyze it involves talking about 
+infinitesimal increments, and things 
+
+21
+00:01:14,441 --> 00:01:18,781
+changing of infinitesimal amounts of time 
+gets very deep both philosophically and 
+
+22
+00:01:18,781 --> 00:01:22,687
+computationally in terms of[UNKNOWN] 
+conceptually Philosophically and 
+
+23
+00:01:22,687 --> 00:01:26,469
+conceptually difficult because you're 
+dealing with these infinitely, 
+
+24
+00:01:26,469 --> 00:01:28,774
+infinitesimally small things and so 
+forth. 
+
+25
+00:01:28,774 --> 00:01:31,860
+Okay. 
+Very challenging, very, very difficult. 
+
+26
+00:01:31,860 --> 00:01:35,450
+In the seventeenth century it was a major 
+headache for people to do it. 
+
+27
+00:01:35,450 --> 00:01:39,740
+Archimedes had struggled with it 
+thousands of years earlier, got results 
+
+28
+00:01:39,740 --> 00:01:43,766
+but it was very hard to understand 
+exactly what it meant, how to make sense 
+
+29
+00:01:43,766 --> 00:01:46,753
+of it. 
+What calculus does is take something 
+
+30
+00:01:46,753 --> 00:01:51,330
+extremely difficult, and turning it into 
+a mindless algorithm. 
+
+31
+00:01:51,330 --> 00:01:55,283
+Calculus is just a set of syntactic 
+rules, that allow you to work out the 
+
+32
+00:01:55,283 --> 00:01:58,90
+answers to things involving continuous 
+change. 
+
+33
+00:01:58,90 --> 00:02:01,360
+It took it from one end of the spectrum 
+to the other. 
+
+34
+00:02:01,360 --> 00:02:05,280
+Calculus starts with something that is 
+conceptually intellectual, unbelievably 
+
+35
+00:02:05,280 --> 00:02:08,220
+challenging. 
+The infinite is something that the human 
+
+36
+00:02:08,220 --> 00:02:12,120
+mind literally can't grasp, and yet it 
+rears its head as soon as you start 
+
+37
+00:02:12,120 --> 00:02:14,920
+looking at infinitesimal changes in 
+continuity. 
+
+38
+00:02:14,920 --> 00:02:19,795
+It takes that extremely deep stuff that 
+our minds can't fully wrap around, and 
+
+39
+00:02:19,795 --> 00:02:24,84
+reduces it to a completely mindless set 
+of symbolic manipulation. 
+
+40
+00:02:24,84 --> 00:02:28,510
+That is technology written large. 
+Take something complicated and would use 
+
+41
+00:02:28,510 --> 00:02:32,766
+it to something just push buttons. 
+Calculus was one of the World's first 
+
+42
+00:02:32,766 --> 00:02:36,872
+great conceptual technology. 
+Technology in a sense that it's a black 
+
+43
+00:02:36,872 --> 00:02:39,720
+box, you plug something in and the answer 
+comes out. 
+
+44
+00:02:39,720 --> 00:02:43,780
+Magic happens inside, Magic happens 
+inside Calculus. 
+
+45
+00:02:43,780 --> 00:02:47,598
+I became a mathematician when I met 
+Calculus in my last year of high school. 
+
+46
+00:02:47,598 --> 00:02:51,551
+I thought Calculus, I thought mathematics 
+was kinda[UNKNOWN], I was going to be a, 
+
+47
+00:02:51,551 --> 00:02:54,672
+I was going to go to university 
+Physicist, I wanted to do Physics. 
+
+48
+00:02:54,672 --> 00:02:56,670
+I went to high school when Sputnick went 
+up. 
+
+49
+00:02:56,670 --> 00:03:00,440
+I mean I thought space exploration all 
+this stuff so, so I went to univ, I was 
+
+50
+00:03:00,440 --> 00:03:03,745
+going to go to university to do physics. 
+Spent all my time doing physics, wasn't 
+
+51
+00:03:03,745 --> 00:03:06,326
+particularly good at mathematics. 
+Well, that's not true. 
+
+52
+00:03:06,326 --> 00:03:10,106
+I, I wasn't gifted at mathematics, but I 
+needed to do it for physics, so I put a 
+
+53
+00:03:10,106 --> 00:03:13,946
+lot of effort into any mathematics, which 
+I viewed as a set of tools that would 
+
+54
+00:03:13,946 --> 00:03:17,611
+help me in physics. 
+Then in after my first year of sixth form 
+
+55
+00:03:17,611 --> 00:03:21,990
+when I'm sort of 17, getting into the 
+last year of high school. 
+
+56
+00:03:21,990 --> 00:03:24,610
+We start doing calculus. 
+We started really doing calculus. 
+
+57
+00:03:24,610 --> 00:03:28,185
+I mean just looking at what the 
+definition of the derivative and so 
+
+58
+00:03:28,185 --> 00:03:30,714
+forth. 
+And I'm presented with this stuff that A, 
+
+59
+00:03:30,714 --> 00:03:33,850
+is obviously very powerful. 
+It allows you to calculate you know, 
+
+60
+00:03:33,850 --> 00:03:35,830
+where the moon's going to be 3 weeks from 
+now. 
+
+61
+00:03:35,830 --> 00:03:37,450
+It allows you to calculate all these 
+other things. 
+
+62
+00:03:37,450 --> 00:03:41,734
+It's going to, it allows you to calculate 
+what's going to happen to a spinning top 
+
+63
+00:03:41,734 --> 00:03:45,433
+when it starts to slow down. 
+It allows you to calculate all of these 
+
+64
+00:03:45,433 --> 00:03:49,459
+wonderful predictive things with 
+incredible accuracy, and yet I have no 
+
+65
+00:03:49,459 --> 00:03:52,672
+idea how it worked. 
+And for me to have something that was 
+
+66
+00:03:52,672 --> 00:03:57,157
+thrust upon me that was clearly powerful, 
+and worked, and in a sense was simple 
+
+67
+00:03:57,157 --> 00:04:01,642
+because you know you look that, a couple 
+of pages of the textbooks that is how it 
+
+68
+00:04:01,642 --> 00:04:04,530
+works. 
+Make no sense to me. 
+
+69
+00:04:04,530 --> 00:04:07,275
+And I'm that kind of guy who wants to 
+lift the hood up and see what's going on 
+
+70
+00:04:07,275 --> 00:04:09,108
+here. 
+so for me, what turned me into a 
+
+71
+00:04:09,108 --> 00:04:12,804
+mathematician, was realizing that there 
+was something powerful that I didn't 
+
+72
+00:04:12,804 --> 00:04:15,324
+understand. 
+And it took me many years to understand 
+
+73
+00:04:15,324 --> 00:04:17,620
+it, and by the time I did, I was a 
+mathematician. 
+
+74
+00:04:17,620 --> 00:04:21,439
+because once you've got it, it was funny, 
+because most of the other kids in the 
+
+75
+00:04:21,439 --> 00:04:24,700
+class, and, and at the beginning, my 
+teacher, said look. 
+
+76
+00:04:24,700 --> 00:04:28,630
+Here's the formula, if you differentiate 
+x to the n, you get nx to the n minus 1. 
+
+77
+00:04:28,630 --> 00:04:31,250
+Just use the sucker, and get the problem 
+solved. 
+
+78
+00:04:31,250 --> 00:04:34,962
+And I was that kid that kept saying, yeah 
+okay, but where did that formula come 
+
+79
+00:04:34,962 --> 00:04:38,450
+from, why does that formula work? 
+And I was the only kid in the class, 
+
+80
+00:04:38,450 --> 00:04:42,545
+including the teacher, actually, who 
+really worried about why that was the 
+
+81
+00:04:42,545 --> 00:04:44,864
+case. 
+you know, that was clear, that was the 
+
+82
+00:04:44,864 --> 00:04:47,992
+point where I became a mathemetician. 
+Because everybone else was content to 
+
+83
+00:04:47,992 --> 00:04:52,82
+just use it and get the answer. 
+And for me, the fact that they could that 
+
+84
+00:04:52,82 --> 00:04:55,640
+without understanding it, is what made it 
+interesting. 
+
+85
+00:04:55,640 --> 00:04:58,58
+because I wanted to know what Newton was 
+thinking when he came up with that thing 
+
+86
+00:04:58,58 --> 00:05:01,940
+or what[UNKNOWN] was thinking. 
+So I'll come back to that next week. 
+
+87
+00:05:01,940 --> 00:05:05,306
+It's really good question and it's a big 
+answer and it's the that our modern, and 
+
+88
+00:05:05,306 --> 00:05:08,220
+we're doing big themes. 
+We've already looked at numbers. 
+
+89
+00:05:08,220 --> 00:05:11,586
+What's the biggest invention that 
+mathematicians have produced that changed 
+
+90
+00:05:11,586 --> 00:05:14,340
+the world? 
+Hindu arabic numerals. 
+
+91
+00:05:14,340 --> 00:05:16,840
+That's fundamental to modern life for 
+everybody. 
+
+92
+00:05:16,840 --> 00:05:19,960
+So that was the biggest one I would say. 
+What's the next biggest one? 
+
+93
+00:05:19,960 --> 00:05:24,110
+Probably algebra, which is more efficient 
+ways of dealing with numbers. 
+
+94
+00:05:24,110 --> 00:05:27,78
+And the next one's going to be calculus 
+because that gives us, because the first 
+
+95
+00:05:27,78 --> 00:05:30,311
+one gives us all our commerce in our 
+financial business, in our, you know, 
+
+96
+00:05:30,311 --> 00:05:33,100
+quantative stuff, money, began with 
+money, as far as we know. 
+
+97
+00:05:33,100 --> 00:05:37,130
+All of that comes on from the numbers, 
+and on the other side we've got calculus, 
+
+98
+00:05:37,130 --> 00:05:39,920
+that gives us all our modern science and 
+technology. 
+
+99
+00:05:39,920 --> 00:05:43,988
+So these are big, big themes. 
+okay. 
+
+100
+00:05:43,988 --> 00:05:47,816
+That was slightly more than a little 
+digression, but I'll come back to 
+
+101
+00:05:47,816 --> 00:05:50,980
+calculus next time. 
+Okay, shall we take a break now? 
+
+102
+00:05:50,980 --> 00:05:56,104
+Let's take a break now and then we'll 
+come back, and we'll talk about how we 
+
+103
+00:05:56,104 --> 00:05:59,272
+[INAUDIBLE] count the votes in an 
+election. 
+
+104
+00:05:59,272 --> 00:06:02,219
+[MUSIC] 
+
+105
+00:06:02,219 --> 00:06:02,650
+. 
+
+106
+00:06:02,650 --> 00:06:05,373
+ >> Stanford University. 
+

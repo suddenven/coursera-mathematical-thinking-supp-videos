@@ -1,0 +1,97 @@
+[BLANK_AUDIO]. 
+[MUSIC]. 
+Most of us encounter probabilities in 
+games of chance. 
+If a die is rolled a great many times, 
+then on average the one will come up one 
+sixth of the time. 
+Its probability is one sixth. 
+The basic mathematics of calculating 
+probabilities was worked out by the 
+French mathematicians Fermat and Pascal 
+in the seventeenth century. 
+Bayes added an intriguing new twist to 
+that theory. 
+He showed how what you already know can 
+change the odds. 
+[MUSIC]. 
+ >> These people, dressed as they are, 
+come from all over the United States to 
+make deals here in the marketplace of 
+America, Let's Make A Deal. 
+And now here's America's top trader, TV's 
+big dealer, Monte Hall. 
+[NOISE]. 
+ >> One way to understand Bayes' idea is 
+by considering the probability puzzle 
+first by the contestants in the popular 
+1950s TV game show, Let's Make a Deal. 
+ >> [INAUDIBLE] it's time for the big 
+deal.And the big deal tonight 
+is[CROSSTALK]. 
+ >> Each week, at a particular moment in 
+the show, the host, Monty Hall, asked the 
+contestant to guess which of the three 
+doors concealed a prize[CROSSTALK]. 
+ >> Door Number 2, Door Number 3, which 
+one would you like? 
+ >> Let's say you choose Door 1. 
+You have a one third probability of 
+winning. 
+And that's exactly the same for the other 
+two doors. 
+Here's where it gets interesting. 
+Monty Hall doesn't let you open your 
+door. 
+Instead, he opens of the other two doors. 
+Say, Door 3, revealing an empty space. 
+Now, he asks you if you want to change 
+your choice, from Door 1 to Door 2. 
+So, what do you do? 
+Do you stick with your original choice or 
+do you switch? 
+If you think it makes no difference, then 
+you're wrong. 
+If you switch, it actually doubles your 
+chance of being right. 
+Here's why. 
+When you choose Door 1, the probability 
+the prize is behind it, is one third. 
+That means the chance that the prize is 
+behind one of the other two doors is one 
+third plus one third or two thirds. 
+When Monte Hall eliminates Door 3, those 
+odds pass to Door 2 alone. 
+Thus, switching from Door 1 to Door 2 
+doubles your chances of winning. 
+[MUSIC]. 
+ >> Yes, that represents a $50 gift 
+certificate from Big Boy Family 
+Restaurants. 
+Famous for their original[CROSSTALK]. 
+ >> Bayes would have had no problem 
+explaining what's happened. 
+It's all to do with prior information. 
+Because the host knows which door has the 
+prize behind it, and opens one that 
+doesn't, this knowledge changes the odds. 
+[SOUND]. 
+Not convinced? 
+[MUSIC]. 
+Well try the puzzle again with a 100 
+doors. 
+Let's say you choose door 33. 
+Now, the host opens all the remaining 
+doors except one. 
+Would you still stick or would you 
+switch? 
+The chance of your guess being right is 
+only 1 in a 100. 
+But as Bayes would tell you, the host's 
+knowledge has changed the odds for the 
+remaining door to 99 hundreths. 
+It's tricky, isn't it? 
+What this shows is that it can be hard 
+figuring the odds when someone has prior 
+knowledge. 
+

@@ -1,0 +1,497 @@
+1
+00:00:00,12 --> 00:00:05,886
+Now here, and this also goes for, for 
+most of Europe, western Europe at least 
+
+2
+00:00:05,886 --> 00:00:10,826
+certainly for these countries that are 
+essentially capitalist. 
+
+3
+00:00:10,826 --> 00:00:15,630
+we build our number system on commerce 
+and trade. 
+
+4
+00:00:15,630 --> 00:00:18,779
+Okay, we start with counting numbers and 
+elementary arithmetic. 
+
+5
+00:00:19,820 --> 00:00:22,930
+And this is typically how we teach kids 
+in, in arithmetic. 
+
+6
+00:00:22,930 --> 00:00:27,602
+Then we proceed to fractions, then we 
+introduce negative numbers as best you 
+
+7
+00:00:27,602 --> 00:00:31,296
+can, it's tricky that one. 
+Smart kids ask questions that are very 
+
+8
+00:00:31,296 --> 00:00:34,998
+difficult to answer. 
+then we slip in real numbers under the 
+
+9
+00:00:34,998 --> 00:00:39,108
+heading algebra, we just, we pretend 
+there's not a problem there. 
+
+10
+00:00:39,108 --> 00:00:44,113
+And from the point of view of a teacher 
+the first step is pretty good, there were 
+
+11
+00:00:44,113 --> 00:00:48,360
+good metaphors for counting, I mean, you 
+list all you can't count. 
+
+12
+00:00:48,360 --> 00:00:51,40
+You can think of all sorts of metaphors 
+for dealing with positive numbers. 
+
+13
+00:00:51,40 --> 00:00:54,926
+fractions is pretty good, you can talk 
+about breaking things away, I mean you 
+
+14
+00:00:54,926 --> 00:00:58,580
+know, American mathematics book are 
+talking about pizzas, but I guess that 
+
+15
+00:00:58,580 --> 00:01:02,100
+reflects just American diet. 
+European text books we, we cut up 
+
+16
+00:01:02,100 --> 00:01:06,130
+straight lines, and squares, and 
+rectangles, and pies, actually we don't 
+
+17
+00:01:06,130 --> 00:01:10,120
+cut up pizzas in Europe, we cut up pies. 
+Which is misleading, because pie tends to 
+
+18
+00:01:10,120 --> 00:01:14,12
+mean something else, but anyway. 
+but there are good metaphors about 
+
+19
+00:01:14,12 --> 00:01:18,279
+sharing out infractions. 
+maybe the numbers are sort of, you, you 
+
+20
+00:01:18,279 --> 00:01:23,650
+read all sorts of weird stuff about, 
+helium balloons on balances, and things. 
+
+21
+00:01:23,650 --> 00:01:27,458
+which is a really weak and misleading 
+metaphor, but anyway, there's, there's 
+
+22
+00:01:27,458 --> 00:01:29,980
+also some problems here, and and kids 
+sort of get lost. 
+
+23
+00:01:29,980 --> 00:01:33,756
+And, many in[UNKNOWN] has enormous 
+trouble really knowing what negative 
+
+24
+00:01:33,756 --> 00:01:37,473
+numbers are, you know, minus times minus 
+equals plus the reason why we won't 
+
+25
+00:01:37,473 --> 00:01:40,978
+discuss. 
+[LAUGH] it was, it was[UNKNOWN] I think 
+
+26
+00:01:40,978 --> 00:01:43,917
+it was. 
+[NOISE] And in fact, most people actually 
+
+27
+00:01:43,917 --> 00:01:47,830
+can't give a good explanation of why 
+minus one times minus one is plus one. 
+
+28
+00:01:47,830 --> 00:01:50,350
+And it's not 'cuz they're stupid, it's 
+because it's actually kind of a tricky 
+
+29
+00:01:50,350 --> 00:01:53,214
+thing to do. 
+and this one, this is the famous don't 
+
+30
+00:01:53,214 --> 00:01:56,422
+ask, don't tell policy. 
+You just don't raise the issue, you just 
+
+31
+00:01:56,422 --> 00:01:59,810
+say, well, there's no problem here, we 
+just have these continuous lines. 
+
+32
+00:01:59,810 --> 00:02:03,857
+and, and then students get to university, 
+and they look at the construction of the 
+
+33
+00:02:03,857 --> 00:02:07,505
+real numbers from the rational numbers 
+they think,[SOUND] I'm not going to be a 
+
+34
+00:02:07,505 --> 00:02:11,106
+mathematician. 
+[COUGH] OK and that's more or less a 
+
+35
+00:02:11,106 --> 00:02:17,109
+historical thread, starting in Sumeria 
+and going through sort of commerce driven 
+
+36
+00:02:17,109 --> 00:02:19,984
+society. 
+In fact, the rest of today's lecture is 
+
+37
+00:02:19,984 --> 00:02:24,724
+going to be about how it came. 
+The Western Europe and then the United 
+
+38
+00:02:24,724 --> 00:02:28,900
+States was the dominant economic power 
+for many centuries. 
+
+39
+00:02:28,900 --> 00:02:33,170
+Why is the word banking from an Italian 
+word, why is the word policy from an 
+
+40
+00:02:33,170 --> 00:02:37,790
+Italian word, why is double entry book 
+keeping coming out of Italy. 
+
+41
+00:02:37,790 --> 00:02:42,130
+Why are financial districts often called 
+long bad street, why is all of the 
+
+42
+00:02:42,130 --> 00:02:47,100
+terminology about banking and finance and 
+insurance and international trip, why is 
+
+43
+00:02:47,100 --> 00:02:50,229
+so much of that Italian? 
+I'll come to that in the second half of 
+
+44
+00:02:50,229 --> 00:02:53,94
+the lecture. 
+That was a case where mathematics really 
+
+45
+00:02:53,94 --> 00:02:57,384
+drove modern society and gave dominance 
+to first Italy and then Germany, then 
+
+46
+00:02:57,384 --> 00:03:02,745
+Western Europe and then Unites States. 
+And just took over from the rest of the 
+
+47
+00:03:02,745 --> 00:03:05,220
+world in economics. 
+And with it, science as well. 
+
+48
+00:03:05,220 --> 00:03:11,220
+Why is it that Galileo was in Pisa? 
+Just it, why did it all happen in Italy? 
+
+49
+00:03:11,220 --> 00:03:15,2
+Something happened there. 
+Well, several things happened, but, one 
+
+50
+00:03:15,2 --> 00:03:18,588
+of them was to do with the, with this 
+sequence of learning. 
+
+51
+00:03:18,588 --> 00:03:21,564
+But there's another way you could learn 
+about[INAUDIBLE] , the[UNKNOWN] 
+
+52
+00:03:21,564 --> 00:03:24,150
+educational system. 
+And this one was developed in the Soviet 
+
+53
+00:03:24,150 --> 00:03:26,562
+Union. 
+I'm not sure if it's still used very much 
+
+54
+00:03:26,562 --> 00:03:29,853
+in Russia,[COUGH] . 
+this is known as the, the Davydov 
+
+55
+00:03:29,853 --> 00:03:33,292
+curriculum. 
+who was a Russian psychologist and 
+
+56
+00:03:33,292 --> 00:03:36,314
+educator. 
+Died not, not that long ago, Vasily 
+
+57
+00:03:36,314 --> 00:03:39,944
+Davydov. 
+And he said we should start with the, you 
+
+58
+00:03:39,944 --> 00:03:43,830
+see, the problem with that last picture 
+was going from the rationals, what, the, 
+
+59
+00:03:43,830 --> 00:03:47,310
+the negative numbers is a problem, but 
+going to the real numbers is a real 
+
+60
+00:03:47,310 --> 00:03:49,370
+problem. 
+You've got the don't ask, don't tell 
+
+61
+00:03:49,370 --> 00:03:52,856
+policy. 
+It's really very difficult conceptually, 
+
+62
+00:03:52,856 --> 00:03:58,532
+and he said, we've got a concept of, of 
+measurement, that predates, by hundreds 
+
+63
+00:03:58,532 --> 00:04:04,210
+of thousands of years, counting, namely, 
+measurements of lengths and things. 
+
+64
+00:04:04,210 --> 00:04:06,880
+Most creatures have a sense of distance 
+and length. 
+
+65
+00:04:06,880 --> 00:04:11,344
+They use it to sort of catch prey, to 
+swing from tree to tree, I mean, there's 
+
+66
+00:04:11,344 --> 00:04:16,96
+an innate sense of distance, in many 
+creatures, much more sophisticated than a 
+
+67
+00:04:16,96 --> 00:04:20,326
+sense of con, of con, of counting. 
+Counting is, discreet counting is much 
+
+68
+00:04:20,326 --> 00:04:22,702
+more restrictive in the, in the animal 
+world. 
+
+69
+00:04:22,702 --> 00:04:27,566
+Okay, so, most creatures, including 
+humans, have this very rich sense of, of 
+
+70
+00:04:27,566 --> 00:04:31,592
+quantative measurement. 
+He said we should build our number system 
+
+71
+00:04:31,592 --> 00:04:35,536
+and, we should begin with the real 
+numbers, and with algebra, and then 
+
+72
+00:04:35,536 --> 00:04:38,896
+arithmetic will drop out as a special 
+case, which is true. 
+
+73
+00:04:38,896 --> 00:04:44,209
+because when you have the real numbers, 
+the natural numbers are just points on a 
+
+74
+00:04:44,209 --> 00:04:48,10
+line, and it's just a particular instance 
+of these things. 
+
+75
+00:04:48,10 --> 00:04:54,107
+So he said it's better to begin with this 
+rich sense of distance and volume that we 
+
+76
+00:04:54,107 --> 00:04:58,714
+had for a millennia. 
+[COUGH] and in building a curriculum he 
+
+77
+00:04:58,714 --> 00:05:04,275
+took Vygotsky's ideas and talked about 
+spontaneous concepts by scientific 
+
+78
+00:05:04,275 --> 00:05:09,338
+concepts and these are all technical 
+terms, which I won't go into details 
+
+79
+00:05:09,338 --> 00:05:13,810
+about but we can chat about them offline 
+sometime. 
+
+80
+00:05:13,810 --> 00:05:17,806
+Spontaneous concepts, when children just 
+abstract from everyday experiences. 
+
+81
+00:05:17,806 --> 00:05:23,330
+But human beings don't just abstract, 
+they theorize. 
+
+82
+00:05:23,330 --> 00:05:26,368
+And they can theorize from a very early 
+age, and in fact they do, I mean, very 
+
+83
+00:05:26,368 --> 00:05:30,50
+young children theorize a lot of things. 
+They form theories at a very early age. 
+
+84
+00:05:30,50 --> 00:05:34,850
+And he says with a bit of, with a bit of 
+nudging, you can take those ideas, of the 
+
+85
+00:05:34,850 --> 00:05:39,266
+theorizing capacity and develop what he 
+calls scientific concepts. 
+
+86
+00:05:39,266 --> 00:05:44,130
+And this allows you to build a curriculum 
+in which you get very naturally, at a 
+
+87
+00:05:44,130 --> 00:05:47,950
+very early age, from the age of something 
+like six to eight. 
+
+88
+00:05:47,950 --> 00:05:52,600
+You can begin by doing algebra and 
+solving equations, and then arithmetic 
+
+89
+00:05:52,600 --> 00:05:56,248
+follows special cases. 
+If you are interested, I have a, an 
+
+90
+00:05:56,248 --> 00:05:59,130
+online column called Devling's Angle that 
+the MEA. 
+
+91
+00:05:59,130 --> 00:06:05,998
+If you just type Devling's Angle and you 
+go back to 2008, 2009, Christmas around 
+
+92
+00:06:05,998 --> 00:06:09,289
+2008, 2007. 
+I actually had two articles on these. 
+
+93
+00:06:09,289 --> 00:06:11,360
+it's actually hard to find much about 
+this. 
+
+94
+00:06:11,360 --> 00:06:15,570
+This is written about a lot in the 
+educational research literature. 
+
+95
+00:06:15,570 --> 00:06:20,466
+my two articles are almost the only 
+articles I've seen and come across that 
+
+96
+00:06:20,466 --> 00:06:23,894
+tries to explain these things to a 
+general audience. 
+
+97
+00:06:23,894 --> 00:06:28,997
+But there's another way, and so these 
+different cognitions can be taken 
+
+98
+00:06:28,997 --> 00:06:31,855
+advantage of for educational purposes. 
+
+99
+00:06:31,855 --> 00:06:34,151
+[MUSIC] 
+
+100
+00:06:34,151 --> 00:06:40,403
+Stanford University. 
+

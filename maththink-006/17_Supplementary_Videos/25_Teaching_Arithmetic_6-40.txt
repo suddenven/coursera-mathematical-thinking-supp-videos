@@ -1,0 +1,198 @@
+Now here, and this also goes for, for 
+most of Europe, western Europe at least 
+certainly for these countries that are 
+essentially capitalist. 
+we build our number system on commerce 
+and trade. 
+Okay, we start with counting numbers and 
+elementary arithmetic. 
+And this is typically how we teach kids 
+in, in arithmetic. 
+Then we proceed to fractions, then we 
+introduce negative numbers as best you 
+can, it's tricky that one. 
+Smart kids ask questions that are very 
+difficult to answer. 
+then we slip in real numbers under the 
+heading algebra, we just, we pretend 
+there's not a problem there. 
+And from the point of view of a teacher 
+the first step is pretty good, there were 
+good metaphors for counting, I mean, you 
+list all you can't count. 
+You can think of all sorts of metaphors 
+for dealing with positive numbers. 
+fractions is pretty good, you can talk 
+about breaking things away, I mean you 
+know, American mathematics book are 
+talking about pizzas, but I guess that 
+reflects just American diet. 
+European text books we, we cut up 
+straight lines, and squares, and 
+rectangles, and pies, actually we don't 
+cut up pizzas in Europe, we cut up pies. 
+Which is misleading, because pie tends to 
+mean something else, but anyway. 
+but there are good metaphors about 
+sharing out infractions. 
+maybe the numbers are sort of, you, you 
+read all sorts of weird stuff about, 
+helium balloons on balances, and things. 
+which is a really weak and misleading 
+metaphor, but anyway, there's, there's 
+also some problems here, and and kids 
+sort of get lost. 
+And, many in[UNKNOWN] has enormous 
+trouble really knowing what negative 
+numbers are, you know, minus times minus 
+equals plus the reason why we won't 
+discuss. 
+[LAUGH] it was, it was[UNKNOWN] I think 
+it was. 
+[NOISE] And in fact, most people actually 
+can't give a good explanation of why 
+minus one times minus one is plus one. 
+And it's not 'cuz they're stupid, it's 
+because it's actually kind of a tricky 
+thing to do. 
+and this one, this is the famous don't 
+ask, don't tell policy. 
+You just don't raise the issue, you just 
+say, well, there's no problem here, we 
+just have these continuous lines. 
+and, and then students get to university, 
+and they look at the construction of the 
+real numbers from the rational numbers 
+they think,[SOUND] I'm not going to be a 
+mathematician. 
+[COUGH] OK and that's more or less a 
+historical thread, starting in Sumeria 
+and going through sort of commerce driven 
+society. 
+In fact, the rest of today's lecture is 
+going to be about how it came. 
+The Western Europe and then the United 
+States was the dominant economic power 
+for many centuries. 
+Why is the word banking from an Italian 
+word, why is the word policy from an 
+Italian word, why is double entry book 
+keeping coming out of Italy. 
+Why are financial districts often called 
+long bad street, why is all of the 
+terminology about banking and finance and 
+insurance and international trip, why is 
+so much of that Italian? 
+I'll come to that in the second half of 
+the lecture. 
+That was a case where mathematics really 
+drove modern society and gave dominance 
+to first Italy and then Germany, then 
+Western Europe and then Unites States. 
+And just took over from the rest of the 
+world in economics. 
+And with it, science as well. 
+Why is it that Galileo was in Pisa? 
+Just it, why did it all happen in Italy? 
+Something happened there. 
+Well, several things happened, but, one 
+of them was to do with the, with this 
+sequence of learning. 
+But there's another way you could learn 
+about[INAUDIBLE] , the[UNKNOWN] 
+educational system. 
+And this one was developed in the Soviet 
+Union. 
+I'm not sure if it's still used very much 
+in Russia,[COUGH] . 
+this is known as the, the Davydov 
+curriculum. 
+who was a Russian psychologist and 
+educator. 
+Died not, not that long ago, Vasily 
+Davydov. 
+And he said we should start with the, you 
+see, the problem with that last picture 
+was going from the rationals, what, the, 
+the negative numbers is a problem, but 
+going to the real numbers is a real 
+problem. 
+You've got the don't ask, don't tell 
+policy. 
+It's really very difficult conceptually, 
+and he said, we've got a concept of, of 
+measurement, that predates, by hundreds 
+of thousands of years, counting, namely, 
+measurements of lengths and things. 
+Most creatures have a sense of distance 
+and length. 
+They use it to sort of catch prey, to 
+swing from tree to tree, I mean, there's 
+an innate sense of distance, in many 
+creatures, much more sophisticated than a 
+sense of con, of con, of counting. 
+Counting is, discreet counting is much 
+more restrictive in the, in the animal 
+world. 
+Okay, so, most creatures, including 
+humans, have this very rich sense of, of 
+quantative measurement. 
+He said we should build our number system 
+and, we should begin with the real 
+numbers, and with algebra, and then 
+arithmetic will drop out as a special 
+case, which is true. 
+because when you have the real numbers, 
+the natural numbers are just points on a 
+line, and it's just a particular instance 
+of these things. 
+So he said it's better to begin with this 
+rich sense of distance and volume that we 
+had for a millennia. 
+[COUGH] and in building a curriculum he 
+took Vygotsky's ideas and talked about 
+spontaneous concepts by scientific 
+concepts and these are all technical 
+terms, which I won't go into details 
+about but we can chat about them offline 
+sometime. 
+Spontaneous concepts, when children just 
+abstract from everyday experiences. 
+But human beings don't just abstract, 
+they theorize. 
+And they can theorize from a very early 
+age, and in fact they do, I mean, very 
+young children theorize a lot of things. 
+They form theories at a very early age. 
+And he says with a bit of, with a bit of 
+nudging, you can take those ideas, of the 
+theorizing capacity and develop what he 
+calls scientific concepts. 
+And this allows you to build a curriculum 
+in which you get very naturally, at a 
+very early age, from the age of something 
+like six to eight. 
+You can begin by doing algebra and 
+solving equations, and then arithmetic 
+follows special cases. 
+If you are interested, I have a, an 
+online column called Devling's Angle that 
+the MEA. 
+If you just type Devling's Angle and you 
+go back to 2008, 2009, Christmas around 
+2008, 2007. 
+I actually had two articles on these. 
+it's actually hard to find much about 
+this. 
+This is written about a lot in the 
+educational research literature. 
+my two articles are almost the only 
+articles I've seen and come across that 
+tries to explain these things to a 
+general audience. 
+But there's another way, and so these 
+different cognitions can be taken 
+advantage of for educational purposes. 
+[MUSIC] 
+Stanford University. 
+

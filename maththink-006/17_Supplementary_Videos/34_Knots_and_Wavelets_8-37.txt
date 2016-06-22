@@ -1,0 +1,264 @@
+[MUSIC]. 
+I live and breath mathematics. 
+I'm aware of the fact that mathematics is 
+been invented all the time. 
+And yet, I meet people regularly at 
+parties and elsewhere who say, well, you 
+know, what's the interest in mathematics? 
+Didn't the Greeks sort of finish that 
+2,000 years ago? 
+And you know, I think, oh my goodness, 
+no. 
+ >> Stanford University Mathematician 
+Keith Devlin knows that there are many 
+reasons to be excited about math, and the 
+new ways math is being used today, 
+something called knot theory for example. 
+ >> Knot theory actually begins in the 
+middle of the nineteenth century and it's 
+what the name suggests. 
+It's the mathematical study of knots. 
+The kind of knots you tie in a piece of 
+string. 
+And what distinguishes one knot from 
+another knot is the pattern whereby you 
+wrap the string around itself. 
+But then, in the 1980s, biologists 
+started to team up with mathematicians, 
+not to think about the kind of knots that 
+tie them that we can tie in pieces of 
+string. 
+But to look at the knots in which our own 
+DNA wraps itself, when it gets inside the 
+cell, when it, when it lives inside the 
+cell, and what a virus does to, to, to 
+sort of manipulate that knot pattern. 
+And so, it, it's, it's close to the stage 
+now where peoples' lives will be saved 
+because mathematicians who know about 
+knot theory have teamed up with 
+biologists to look at the fundamental. 
+Maybe, maybe some of the most fundamental 
+knots that there are, the knots that are 
+right down inside our own cells. 
+ >> Devlin spreads the word while 
+wearing many hats. 
+Math professor, radio personality, 
+television content adviser, author, and 
+lecturer. 
+ >> I've already mentioned the iPod 
+designed just down the road here in sunny 
+Cupertino. 
+well, those guys are geeks, down the 
+road. 
+They are the kind of geeks that 
+understand this kind of stuff. 
+So the Fourier's theory that's part of 
+the mathematics, behind what's going on 
+in the you know, and you know, and these 
+guys now, you, you've got 60 gigabyte 
+memories in some of these things. 
+That's enormous amount of storage. 
+You can store movies in some, not this 
+one, but a bigger one, you can store 
+movies in some of these. 
+That's because of very, very effective 
+compression techniques. 
+What these things store isn't music or 
+videos, it's numbers, billions and 
+billions of numbers. 
+ >> When you're listening to your 
+favorite song, it's easy to forget that 
+math is behind what makes digital music 
+devices and similar technology work. 
+But just what specific mathematical 
+innovation makes this great escape 
+possible? 
+An important one is wavelet theory, 
+another form of new math. 
+ >> A wavelet is a very, very simple 
+short little wave that will consist of 
+maybe one little blip or just a couple of 
+blips that can be described by a simple 
+mathematical formula. 
+ >> If this doesn't look simple, it's 
+because simplicity is relative. 
+Equations for curves can be much more 
+complex. 
+ >> Wavelets were first discovered, or 
+invented if you like, early in the 
+twentieth century. 
+But it was only in the 1980s or 90s that 
+mathematicians began to develop methods 
+for dealing with wavelets that allows us 
+to take these days, a sound wave, it 
+could be a rock group or a two hundred 
+piece orchestra. 
+And reduce them to a mathematical 
+combination of these little individual 
+wavelets as they're called, which are 
+little pieces of waves that don't keep 
+going on forever. 
+Actually, what's happening is you're 
+hearing music that's been created right 
+there, especially for you. 
+Because what's stored inside the device 
+Is instructions, it's an instruction set 
+to recreate that music. 
+That instruction set is written in the 
+language of mathematics, because the 
+information that's stored in order to 
+recreate the music is actually hundreds, 
+thousands, maybe millions and billions of 
+numbers. 
+One way to think about wavelets and how 
+they're used is to think in terms of 
+building a house. 
+If I were to give you, say five or six 
+different kinds of bricks, then you know 
+and I know that you could go and find an 
+architect who could use those [UNKNOWN] 
+different types of bricks to build houses 
+of all sizes and all shapes, because it's 
+all a matter of how you put those bricks 
+together. 
+Wavelet theory is essentially the same. 
+It shows you how you can take any sound 
+wave or any video signal, any, any image, 
+and how you can build it up from 
+individual little building blocks. 
+In this case, the building blocks are 
+little graphical waves. 
+ >> [MUSIC] And although, wavelet theory 
+was developed only decades ago, a short 
+time in the history of mathematics ideas, 
+it was French mathematician Joseph 
+Fourier who paved the way in the early 
+1800s. 
+ >> He showed that if you take any sound 
+wave, actually any kind of wave 
+whatsoever, you can split it up into 
+component sine waves. 
+A sine wave is the simple up down wave 
+that you get when you hit a tuning fork. 
+You can take any sound wave and split 
+that up into individual components. 
+You need a lot of them, hundreds or 
+thousands of them. 
+Actually, the mathematics says you need 
+infinitely many of them. 
+What Fourier assured, was that if you 
+take a sound wave, a complicated wave 
+like this one right on the top here, you 
+can actually make that by taking very, 
+very many sound waves. 
+Like the one at the bottom of different 
+amplitudes and frequencies, add them all 
+together, and get the complicated sound 
+wave that we see here. 
+So, this complicated sound wave at the 
+top can actually be built out of 
+components, all of which looks like this 
+one on the bottom. 
+ >> It's like the sound of a choir. 
+When you listen to many people singing 
+together, you hear a group of voices in 
+unison. 
+In effect, a single sound. 
+Of course, what you're listening to is 
+not just a single sound, it's made up of 
+dozens of voices. 
+If you are able to hear each of these 
+singers separately, you could pick out 
+one person's voice. 
+The unified sound illustrates the basis 
+of Fourier's theory. 
+ >> [MUSIC] Another way to get a handle 
+on Fourier's theory is to use the tuning 
+fork. 
+We'll hit the tuning fork, and if you 
+look on the oscilloscope screen, what 
+you're getting is an image, a visual 
+image of the sound. 
+And because it's a turning fork making a 
+pure sound, a pure note, what we're 
+seeing is a sine curve. 
+If we were to take a whole bunch of 
+tuning forks and put them together, then 
+we would be able to create any sound we 
+wanted to if we did it the right way. 
+For example, if I take another tuning 
+fork and I hit the tuning fork, it's a 
+different size tuning fork, I'm getting a 
+different sound. 
+ >> If you look at the oscilloscope 
+tracings from both turning forks 
+together, you can see how the second wave 
+looks like it's moving faster to the 
+left. 
+[MUSIC] This is due to its slightly 
+greater frequency, but it's still a sine 
+curve. 
+ >> It's because the wave changes in its 
+dimensions that when you put them 
+together, when you put lots of them 
+together, what results is not just one 
+big sine curve. 
+But actually, one very complicated curve 
+with all sorts of different wiggles in 
+it, that when you play it back could be 
+indeed Beethoven's ninth symphony. 
+ >> That's part of the basis for today's 
+digital music players. 
+But Fourier's discovery of how sine waves 
+can be combined to make more complex 
+waves has now been advanced into uses of 
+the simpler little pieces of waves or 
+wavelengths. 
+Rather than going on and on endlessly, as 
+a sign wave does, wavelets, or wave 
+particles start and stop. 
+Why is that important? 
+Because the mathematical description of a 
+sound wave in terms of sine waves is very 
+cumbersome. 
+Where as the description in terms of 
+wavelets is much simpler and new 
+applications for wavelets are always 
+being developed. 
+The FBI uses wavelets to help encode 
+their fingerprint database. 
+Wavelets are beginning to help with 
+weather forecasting. 
+Keith Devlin, like so many other 
+mathematicians, is excited to know that 
+new mathematics, like recently developed 
+wavelet theory, are still being invented 
+as our new connections between different 
+types of math, and of course, the new 
+high tech developments born out of all 
+this. 
+ >> mathematics is invented all the 
+time. 
+Most of the mathematical knowledge we 
+have, over half the mathematical 
+knowledge we have, was invented by 
+mathematicians who were living today. 
+Mathematics is an incredibly vibrant 
+subject. 
+I like it, I'm excited by it, and I want 
+to, there's a natural human instinct to 
+want to share your excitement with 
+others. 
+So when I, when I wrote my book on New 
+Mathematics, it was an attempt to convey 
+to others. 
+First of all, that New Mathematics is 
+happening all the time. 
+And secondly, that it's exciting, cool 
+stuff. 
+And thirdly, and deliberately thirdly, 
+it's important stuff that will in fact 
+effect everyone's lives 20 or 30 years 
+from now. 
+

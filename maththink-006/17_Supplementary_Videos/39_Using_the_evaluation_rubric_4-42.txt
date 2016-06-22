@@ -1,0 +1,127 @@
+In this video, I'll show you a little
+about using the course evaluation rubric.
+The most common use of an evaluation
+rubric is to achieve uniformity in
+grades when a team of experts is grading a
+large collection of examinations.
+The goal is to assign a reliable grade to
+each candidate's work.
+In particular, it's assumed that the
+people doing the evaluation are
+experienced graders.
+In this course, we are using a rubric in a
+very different way.
+Not to help experts produce a reliable
+grade of a piece of work.
+But as a mechanism to help beginners learn
+about proofs.
+If you look at the rubric for the course,
+you'll see
+that it asks you to consider five
+different features of proofs.
+Logical correctness, clarity, opening,
+stating the conclusion, and reasons.
+I'll come to the sixth category later by
+the way.
+These are all important features of
+proofs.
+And for pedagogic reasons, are given equal
+weight.
+Here's why.
+As
+I state repeatedly throughout the course,
+proofs do much
+more than simply establish that some
+statement is true.
+Actually, in practice, they don't really
+do that.
+They simply provide evidence that
+convinces
+a reasonable person with sufficient
+background knowledge.
+But let's leave that issue for now.
+If you look at the role played by proofs
+in
+mathematics, you discover that just as
+important as logical correctness,
+is the understandability of the proof by
+an intended reader.
+In fact, in practical terms,
+understandablity's
+[LAUGH] more important than logical
+correctness.
+There's probably no modern proof of more
+than a few
+pages that does not initially have a
+logical flaw buried somewhere.
+What makes proofs useful is as others can
+not only detect errors.
+But also have enough information to try to
+correct them.
+Proofs are as much about communication as
+establishing truths.
+Because we have to use simple examples to
+develop
+proof evaluation skills, in most of the
+examples you
+see, one or more of the rubric criteria
+would
+apply only in a simplistic way, if at all.
+But in more complicated examples, they
+will all be important.
+That's why the five criteria carry equal
+weights.
+When you evaluate arguments, you should
+view them in terms of
+each of the five rubric criteria in turn,
+on an equal footing.
+True, experts rarely use rubrics.
+They are so familiar with the proof
+concept, that they
+automatically and holistically judge in
+terms of all those perspectives.
+For a beginner, the rubric breaks up the
+task of judging the overall quality of a
+proof.
+To judging those five aspects in turn.
+Each of those five is considerably simpler
+to do than the entire task.
+But you still find it difficult.
+After you've judged the proof in terms of
+the five proof characteristics, the rubric
+asks you to bring them all together to
+produce a single grade for the proof.
+This is the number you would enter if your
+task
+were to assign a single numerical grade to
+someone's proof.
+It corresponds to the number an expert,
+working without a rubric would assign.
+The rubric is designed assist you, as a
+beginner, to arrive at that final grade.
+Incidentally, when you're evaluating the
+work of another
+student, as you would in test flight if
+you
+do it, you do owe it to that student to be
+as fair and accurate as possible.
+But no one expects accuracy from someone
+who's just beginning to learn about
+proofs.
+Because everyone's work is evaluated by
+three fellow students, all anonymously
+by the way, with a reported grade computed
+from those three grades
+plus the individual's own self grade.
+It turns out that most of the time, the
+final grade is pretty good.
+Nevertheless, the real purpose of the test
+flight evaluation process is that it
+offers tremendous
+benefits to the evaluator in coming to a
+better appreciation of what makes a good
+proof.
+In simple terms, in this course, the
+grading is primarily for
+the benefits of the grader.
+

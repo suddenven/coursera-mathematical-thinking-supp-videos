@@ -1,0 +1,1058 @@
+1
+00:00:00,012 --> 00:00:03,846
+.
+>> So Paul and Keith and I are together to
+
+2
+00:00:03,846 --> 00:00:08,469
+discuss the reincarnation of the
+mathematical course that's been online.
+
+3
+00:00:08,469 --> 00:00:12,284
+It's, it's, it's not a 1.2.
+It's actually the introduction of
+
+4
+00:00:12,284 --> 00:00:17,472
+mathematical thinking, new and improved.
+>> I would call it version 0.2.
+
+5
+00:00:17,472 --> 00:00:20,485
+>> Okay [laugh].
+>> 0.1 was last September.
+
+6
+00:00:20,485 --> 00:00:23,202
+This is 0.2.
+And we might meet, we might, we might
+
+7
+00:00:23,202 --> 00:00:26,324
+reach a better release version[LAUGH] in a
+couple of years time.
+
+8
+00:00:26,324 --> 00:00:29,503
+Of course we're releasing it.
+>> So is this a matter of your deciding to
+
+9
+00:00:29,503 --> 00:00:33,215
+change content, or is this, the changes
+are more a response to learning about
+
+10
+00:00:33,215 --> 00:00:36,319
+MOOCs as you go along?
+>> Partly, we're learning about, its the
+
+11
+00:00:36,319 --> 00:00:39,958
+same content in, in some sense.
+It's partly learning about MOOCs, and it's
+
+12
+00:00:39,958 --> 00:00:43,111
+partly the feedback we got from the
+students the first time around.
+
+13
+00:00:43,111 --> 00:00:46,368
+The, the, we got a lot of ideas for what
+we thought, what we think might be
+
+14
+00:00:46,368 --> 00:00:48,628
+improvements.
+We won't really know whether they're
+
+15
+00:00:48,628 --> 00:00:50,630
+improvements until we run them out and
+test them.
+
+16
+00:00:50,630 --> 00:00:53,798
+>> Paul, what do you see as the big
+difference here between teaching this same
+
+17
+00:00:53,798 --> 00:00:57,142
+content to a flesh and blood classroom
+[LAUGH]with students in front of you?
+
+18
+00:00:57,142 --> 00:01:01,312
+>> There's a lot of differences.
+I think one of the biggest differences in
+
+19
+00:01:01,312 --> 00:01:05,501
+a MOOC is, is the, the need to plan ahead.
+That in a normal classroom, you have a lot
+
+20
+00:01:05,501 --> 00:01:09,637
+of opportunity to kind of change what
+you're doing dynamically in the moment.
+
+21
+00:01:09,637 --> 00:01:13,801
+Whereas, in a MOOC, you kind of have to
+have everything set and ready to go before
+
+22
+00:01:13,801 --> 00:01:16,873
+the course even begins.
+And that's where the second version, we
+
+23
+00:01:16,873 --> 00:01:20,273
+can make all these changes that we've, you
+know, kind of thought up as we were going
+
+24
+00:01:20,273 --> 00:01:22,428
+the first time.
+And it's like, oh, well, we can't put that
+
+25
+00:01:22,428 --> 00:01:24,683
+in right now[LAUGH] because the course is
+already running.
+
+26
+00:01:24,684 --> 00:01:26,937
+But now we have a chance to put some of
+those things in.
+
+27
+00:01:26,937 --> 00:01:30,229
+>> So, can you, can you give me an example
+of one of the key changes you've made,
+
+28
+00:01:30,229 --> 00:01:31,894
+Keith?
+>> One change, and this is the most
+
+29
+00:01:31,894 --> 00:01:34,877
+obvious one to the students, is last fall,
+it was a seven week course.
+
+30
+00:01:34,877 --> 00:01:38,328
+This week, I've taken the same material
+and spread it over ten weeks, because I
+
+31
+00:01:38,328 --> 00:01:41,879
+got a lot of feedback from students who
+were clearly motivated, dedicated, were
+
+32
+00:01:41,879 --> 00:01:45,799
+doing fine, but they had lives to live.
+They weren't full time students, and they
+
+33
+00:01:45,799 --> 00:01:49,175
+would say, look, but I got to week 5, and
+I had to go on a business trip.
+
+34
+00:01:49,175 --> 00:01:52,965
+And there were two lectures in week 5.
+If there had been one lecture in week 5, I
+
+35
+00:01:52,965 --> 00:01:56,496
+could have caught up at the end of the
+week, but there were two lectures.
+
+36
+00:01:56,496 --> 00:01:59,445
+I had to drop out.
+And so what I am doing is I am giving the
+
+37
+00:01:59,445 --> 00:02:03,108
+first two weeks over two lectures a week,
+because it's very introductory.
+
+38
+00:02:03,108 --> 00:02:05,474
+From week three onwards, there's only one
+lecture a week.
+
+39
+00:02:05,474 --> 00:02:09,014
+So someone who has to miss a couple of
+days because they've got some commitments
+
+40
+00:02:09,014 --> 00:02:12,264
+will have time to catch up.
+>> And that was born out by the, the some
+
+41
+00:02:12,264 --> 00:02:15,927
+of the survey data we collected.
+The median age in the last course was in,
+
+42
+00:02:15,927 --> 00:02:18,588
+people in their mid 30s.
+So it's not just, you know, high
+
+43
+00:02:18,588 --> 00:02:21,856
+schoolers, or early college students who
+want to explore this area.
+
+44
+00:02:21,856 --> 00:02:25,137
+It's a, we have a lot of students who are,
+you know, who are professionals who want
+
+45
+00:02:25,137 --> 00:02:28,212
+to come back and look at this kind of
+stuff that maybe they, you know, had to
+
+46
+00:02:28,212 --> 00:02:31,046
+drop when they were in college or they
+never got a chance to explore.
+
+47
+00:02:31,046 --> 00:02:34,191
+So, it's a very different kind of
+population than traditional college.
+
+48
+00:02:34,191 --> 00:02:37,653
+>> It's almost counterintuitive that it
+would take more weeks to do it, because
+
+49
+00:02:37,653 --> 00:02:41,163
+you figure, if it's an online course and
+you have, you don't have to be there at 3
+
+50
+00:02:41,163 --> 00:02:44,188
+PM on Thursday, you have all day Thursday
+to go check in there.
+
+51
+00:02:44,189 --> 00:02:48,956
+You would almost think it would go faster.
+>>, The freedom in the scheduling.
+
+52
+00:02:48,956 --> 00:02:53,008
+>> Not with this kind of a course, because
+the, and I kept telling my students this.
+
+53
+00:02:53,008 --> 00:02:55,121
+I kept putting it out on my blogs and so
+forth.
+
+54
+00:02:55,121 --> 00:02:58,391
+That the bit that they see on the video,
+that bit that's actually online, that just
+
+55
+00:02:58,391 --> 00:03:01,103
+sets the stage.
+Because learning mathematics at this level
+
+56
+00:03:01,103 --> 00:03:04,613
+involves a lot of thinking on your own and
+a lot of talking with other people and
+
+57
+00:03:04,613 --> 00:03:08,030
+struggling to master material.
+So you could maybe watch a 30 minute video
+
+58
+00:03:08,030 --> 00:03:10,706
+that I give.
+It may take you two or three hours of
+
+59
+00:03:10,706 --> 00:03:13,904
+intense thinking, off and on, to make
+sense of that thing.
+
+60
+00:03:13,904 --> 00:03:17,352
+So if, I describe my role as really, the
+conductor of an orchestra.
+
+61
+00:03:17,352 --> 00:03:21,128
+You know, I, I decide which tune they're
+going to play, I raise the baton, and I
+
+62
+00:03:21,128 --> 00:03:24,292
+leave them to work and I go off and have a
+cup of coffee somewhere.
+
+63
+00:03:24,292 --> 00:03:26,584
+>> [laugh].
+>> And then I come back later and see how
+
+64
+00:03:26,584 --> 00:03:30,045
+they're doing and checking in because it's
+really for them to learn.
+
+65
+00:03:30,046 --> 00:03:33,340
+I'm not really teaching.
+I'm just setting the stage so they can
+
+66
+00:03:33,340 --> 00:03:35,335
+learn.
+So there's a lot of time they need to make
+
+67
+00:03:35,335 --> 00:03:37,931
+sense of what I manage to get through in,
+in 30 minutes on video.
+
+68
+00:03:37,931 --> 00:03:41,359
+>> And it gives a little bit more
+flexibility having the course be over 10
+
+69
+00:03:41,359 --> 00:03:43,610
+weeks, even for people who could do it
+faster.
+
+70
+00:03:43,610 --> 00:03:46,406
+They can still kind of, I mean, they can
+still work fairly quickly in that 10
+
+71
+00:03:46,406 --> 00:03:47,021
+weeks.
+>> Mm-hm.
+
+72
+00:03:47,021 --> 00:03:50,437
+>> And then, I mean, one of the things
+Keith says throughout the videos is, you
+
+73
+00:03:50,437 --> 00:03:53,893
+have to do this slowly, you have to take
+your time, you have to think about.
+
+74
+00:03:53,893 --> 00:03:58,239
+So even the people who are getting it, and
+who are going quickly can still benefit
+
+75
+00:03:58,239 --> 00:04:01,954
+from having that extra time, I think.
+>> So having had your, your base in
+
+76
+00:04:01,954 --> 00:04:06,327
+physical, you know, right there,
+education, what's been your biggest shock?
+
+77
+00:04:06,327 --> 00:04:09,282
+What's been your biggest lesson?
+>> Oh wow.
+
+78
+00:04:09,282 --> 00:04:13,907
+There were lots of little shocks, I think.
+The thing that comes to mind is actually
+
+79
+00:04:13,907 --> 00:04:17,491
+not a shock, because I expected it was
+going to happen, but I was sort of
+
+80
+00:04:17,491 --> 00:04:21,341
+surprised when it really did.
+You know, I love teaching one on one with
+
+81
+00:04:21,341 --> 00:04:23,815
+a student.
+I love teaching students in groups of
+
+82
+00:04:23,815 --> 00:04:25,042
+maybe five to ten.
+>> Mm-hm.
+
+83
+00:04:25,042 --> 00:04:28,888
+>> Bring it up to 20, I've never, I always
+try to cut my classes at 20 when I get
+
+84
+00:04:28,888 --> 00:04:31,778
+physical classes.
+I've taught classes of 250 and 300.
+
+85
+00:04:31,778 --> 00:04:34,660
+That's the worst possible, because there's
+no contact.
+
+86
+00:04:34,660 --> 00:04:37,780
+It's just an audience.
+They're basically just wallpaper around
+
+87
+00:04:37,780 --> 00:04:40,620
+the room, and they're all on Facebook at
+the same time anyway.
+
+88
+00:04:40,620 --> 00:04:42,329
+>> [laugh].
+>> So there's no contact.
+
+89
+00:04:42,329 --> 00:04:46,335
+You would think 65,000 students, even
+worse.
+
+90
+00:04:46,335 --> 00:04:49,951
+It's not 65,000 students.
+It's 65,000 individual students.
+
+91
+00:04:49,951 --> 00:04:54,229
+Teaching on a MOOC is one on one.
+You have a student sitting next to you.
+
+92
+00:04:54,229 --> 00:04:58,915
+But if someone watches my class, you
+occasionally see my face, but that's just
+
+93
+00:04:58,915 --> 00:05:02,691
+to make human contact.
+Most of what you see, is that hand and a
+
+94
+00:05:02,691 --> 00:05:05,709
+piece of paper.
+The way we record them is an overhead
+
+95
+00:05:05,709 --> 00:05:10,065
+camera on my desk at home, piece of paper,
+talking to a student, that in my mind is
+
+96
+00:05:10,065 --> 00:05:14,422
+sitting next to me, in conversational
+terms going through some mathematics.
+
+97
+00:05:14,422 --> 00:05:18,687
+Now, the student can't answer back in real
+time, which is a big problem.
+
+98
+00:05:18,687 --> 00:05:21,235
+>> Yes.
+>> And we can and people like Paul are
+
+99
+00:05:21,235 --> 00:05:23,511
+going to try and help me to compensate for
+that.
+
+100
+00:05:23,511 --> 00:05:26,985
+But it's basically sitting next to the
+professor and talking to the professor and
+
+101
+00:05:26,985 --> 00:05:30,483
+trying to understand what's going on.
+In other words, in a MOOC, you're teaching
+
+102
+00:05:30,483 --> 00:05:32,671
+1 student.
+>> And well, well, Paul, when you talk
+
+103
+00:05:32,671 --> 00:05:36,673
+about the logistics of that, I mean, when
+you have a teacher who's actually online,
+
+104
+00:05:36,673 --> 00:05:40,501
+on that time, changing things or just
+putting it up, does, isn't there a natural
+
+105
+00:05:40,501 --> 00:05:44,213
+advantage for the student who's likewise
+online at exactly the same time and
+
+106
+00:05:44,213 --> 00:05:47,983
+doesn't have that delayed reaction of 10
+hours later coming on and, and seeing
+
+107
+00:05:47,983 --> 00:05:50,783
+basically a canned lesson instead of a
+live lesson?
+
+108
+00:05:50,783 --> 00:05:53,529
+>> Yeah, that's, that's an interesting
+question.
+
+109
+00:05:53,529 --> 00:05:57,421
+I mean, I think that there's from the
+video perspective, since the videos are
+
+110
+00:05:57,421 --> 00:06:01,018
+all kind of prerecorded, I don't know if
+there's too much of a difference.
+
+111
+00:06:01,018 --> 00:06:04,543
+Certainly it, within the forums, there are
+times where, like, Keith or I will be
+
+112
+00:06:04,543 --> 00:06:05,995
+logged into the forums.
+>> Right.
+
+113
+00:06:05,995 --> 00:06:09,334
+>> And if somebody posts a question right
+then that one of us can address, there
+
+114
+00:06:09,334 --> 00:06:12,832
+could be some advantage there.
+But actually, I think our experience was
+
+115
+00:06:12,832 --> 00:06:16,986
+in the first course we actually, I think,
+intentionally try to stay out of the
+
+116
+00:06:16,986 --> 00:06:21,140
+forum, like, answering questions right
+away, until there had been a fair amount
+
+117
+00:06:21,140 --> 00:06:24,612
+of discussion or if it felt like it had
+gotten to a point that it was an
+
+118
+00:06:24,612 --> 00:06:28,394
+unproductive disagreement.
+But there's actually so much value in, in
+
+119
+00:06:28,394 --> 00:06:32,099
+staying out of the way, and letting the
+students discuss with each other in the
+
+120
+00:06:32,099 --> 00:06:34,165
+forums.
+And our experience was, I mean you,
+
+121
+00:06:34,165 --> 00:06:37,469
+because people post in the forums and
+there's going to be a response within ten
+
+122
+00:06:37,469 --> 00:06:41,371
+minutes, 15 minutes almost every time.
+>> I'm expecting two kinds of people to
+
+123
+00:06:41,371 --> 00:06:43,550
+come.
+I know there were a lot of people who took
+
+124
+00:06:43,550 --> 00:06:46,452
+the last course and had to bail.
+And some who took the last course and
+
+125
+00:06:46,452 --> 00:06:49,488
+finished, but didn't do as well as they
+thought, who have already emailed me and
+
+126
+00:06:49,488 --> 00:06:52,901
+said that they're definitely coming back
+and they'd, they'd like to try it again.
+
+127
+00:06:52,901 --> 00:06:55,796
+So I'm expecting those to come back, and,
+and they will see some changes.
+
+128
+00:06:55,796 --> 00:06:58,727
+There have been some changes.
+They would be unwise to be seduced by the
+
+129
+00:06:58,727 --> 00:07:01,927
+fact that things looked remarkably the
+same in the first couple of weeks, because
+
+130
+00:07:01,927 --> 00:07:05,018
+they do change as we move on.
+There's a difference in emphasis in the
+
+131
+00:07:05,018 --> 00:07:09,080
+way some of the material's presented and
+some of the things I'm asking them to do.
+
+132
+00:07:09,080 --> 00:07:11,558
+And they'll realize that as they go
+through it.
+
+133
+00:07:11,558 --> 00:07:15,392
+And for people who are doing it the first
+time, you've got the benefit of the fact
+
+134
+00:07:15,392 --> 00:07:17,554
+that we have now learned from our
+mistakes.
+
+135
+00:07:17,554 --> 00:07:20,026
+Last time, it's going to be better than
+last time.
+
+136
+00:07:20,026 --> 00:07:24,684
+Last time I went in to it thinking, if we
+don't totally fail, crash and burn, it's a
+
+137
+00:07:24,684 --> 00:07:25,922
+success.
+>> [laugh].
+
+138
+00:07:25,922 --> 00:07:28,349
+>> Yes.
+>> So by that measure, it was a success.
+
+139
+00:07:28,349 --> 00:07:30,952
+We've set ourselves a standard now.
+It was okay last time.
+
+140
+00:07:30,952 --> 00:07:34,284
+It was, it was actually one of the most
+successful courses that Coursera would put
+
+141
+00:07:34,284 --> 00:07:36,519
+on at the time.
+It was the second highest grossing in
+
+142
+00:07:36,519 --> 00:07:38,973
+terms of students that they've had.
+>> Not bad.
+
+143
+00:07:38,973 --> 00:07:42,613
+>> So it was, it was doing pretty well.
+That, may be the math guy thing that
+
+144
+00:07:42,613 --> 00:07:44,781
+helped there.
+But it, but it did pretty well.
+
+145
+00:07:44,782 --> 00:07:48,350
+But that set us a bar, and we now
+definitely, I mean, I will be disappointed
+
+146
+00:07:48,350 --> 00:07:51,575
+if we don't exceed that bar.
+>> An individual can feel so involved and
+
+147
+00:07:51,575 --> 00:07:55,587
+so personally invested that they would
+literally contact the instructor and say
+
+148
+00:07:55,587 --> 00:07:57,749
+I'm coming back.
+>> Oh, yeah, yeah.
+
+149
+00:07:57,749 --> 00:08:01,274
+Yeah, no, they I mean, and, and in a
+sense, we set them up for doing that.
+
+150
+00:08:01,274 --> 00:08:04,702
+Because one of the things I tried to
+convey was getting a sense of me as a
+
+151
+00:08:04,702 --> 00:08:07,070
+person.
+You know, I actually appear on camera.
+
+152
+00:08:07,070 --> 00:08:09,904
+And I didn't have to.
+I could have done it like Khan Academy,
+
+153
+00:08:09,904 --> 00:08:13,461
+where you never see the person involved.
+I want them to get a sense of me.
+
+154
+00:08:13,461 --> 00:08:16,605
+Because mathematics is dry, abstract,
+decontextualized.
+
+155
+00:08:16,605 --> 00:08:19,243
+I think you need a person to make contact
+of, you know.
+
+156
+00:08:19,243 --> 00:08:22,603
+I was their friendly grandfather, or the
+uncle or whatever it was.
+
+157
+00:08:22,604 --> 00:08:24,588
+I thought that was really important.
+>> Mm-hm.
+
+158
+00:08:24,588 --> 00:08:27,190
+>> But if you watch what I'm doing, I'm
+actually not teaching.
+
+159
+00:08:27,190 --> 00:08:30,323
+I'm not telling them any material.
+I'm talking about the course.
+
+160
+00:08:30,323 --> 00:08:33,587
+I'm trying to motivate them.
+I'm the coach, if you like, saying you
+
+161
+00:08:33,587 --> 00:08:35,262
+know, you can do this.
+Keep at it.
+
+162
+00:08:35,262 --> 00:08:39,447
+And it was making human contact.
+You know, I've recorded it in the studio
+
+163
+00:08:39,447 --> 00:08:43,339
+into camera, eye contact.
+But that was all about making contact with
+
+164
+00:08:43,339 --> 00:08:45,821
+a human being.
+The moment we start talking about
+
+165
+00:08:45,821 --> 00:08:48,611
+mathematics, I drop out and it was just my
+hand there.
+
+166
+00:08:48,611 --> 00:08:51,216
+So, it was all about making that human
+contact.
+
+167
+00:08:51,216 --> 00:08:53,885
+So not surprisingly, they did feel and
+responded.
+
+168
+00:08:53,885 --> 00:08:56,524
+They feel they knew me.
+That was a trick.
+
+169
+00:08:56,524 --> 00:08:59,553
+It's like everybody knows the news reader
+on their favorite TV channel.
+
+170
+00:08:59,553 --> 00:09:01,556
+>> Right.
+>> It's a member of the family, because
+
+171
+00:09:01,556 --> 00:09:03,988
+they're in your living room every night at
+6 o'clock.
+
+172
+00:09:03,988 --> 00:09:06,074
+That's powerful.
+>> That's wonderful.
+
+173
+00:09:06,074 --> 00:09:09,048
+>> I wanted to use that.
+>> Yeah, that's, that's actually a high,
+
+174
+00:09:09,048 --> 00:09:11,342
+high compliment.
+>> And for, I mean, for all of the emails
+
+175
+00:09:11,342 --> 00:09:13,842
+that you got telling, telling you people
+would come back.
+
+176
+00:09:13,842 --> 00:09:16,968
+The posts, we did a survey at the end of
+the course last time and I would say there
+
+177
+00:09:16,968 --> 00:09:20,040
+must have been hundreds and hundreds of
+people in the post survey when, in the
+
+178
+00:09:20,040 --> 00:09:22,419
+free response.
+Instead of giving feedback on the course
+
+179
+00:09:22,419 --> 00:09:25,116
+they said, oh, I'm sorry I didn't finish.
+I'll, [laugh], I'm going to do it better
+
+180
+00:09:25,116 --> 00:09:26,957
+next time.
+Like, I mean,it was, it was amazing that,
+
+181
+00:09:26,957 --> 00:09:29,972
+I mean, so many people wanted, I think
+they felt that personal connection in such
+
+182
+00:09:29,972 --> 00:09:31,258
+a way that they're like.
+>> Yeah.
+
+183
+00:09:31,258 --> 00:09:33,619
+>> They didn't want to let us down by not
+finishing the course.
+
+184
+00:09:33,619 --> 00:09:35,863
+>> Yeah, yeah,these, that's what
+education's about.
+
+185
+00:09:35,863 --> 00:09:38,042
+>> [laugh].
+>> The teacher, you know, teachers don't
+
+186
+00:09:38,042 --> 00:09:40,740
+really teach.
+What they do is they inspire students to
+
+187
+00:09:40,740 --> 00:09:41,578
+learn.
+>> Mm-hm.
+
+188
+00:09:41,578 --> 00:09:45,046
+>> I don't think we can, I don't think I
+can teach anybody anything.
+
+189
+00:09:45,046 --> 00:09:48,572
+The best I can hope is to inspire them to
+learn, because learning is the active
+
+190
+00:09:48,572 --> 00:09:49,721
+thing.
+>> Right.
+
+191
+00:09:49,721 --> 00:09:53,096
+>> What teaching is, in some sense except
+inspiration.
+
+192
+00:09:53,096 --> 00:09:55,346
+And so, my, I, I see my role as to inspire
+them.
+
+193
+00:09:55,346 --> 00:09:58,233
+And, in a sense, it's an easy one, because
+I love the subject.
+
+194
+00:09:58,234 --> 00:10:01,331
+And I like to inspire people.
+You know, there's, there's, you have to
+
+195
+00:10:01,331 --> 00:10:02,768
+fake a lot in the medium.
+>> Right.
+
+196
+00:10:02,768 --> 00:10:05,425
+>> But what you're not faking is your love
+of the subject.
+
+197
+00:10:05,425 --> 00:10:08,955
+>> Yeah, or you wouldn't be there.
+>> And that you're going to be there.
+
+198
+00:10:08,955 --> 00:10:12,011
+So I was very gratified that they
+contacted me, because it meant that much
+
+199
+00:10:12,011 --> 00:10:14,681
+had worked.
+You know, the one thing I couldn't do,
+
+200
+00:10:14,681 --> 00:10:18,567
+which I love doing with real students, is
+when they come into your office, as they
+
+201
+00:10:18,567 --> 00:10:21,224
+do all the time, when you talk to them.
+That's missing.
+
+202
+00:10:21,224 --> 00:10:23,270
+>> Yeah.
+>> For, for those of us giving them,
+
+203
+00:10:23,270 --> 00:10:27,361
+there's a lot of, of interesting upsides.
+The big downside is you never get to know
+
+204
+00:10:27,361 --> 00:10:28,858
+the students.
+>> Mh-hm.
+
+205
+00:10:28,858 --> 00:10:32,524
+>> You know, we wouldn't be in the
+business if we didn't like getting to know
+
+206
+00:10:32,524 --> 00:10:34,126
+students.
+>> Absolutely.
+
+207
+00:10:34,126 --> 00:10:37,354
+>> Actually I've had some professors that
+I'm a little bit suspicious about.
+
+208
+00:10:37,354 --> 00:10:38,116
+>> [laugh].
+>> [laugh].
+
+209
+00:10:38,117 --> 00:10:41,659
+>> [laugh] But most of us love this thing.
+>> There's one in every crowd.
+
+210
+00:10:41,659 --> 00:10:43,644
+[laugh] Well thanks guys.
+>> Okay.
+
+211
+00:10:43,644 --> 00:10:44,687
+Thank you.
+>> Abliged to.
+
+212
+00:10:44,687 --> 00:10:45,190
+.

@@ -1,0 +1,218 @@
+1
+00:00:14,983 --> 00:00:20,843
+[MUSIC]. 
+
+2
+00:00:20,843 --> 00:00:24,748
+This is the story of how a group of 
+gamblers fleeced the casinos for 
+
+3
+00:00:24,748 --> 00:00:27,205
+millions. 
+[NOISE] 
+
+4
+00:00:27,205 --> 00:00:32,292
+ >> The buzz for me was the potential. 
+It was unlimited. 
+
+5
+00:00:32,292 --> 00:00:34,950
+And I could make money without punching a 
+clock. 
+
+6
+00:00:34,950 --> 00:00:37,560
+I could have a ton of fun. 
+Certainly women were going to love me. 
+
+7
+00:00:37,560 --> 00:00:39,940
+It was great. 
+ >> I was excited about the idea of 
+
+8
+00:00:39,940 --> 00:00:45,228
+goading death with [UNKNOWN]. 
+David and Goliath kind of situation. 
+
+9
+00:00:45,228 --> 00:00:49,760
+ >> And beating them. 
+And them not even realizing we're beating 
+
+10
+00:00:49,760 --> 00:00:53,480
+them. 
+ >> But these were no ordinary gamblers. 
+
+11
+00:00:53,480 --> 00:01:00,008
+They were brilliant students with an 
+extraordinary secret, that meant they 
+
+12
+00:01:00,008 --> 00:01:06,098
+simply couldn't lose. 
+But Thorp thought he could do better, 
+
+13
+00:01:06,098 --> 00:01:12,577
+because he'd realized there was something 
+special about Blackjack. 
+
+14
+00:01:12,577 --> 00:01:16,620
+The odds of winning worked in a different 
+way to almost every other gambling game. 
+
+15
+00:01:31,745 --> 00:01:40,797
+[MUSIC] In terms of mathematical 
+probability, gambling games work in one 
+
+16
+00:01:40,797 --> 00:01:49,752
+of two ways. 
+In Russian roulette, a bullet is loaded 
+
+17
+00:01:49,752 --> 00:01:54,147
+into a barrel of six chambers. 
+[MUSIC] [SOUND] Every time the barrel is 
+
+18
+00:01:54,147 --> 00:01:58,330
+spun, there's a one in six chance of 
+firing the bullet. 
+
+19
+00:01:58,330 --> 00:02:02,050
+[MUSIC] 
+ >> When you're playing Russian 
+
+20
+00:02:02,050 --> 00:02:12,140
+roulette, if you spin the chamber before 
+you pull the trigger every time. 
+
+21
+00:02:12,140 --> 00:02:14,835
+[MUSIC] Then each pull of the trigger is 
+an independent event. 
+
+22
+00:02:14,835 --> 00:02:18,985
+The gun has no memory. 
+Spinning the chamber destroys all memory 
+
+23
+00:02:18,985 --> 00:02:22,566
+of what's happened before. 
+ >> [MUSIC] In other words, spin the 
+
+24
+00:02:22,566 --> 00:02:27,938
+barrel every time and the probability of 
+firing the bullet never changes. 
+
+25
+00:02:30,270 --> 00:02:34,675
+It's always one in six. 
+[SOUND] But there's another way of 
+
+26
+00:02:34,675 --> 00:02:41,815
+playing Russian roulette, where you don't 
+spin the barrel between shots but just 
+
+27
+00:02:41,815 --> 00:02:48,701
+keep on pulling the trigger. 
+ >> If it doesn't go off, and you pull 
+
+28
+00:02:48,701 --> 00:02:53,121
+the trigger again, the second pull of the 
+trigger is not an independent event, 
+
+29
+00:02:53,121 --> 00:02:58,785
+because the odds have changed of you 
+getting an explosion. 
+
+30
+00:02:58,785 --> 00:03:05,355
+ >> Each time the trigger is pulled, the 
+probability of firing the bullet falls. 
+
+31
+00:03:05,355 --> 00:03:15,940
+Initially, from one in six, right down to 
+a dead certainty. 
+
+32
+00:03:15,940 --> 00:03:18,434
+The odds change because they are 
+dependent on what has happened on the 
+
+33
+00:03:18,434 --> 00:03:22,410
+previous pull of the trigger. 
+What Ed Thorp realized, was this 
+
+34
+00:03:22,410 --> 00:03:27,460
+dependence is exactly what happens in a 
+game of Blackjack. 
+
+35
+00:03:29,479 --> 00:03:32,030
+And it's because of how the cards must be 
+dealt. 
+
+36
+00:03:32,030 --> 00:03:39,290
+Critically in most casino games after 
+each round the cards are always returned 
+
+37
+00:03:39,290 --> 00:03:46,380
+to the deck so they can be played in the 
+next hand. 
+
+38
+00:03:47,730 --> 00:03:51,860
+But in Blackjack, used cards are not 
+returned, but set aside. 
+
+39
+00:03:54,630 --> 00:03:58,347
+This means the odds of getting winning 
+cards change as the game progresses, 
+
+40
+00:03:58,347 --> 00:04:03,179
+because the deck is made up of fewer and 
+fewer cards for every hand. 
+
+41
+00:04:05,230 --> 00:04:08,350
+ >> The thing that makes Blackjack 
+different is each hand is not an 
+
+42
+00:04:08,350 --> 00:04:12,430
+independent event, the cards actually do 
+have a memory of the previous hands and a 
+
+43
+00:04:12,430 --> 00:04:17,880
+good player can also have a memory of 
+those previous hands. 
+
+44
+00:04:17,880 --> 00:04:17,880
+[BLANK_AUDIO] 
+

@@ -1,0 +1,267 @@
+1
+00:00:00,0 --> 00:00:00,323
+[BLANK_AUDIO]. 
+
+2
+00:00:00,323 --> 00:00:00,485
+ >> Yes. 
+
+3
+00:00:00,485 --> 00:00:06,722
+ >> What is the difference between an 
+algebraic expression, an algorithm and a 
+
+4
+00:00:06,722 --> 00:00:07,372
+model? 
+
+5
+00:00:07,372 --> 00:00:10,961
+ >> The difference between algebraic, what? 
+
+6
+00:00:10,961 --> 00:00:12,125
+ >> Expression. 
+
+7
+00:00:12,125 --> 00:00:15,617
+ >> Expression, an algorithm and a model. 
+
+8
+00:00:15,617 --> 00:00:19,600
+ >> And a model? 
+Okay, well the word model is It's usually 
+
+9
+00:00:19,600 --> 00:00:24,294
+not, a lot of things in mathematics. 
+It's very often just means an equation or 
+
+10
+00:00:24,294 --> 00:00:28,584
+a set of equations where you take some 
+feature of the world, something going on 
+
+11
+00:00:28,584 --> 00:00:31,30
+in the world and you represent it by a 
+model. 
+
+12
+00:00:31,30 --> 00:00:34,345
+You know, it could be a graphic, it could 
+be a network, whatever it is, it's some 
+
+13
+00:00:34,345 --> 00:00:37,711
+arithmetic, some algebraic, some 
+mathematical representation of something 
+
+14
+00:00:37,711 --> 00:00:42,235
+in the world that you can solve. 
+So you're modelling the world so these 
+
+15
+00:00:42,235 --> 00:00:48,514
+abstractions, in the course of building a 
+model when you apply that model to the 
+
+16
+00:00:48,514 --> 00:00:54,570
+world, then very often, lead you to or 
+involves developing algorithms. 
+
+17
+00:00:54,570 --> 00:00:56,773
+Algorithms are procedures for solving 
+problems. 
+
+18
+00:00:56,773 --> 00:01:01,813
+Let me back up, I think them the crucial 
+distinction is that the model is a 
+
+19
+00:01:01,813 --> 00:01:07,543
+representation of an aspect of the world. 
+An algorithm is a procedure for doing 
+
+20
+00:01:07,543 --> 00:01:11,880
+things that allow you to make conclusions 
+about the world. 
+
+21
+00:01:11,880 --> 00:01:17,490
+Very often an algorithm of wise is in a 
+used in the context of a model. 
+
+22
+00:01:17,490 --> 00:01:20,690
+In fact arguably always this. 
+You need a model that represents 
+
+23
+00:01:20,690 --> 00:01:24,350
+something in the world, and in that model 
+you can apply algorithms to draw 
+
+24
+00:01:24,350 --> 00:01:28,472
+conclusions about the world. 
+relative to that model, you can also do 
+
+25
+00:01:28,472 --> 00:01:32,37
+algebraic reasoning, which may or may not 
+be algorithmic. 
+
+26
+00:01:32,37 --> 00:01:35,877
+Algorithmic means step one, step two, 
+step three, step four, but not all 
+
+27
+00:01:35,877 --> 00:01:40,452
+mathematical reasoning is algorithmic. 
+It can be just, i've no idea how to solve 
+
+28
+00:01:40,452 --> 00:01:44,925
+it, i've no idea how to solve it, i've no 
+idea how to solve it, oh, I can solve it 
+
+29
+00:01:44,925 --> 00:01:47,580
+that way. 
+It's insight, it's the ah-hah moment, and 
+
+30
+00:01:47,580 --> 00:01:51,366
+a lot of mathematics is like that. 
+It's very much not algorithmic. 
+
+31
+00:01:51,366 --> 00:01:57,880
+often, mathematics preceeds by, no idea, 
+no idea, no idea, oh, great idea. 
+
+32
+00:01:57,880 --> 00:02:01,408
+And then when you reflect on that idea 
+you can get an algorithm so that all the 
+
+33
+00:02:01,408 --> 00:02:02,620
+people can do it. 
+okay. 
+
+34
+00:02:02,620 --> 00:02:06,65
+So a classic example I guess would be 
+solving the quadratic. 
+
+35
+00:02:06,65 --> 00:02:09,761
+It was a great idea, you can do it by 
+turning it into a perfect square, 
+
+36
+00:02:09,761 --> 00:02:14,183
+completing the square and ancient method 
+we all learn in high school or in middle 
+
+37
+00:02:14,183 --> 00:02:16,980
+school. 
+And the first person who did that you 
+
+38
+00:02:16,980 --> 00:02:20,412
+know that's brilliant, we just say, wow, 
+I just turn this into a real square, now 
+
+39
+00:02:20,412 --> 00:02:23,168
+actually, you could imagine that 
+happening if you're thinking 
+
+40
+00:02:23,168 --> 00:02:26,602
+geometrically actually. 
+But the moment that person did that, you 
+
+41
+00:02:26,602 --> 00:02:29,140
+can turn it into the formula for the 
+quadratic. 
+
+42
+00:02:29,140 --> 00:02:32,861
+And then you just got an algorithm, you 
+just plug in the values, x is minus b 
+
+43
+00:02:32,861 --> 00:02:36,330
+plus or minus the square root of b 
+squared minus 4ac over 2a. 
+
+44
+00:02:36,330 --> 00:02:38,198
+There's the algorithm, that's the 
+procedure. 
+
+45
+00:02:38,198 --> 00:02:41,20
+That came about as a result of a greater 
+how moment. 
+
+46
+00:02:41,20 --> 00:02:45,436
+So, back to the question, models of how 
+we start with the world, and represent 
+
+47
+00:02:45,436 --> 00:02:49,852
+them in mathematics, and then once we've 
+got a model, once we've got the world 
+
+48
+00:02:49,852 --> 00:02:54,682
+captured, an aspect of the world captured 
+in mathematics, we can apply algorithms, 
+
+49
+00:02:54,682 --> 00:02:58,891
+step by step procedures or we can apply 
+algebraic reasoning or geometric 
+
+50
+00:02:58,891 --> 00:03:01,930
+reasoning to draw conclusions about the 
+world. 
+
+51
+00:03:01,930 --> 00:03:07,195
+And that reasoning may be algorithmic or 
+it may just be thinking relationally 
+
+52
+00:03:07,195 --> 00:03:11,228
+until you have an insight. 
+Okay, I think I've got as close as I'm 
+
+53
+00:03:11,228 --> 00:03:13,775
+going to get on the spur of the moment, 
+yeah. 
+
+54
+00:03:13,775 --> 00:03:15,889
+ >> [MUSIC] 
+
+55
+00:03:15,889 --> 00:03:21,633
+Stanford University. 
+

@@ -1,0 +1,309 @@
+1
+00:00:00,12 --> 00:00:05,537
+ >> There was an article several weeks ago or 
+a month ago in the New York Times about 
+
+2
+00:00:05,537 --> 00:00:10,552
+the great disservice done to our 
+educational system by requiring high 
+
+3
+00:00:10,552 --> 00:00:12,7
+school students to. 
+
+4
+00:00:12,7 --> 00:00:14,628
+ >> Oh, Hacker, that guy Hacker, yes. 
+Can you comment on that[CROSSTALK]? 
+
+5
+00:00:14,628 --> 00:00:16,676
+ >> I already have in public, but[LAUGH] I 
+
+6
+00:00:16,676 --> 00:00:19,770
+could do it again. 
+couple of things. 
+
+7
+00:00:19,770 --> 00:00:24,270
+If his article was about, the great 
+disservice that's done to our kids by 
+
+8
+00:00:24,270 --> 00:00:29,220
+teaching them what we currently teach 
+them in their high school algebra class, 
+
+9
+00:00:29,220 --> 00:00:31,280
+I'm 100% on his side. 
+But he didn't. 
+
+10
+00:00:31,280 --> 00:00:33,500
+He said, we shouldn't be teaching 
+algebra. 
+
+11
+00:00:33,500 --> 00:00:37,595
+What he should have said is, we need to 
+teach algebra, instead of that excuse 
+
+12
+00:00:37,595 --> 00:00:40,0
+that's taught in the schools for algebra. 
+Yeah? 
+
+13
+00:00:40,0 --> 00:00:42,950
+I hope you're recording me, so[LAUGH] I'm 
+going to get slaughtered by this. 
+
+14
+00:00:42,950 --> 00:00:43,627
+No It, it's, what's taught is not 
+algebra. 
+
+15
+00:00:43,627 --> 00:00:49,543
+If you go back and look at what 
+Al-Khwarizmi was talking about and say, 
+
+16
+00:00:49,543 --> 00:00:52,130
+this is algebra. 
+This is clearly important. 
+
+17
+00:00:52,130 --> 00:00:56,95
+This is clearly powerful. 
+This is valuable stuff, and you teach it 
+
+18
+00:00:56,95 --> 00:00:59,398
+in the context. 
+Then it makes sense and everyone can see 
+
+19
+00:00:59,398 --> 00:01:02,826
+the use of it. 
+I guarantee, that the person who wrote 
+
+20
+00:01:02,826 --> 00:01:08,221
+that, and probably almost all students In 
+the course of their everyday life or 
+
+21
+00:01:08,221 --> 00:01:13,190
+their recreational activities, use Excel 
+spreadsheets to do things. 
+
+22
+00:01:13,190 --> 00:01:16,290
+Excel is an implementation in silicon of 
+algebra. 
+
+23
+00:01:16,290 --> 00:01:20,720
+That's what it is. 
+It's a, a spreadsheet is modern algebra. 
+
+24
+00:01:20,720 --> 00:01:25,178
+A modern implementation of algebra. 
+So anyone who could, was, keeps track of 
+
+25
+00:01:25,178 --> 00:01:29,850
+sports scores, or runs, runs events, or 
+keeps track of their finances using a 
+
+26
+00:01:29,850 --> 00:01:33,570
+spreadsheet, they are using algebra right 
+there and then. 
+
+27
+00:01:33,570 --> 00:01:37,848
+So Hocka was saying, we don't need 
+spreadsheets, and you don't need to know 
+
+28
+00:01:37,848 --> 00:01:39,712
+about them. 
+That's what he was actually saying, but 
+
+29
+00:01:39,712 --> 00:01:42,769
+he didn't realize that. 
+So, it's a matter of what he was getting 
+
+30
+00:01:42,769 --> 00:01:47,233
+at and he missed the point but if it was 
+a matter of what's taught that's a 
+
+31
+00:01:47,233 --> 00:01:48,360
+different issue. 
+
+32
+00:01:48,360 --> 00:01:54,4
+ >> So, I mean I don't use spreadsheets that 
+much but they seem more arithmetical than 
+
+33
+00:01:54,4 --> 00:01:54,838
+algebraic. 
+
+34
+00:01:54,838 --> 00:01:56,975
+ >> Yeah in terms of the. 
+No but. 
+
+35
+00:01:56,975 --> 00:02:01,380
+That's right because the issue is and 
+this is really why. 
+
+36
+00:02:01,380 --> 00:02:06,396
+it, it was sort of implicit in what the 
+the, the traders were doing in 89th 
+
+37
+00:02:06,396 --> 00:02:10,790
+century, in, in the Muslim empire when 
+they were doing the trading. 
+
+38
+00:02:10,790 --> 00:02:14,150
+What they're saying is, there were 
+calculations which you have to apply 
+
+39
+00:02:14,150 --> 00:02:16,580
+again and again and again, and the 
+numbers change. 
+
+40
+00:02:16,580 --> 00:02:20,556
+If you're trading, you're multiplying by 
+an exchange rate, you're doing something, 
+
+41
+00:02:20,556 --> 00:02:24,252
+you're doing this, and it's the same 
+calculation essentially, but the numbers 
+
+42
+00:02:24,252 --> 00:02:26,680
+change. 
+So if you have a method that tells you 
+
+43
+00:02:26,680 --> 00:02:30,416
+how to do it for any numbers whatsoever, 
+you're at the level of algebra. 
+
+44
+00:02:30,416 --> 00:02:32,530
+And then the spreadsheets, that's what 
+spreadsheets do. 
+
+45
+00:02:32,530 --> 00:02:35,830
+The do arithmetic efficiently, so that 
+you just change the numbers and then you 
+
+46
+00:02:35,830 --> 00:02:39,30
+just, literally now, you just sort of 
+pull the cursor down and it does the same 
+
+47
+00:02:39,30 --> 00:02:42,876
+calculation for all of them. 
+So it's doing algebra but still the 
+
+48
+00:02:42,876 --> 00:02:46,880
+algebra in the sense of[INAUDIBLE] 
+because it is applied to numbers. 
+
+49
+00:02:46,880 --> 00:02:51,368
+The focus is on calculation but it's 
+general methods for solving problems that 
+
+50
+00:02:51,368 --> 00:02:55,856
+are all essentially alike and once you 
+looking attempt to general methods your 
+
+51
+00:02:55,856 --> 00:03:00,140
+level of algebra, which is why when I 
+solved about Babylonians I said this is 
+
+52
+00:03:00,140 --> 00:03:04,92
+really algebra. 
+They were writing down a formula, they 
+
+53
+00:03:04,92 --> 00:03:08,382
+were writing down instructions for 
+dealing with specific numbers but the way 
+
+54
+00:03:08,382 --> 00:03:12,738
+they were writing it, was saying take any 
+number and do this and this and this and 
+
+55
+00:03:12,738 --> 00:03:17,76
+the moment you start seeing take any 
+number your essentially doing algebra. 
+
+56
+00:03:17,76 --> 00:03:21,818
+Fortunately the guy that worked in the 
+New York Times know that you know this. 
+
+57
+00:03:21,818 --> 00:03:27,187
+I tend to avoid writing about something, 
+publicly, that I don't really 
+
+58
+00:03:27,187 --> 00:03:30,537
+understand[LAUGH]. 
+And, I think he overstepped the lines 
+
+59
+00:03:30,537 --> 00:03:33,121
+there. 
+But if he'd said, what my kids are 
+
+60
+00:03:33,121 --> 00:03:36,690
+learning in the algebra class, hey, I'm 
+on his side. 
+
+61
+00:03:36,690 --> 00:03:39,985
+But I think that means we should reform 
+what's going on in the algebra class. 
+
+62
+00:03:39,985 --> 00:03:42,372
+ >> [MUSIC] 
+
+63
+00:03:42,372 --> 00:03:48,873
+Stanford University. 
+

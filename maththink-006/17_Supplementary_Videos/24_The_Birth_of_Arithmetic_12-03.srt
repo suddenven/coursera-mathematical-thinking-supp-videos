@@ -1,0 +1,840 @@
+1
+00:00:03,550 --> 00:00:10,600
+Now let's look at the beginnings of what 
+led to modern mathematics and arithmetic, 
+
+2
+00:00:10,600 --> 00:00:15,210
+with numbers, addition, multiplication, 
+subtraction. 
+
+3
+00:00:15,210 --> 00:00:19,460
+I'm, I'm going to guess some kind of 
+division came in. 
+
+4
+00:00:19,460 --> 00:00:27,265
+originally just addition and subtraction. 
+The best evidence we have about how ari, 
+
+5
+00:00:27,265 --> 00:00:32,215
+remember that I mentioned counting goes 
+back thousands of years, maybe 35,000 
+
+6
+00:00:32,215 --> 00:00:37,315
+BCE, maybe longer, using piles of pebbles 
+probably, certainly notches on bones, 
+
+7
+00:00:37,315 --> 00:00:41,250
+probably notches on sticks. 
+And the notched bones have been found. 
+
+8
+00:00:41,250 --> 00:00:44,210
+You have to interpret what they were used 
+for. 
+
+9
+00:00:44,210 --> 00:00:52,724
+All sorts of theories out there, seasons 
+and phases of the moon, and things like 
+
+10
+00:00:52,724 --> 00:00:55,258
+that. 
+My guess is the one that doesn't get 
+
+11
+00:00:55,258 --> 00:00:59,350
+mentioned is probably the one that was 
+the most significant, which is probably 
+
+12
+00:00:59,350 --> 00:01:03,780
+was the early monetary system. 
+And I say that because the first real 
+
+13
+00:01:03,780 --> 00:01:07,639
+evidence we have for abstract numbers, 
+was money. 
+
+14
+00:01:07,639 --> 00:01:10,820
+Why do we have numbers? 
+It was money folks. 
+
+15
+00:01:10,820 --> 00:01:15,578
+You want to find new, you want to find 
+out where numbers came from, follow the 
+
+16
+00:01:15,578 --> 00:01:19,45
+money[LAUGH]. 
+go back to Sumeria and the fertile 
+
+17
+00:01:19,45 --> 00:01:23,928
+crescent region what's now mainly Iraq, 
+and this was about 5,000 BCE. 
+
+18
+00:01:23,928 --> 00:01:28,589
+it, it was period that began then, but, 
+but by 5,000 BCE is when we, we 
+
+19
+00:01:28,589 --> 00:01:33,92
+definitely have artifacts that we are 
+pretty damn sure, we being the 
+
+20
+00:01:33,92 --> 00:01:37,145
+anthropologists, not me. 
+What the anthropologists are pretty sure 
+
+21
+00:01:37,145 --> 00:01:41,240
+that what happened then was the invention 
+of numbers and it was for monetary 
+
+22
+00:01:41,240 --> 00:01:44,186
+purposes. 
+in other words, you need numbers to have 
+
+23
+00:01:44,186 --> 00:01:47,896
+money. 
+Because num, money comes in numerical 
+
+24
+00:01:47,896 --> 00:01:50,348
+quantities. 
+One of these, one of those, one of those, 
+
+25
+00:01:50,348 --> 00:01:54,172
+ten of these. 
+the interesting thing is you didn't have 
+
+26
+00:01:54,172 --> 00:01:59,418
+numbers until you needed money, so the 
+driving force was mediating human 
+
+27
+00:01:59,418 --> 00:02:05,578
+transactions of goods. 
+[COUGH] And the essential reason why 
+
+28
+00:02:05,578 --> 00:02:10,750
+numbers came on was banking. 
+Okay, it was essentially the invention of 
+
+29
+00:02:10,750 --> 00:02:12,240
+banking. 
+It was the first bankers. 
+
+30
+00:02:12,240 --> 00:02:18,588
+Bankers were the people essentially who 
+applied money as mediating quantities in 
+
+31
+00:02:18,588 --> 00:02:23,195
+trade. 
+interesting how that has changed, I mean 
+
+32
+00:02:23,195 --> 00:02:28,598
+bankers now apply banking to figments of 
+the imagination. 
+
+33
+00:02:28,598 --> 00:02:28,657
+ >> [LAUGH]. 
+
+34
+00:02:28,657 --> 00:02:32,990
+ >> But back then, it was too yeah. 
+
+35
+00:02:32,990 --> 00:02:35,950
+Back then it was to actual physical 
+goods. 
+
+36
+00:02:35,950 --> 00:02:39,44
+But not quite. 
+The vote set in immediately, because 
+
+37
+00:02:39,44 --> 00:02:43,734
+immediately you introduce money, you've 
+got something fictitious whose value 
+
+38
+00:02:43,734 --> 00:02:48,284
+depends purely on, on human agreement. 
+Okay, here was the evidence, and it was 
+
+39
+00:02:48,284 --> 00:02:52,237
+discovered in Iraq by Denise 
+Schmandt-Besserat, who I think is now 
+
+40
+00:02:52,237 --> 00:02:55,510
+professor Emeritus at the University of 
+Texas at Austin. 
+
+41
+00:02:55,510 --> 00:02:59,840
+She was here on the Sloan Center on the 
+hill for a year many years ago. 
+
+42
+00:02:59,840 --> 00:03:06,339
+but now she was a young anthropologist 
+going out into the fertile crescent 
+
+43
+00:03:06,339 --> 00:03:09,478
+region. 
+And all over the place she kept finding 
+
+44
+00:03:09,478 --> 00:03:14,436
+these burial sites and these, these ruins 
+of homes and things in which there were 
+
+45
+00:03:14,436 --> 00:03:17,952
+piles of clay tokens. 
+Sometimes grouped together in, in ways 
+
+46
+00:03:17,952 --> 00:03:22,490
+that suggested some kind of an order. 
+And they were different shapes. 
+
+47
+00:03:22,490 --> 00:03:27,250
+some of them looked, recognize but that 
+looks like it might be an oil jar, it 
+
+48
+00:03:27,250 --> 00:03:31,172
+looks like it could be a goose. 
+some of them, one of them somewhere looks 
+
+49
+00:03:31,172 --> 00:03:33,650
+as it could be a mill for grinding corn 
+or something. 
+
+50
+00:03:33,650 --> 00:03:36,690
+Some of that looks[INAUDIBLE] some kind 
+of a pepper corn. 
+
+51
+00:03:36,690 --> 00:03:39,325
+So these look as though they might have 
+been tokens. 
+
+52
+00:03:39,325 --> 00:03:44,965
+For things that people would trade. 
+Jars of oils, bales of hay, geese, oxen, 
+
+53
+00:03:44,965 --> 00:03:50,880
+loaves of bread, and so forth. 
+So, the suspicion was, that these were 
+
+54
+00:03:50,880 --> 00:03:57,958
+probably tokens to represent your goods. 
+If you had 5 geese to sell, you maybe had 
+
+55
+00:03:57,958 --> 00:04:03,105
+5 of these tokens to represent them. 
+So the, the supposition was, and this is 
+
+56
+00:04:03,105 --> 00:04:06,680
+a reasonable supposition because the 
+Sumerian society was pretty complex. 
+
+57
+00:04:06,680 --> 00:04:08,690
+It was getting to be like a modern 
+society. 
+
+58
+00:04:08,690 --> 00:04:12,667
+There was structure in, in the society. 
+You know, this was the drive, this was 
+
+59
+00:04:12,667 --> 00:04:15,440
+one of the centers of modern civilization 
+coming along. 
+
+60
+00:04:15,440 --> 00:04:19,846
+And so the supposition she made was that 
+these were tokens that represented goods. 
+
+61
+00:04:19,846 --> 00:04:23,518
+Okay. 
+And here are some of them and so if you 
+
+62
+00:04:23,518 --> 00:04:28,133
+wanted to trade things you wouldn't 
+necessarily have to worry, you would, you 
+
+63
+00:04:28,133 --> 00:04:32,535
+have so many sheep and things but may be 
+the sheep be in the field but you have 
+
+64
+00:04:32,535 --> 00:04:36,720
+tokens that represented the sheep. 
+So you would instead, so when you sh, you 
+
+65
+00:04:36,720 --> 00:04:40,680
+trade, you would swap your tokens for 
+somebody else's oxen tokens, and then the 
+
+66
+00:04:40,680 --> 00:04:45,110
+goods would eventually trade. 
+And so the tokens you had in your hand 
+
+67
+00:04:45,110 --> 00:04:49,790
+represented the things you owned. 
+That was your bank account, and it was a 
+
+68
+00:04:49,790 --> 00:04:53,420
+collection of tokens. 
+Not unlike a pocketful of change, huh? 
+
+69
+00:04:53,420 --> 00:04:58,348
+Those were the tokens, except there were 
+different tokens for the different 
+
+70
+00:04:58,348 --> 00:05:03,229
+objects with different shapes. 
+Okay, so the next thing you need is a way 
+
+71
+00:05:03,229 --> 00:05:08,350
+of keeping your tokens secure because 
+that was a measure of your worth. 
+
+72
+00:05:08,350 --> 00:05:11,795
+And so bankers came along to look after 
+your tokens for you, and what they would 
+
+73
+00:05:11,795 --> 00:05:15,134
+do is you would go along with it, and now 
+we're just, I'm telling you the story 
+
+74
+00:05:15,134 --> 00:05:18,182
+that the anthropologists came up with to 
+explain what was going on. 
+
+75
+00:05:18,182 --> 00:05:23,46
+The, you came, you went, you had your 
+tokens, the banks kept your tokens, they 
+
+76
+00:05:23,46 --> 00:05:27,910
+would take a sheet of wet clay, put your 
+tokens in the clay, fold it up, and seal 
+
+77
+00:05:27,910 --> 00:05:31,890
+it, bake it in the sun, and there was 
+your secure bank account. 
+
+78
+00:05:31,890 --> 00:05:34,270
+All nice and secure, locked away. 
+Okay. 
+
+79
+00:05:34,270 --> 00:05:37,924
+Now the problem was, of course, if you 
+want to trade, you had to break open the 
+
+80
+00:05:37,924 --> 00:05:42,236
+thing. 
+Take out the things, change them, and 
+
+81
+00:05:42,236 --> 00:05:44,630
+reseal it. 
+Good business to be in banking. 
+
+82
+00:05:44,630 --> 00:05:49,844
+Constant need for bankers to break open 
+the shells and reseal them and put their 
+
+83
+00:05:49,844 --> 00:05:53,887
+stamp on them, okay. 
+So already the bankers were there hanging 
+
+84
+00:05:53,887 --> 00:05:58,674
+on, taking our money in the process. 
+There's 10% or whatever they would take, 
+
+85
+00:05:58,674 --> 00:06:02,692
+so then, 
+Some entrepreneurial person came along 
+
+86
+00:06:02,692 --> 00:06:07,583
+and said, you know, it's fine if we crack 
+open the thing when we're actually doing 
+
+87
+00:06:07,583 --> 00:06:09,568
+a trade. 
+But if I'm just making a bid on 
+
+88
+00:06:09,568 --> 00:06:13,430
+something, I don't want to pay the banker 
+to break this apart and put it together. 
+
+89
+00:06:13,430 --> 00:06:19,114
+If I want to just show my worth, why 
+don't I before you seal up this thing 
+
+90
+00:06:19,114 --> 00:06:25,150
+take the tokens and press them on the 
+outside, then put them in and seal it. 
+
+91
+00:06:25,150 --> 00:06:30,577
+So on the outside of the, of the, of the 
+sealed envelope, the clay envelope you've 
+
+92
+00:06:30,577 --> 00:06:35,842
+got tokens, indentations of the tokens so 
+you don't have to break it open to see 
+
+93
+00:06:35,842 --> 00:06:39,56
+how many tokens there are. 
+You just need to look at the 
+
+94
+00:06:39,56 --> 00:06:42,150
+indentations. 
+That's an advance, okay? 
+
+95
+00:06:42,150 --> 00:06:46,48
+Your worth, so if you, interesting areas 
+of structuring. 
+
+96
+00:06:46,48 --> 00:06:51,318
+We've now got real sheep and real geese, 
+and real jars of oil represented by 
+
+97
+00:06:51,318 --> 00:06:55,572
+artifacts, tokens. 
+Tokens are then put into a clay envelope 
+
+98
+00:06:55,572 --> 00:07:00,540
+and the tokens are now represented by 
+marks on the outside. 
+
+99
+00:07:00,540 --> 00:07:05,722
+We're about to invent writing. 
+Writing by the, for those people who like 
+
+100
+00:07:05,722 --> 00:07:10,74
+to think that mathematics is supreme, as 
+far as we know, writing numbers came 
+
+101
+00:07:10,74 --> 00:07:13,261
+before writing words. 
+Right, it all began with numbers, and it 
+
+102
+00:07:13,261 --> 00:07:16,355
+was all about money. 
+So, they put these tokens out, so you've 
+
+103
+00:07:16,355 --> 00:07:20,60
+got abstract markers, symbols, 
+representing the token, the tokens 
+
+104
+00:07:20,60 --> 00:07:23,680
+represent the objects. 
+So, you're already two steps removed from 
+
+105
+00:07:23,680 --> 00:07:25,870
+the real world, and you've got these, 
+these tokens. 
+
+106
+00:07:25,870 --> 00:07:31,388
+And that was fine for a while, and then 
+after, you know, and then 1,000 years 
+
+107
+00:07:31,388 --> 00:07:37,488
+goes by, and then another entrepreneurial 
+person comes along and says, you know? 
+
+108
+00:07:37,488 --> 00:07:43,494
+We don't really need those tokens inside, 
+all you need is 1 token for each kind of 
+
+109
+00:07:43,494 --> 00:07:46,688
+object. 
+Because you can use the same, same jar of 
+
+110
+00:07:46,688 --> 00:07:49,980
+oil token, three times, if you've got 3 
+jar's of oil. 
+
+111
+00:07:49,980 --> 00:07:51,940
+So you just need different tokens to make 
+these indentations. 
+
+112
+00:07:51,940 --> 00:07:54,680
+But it doesn't matter where these tokens 
+are. 
+
+113
+00:07:54,680 --> 00:07:59,428
+It's really about the indentations. 
+The tokens don't matter their just like 
+
+114
+00:07:59,428 --> 00:08:04,444
+the golden fort knox you know, you and I 
+don't swap the golden fort knox it's just 
+
+115
+00:08:04,444 --> 00:08:07,500
+there alright, you just go with the 
+tokens. 
+
+116
+00:08:07,500 --> 00:08:12,708
+So, when you do that you can think well 
+in that case I don't really need a clay 
+
+117
+00:08:12,708 --> 00:08:18,210
+envelope I can just have a tablet. 
+With marks on it, and here is one of the 
+
+118
+00:08:18,210 --> 00:08:20,874
+tablets. 
+So these came later, flat tablets with 
+
+119
+00:08:20,874 --> 00:08:24,470
+the different indentations representing 
+in different areas. 
+
+120
+00:08:24,470 --> 00:08:26,678
+You know, there would be different things 
+they're representing. 
+
+121
+00:08:26,678 --> 00:08:30,176
+it could well be that the stock of the 
+tokens in different boxes represented 
+
+122
+00:08:30,176 --> 00:08:34,602
+different kinds of things. 
+This was presumably some code, but it got 
+
+123
+00:08:34,602 --> 00:08:39,810
+sophisticated and we have abstract 
+markings on a piece of clay that 
+
+124
+00:08:39,810 --> 00:08:45,494
+represents your net worth. 
+And if that doesn't look familiar, it 
+
+125
+00:08:45,494 --> 00:08:46,438
+ought to. 
+
+126
+00:08:46,438 --> 00:08:47,790
+ >> [LAUGH]. 
+
+127
+00:08:47,790 --> 00:08:55,413
+ >> 5,000 BCE, we got credit cards,[LAUGH] 
+made out of clay. 
+
+128
+00:08:55,413 --> 00:08:59,59
+Okay okay. 
+That according to the anthropologists. 
+
+129
+00:08:59,59 --> 00:09:03,337
+This has been sort of, this is pretty 
+well accepted in, in the business. 
+
+130
+00:09:03,337 --> 00:09:07,546
+Their business, not my business. 
+I'm, I'm, I'm happy with this. 
+
+131
+00:09:07,546 --> 00:09:11,203
+It seems like a good explanation is where 
+we, we have money. 
+
+132
+00:09:11,203 --> 00:09:16,205
+Certainly, numbers came out of that area. 
+And this, this, this seems the most 
+
+133
+00:09:16,205 --> 00:09:19,230
+plausible explanation given the available 
+evidence. 
+
+134
+00:09:19,230 --> 00:09:27,908
+Okay so that's where we get counting 
+numbers, it was for money. 
+
+135
+00:09:27,908 --> 00:09:33,537
+But there was another system of numbers. 
+What about the numbers that are used for 
+
+136
+00:09:33,537 --> 00:09:37,726
+building pyramids, measuring volumes of 
+things seeing how much land you owe, you 
+
+137
+00:09:37,726 --> 00:09:40,100
+own when the Nile delta, this is the Nile 
+Delta. 
+
+138
+00:09:40,100 --> 00:09:43,310
+When the Nile Delta floods and you have 
+to remap the thing? 
+
+139
+00:09:43,310 --> 00:09:46,740
+there was measurement. 
+That was going on as well. 
+
+140
+00:09:46,740 --> 00:09:52,851
+And one of the interesting things about 
+this is to, to modern eyes, those are 
+
+141
+00:09:52,851 --> 00:09:56,342
+both systems of numbers. 
+Those give you the natural numbers. 
+
+142
+00:09:56,342 --> 00:10:03,110
+And that gives you what we call the real 
+numbers. 
+
+143
+00:10:03,110 --> 00:10:08,180
+This is a 19th century, eh, the 1930, 
+20th century interpretation. 
+
+144
+00:10:08,180 --> 00:10:13,310
+These were not thought as numbers. 
+They were quantities, lengths, volumes, 
+
+145
+00:10:13,310 --> 00:10:16,890
+interestingly not areas. 
+Areas seem to be cognitively complicated. 
+
+146
+00:10:16,890 --> 00:10:21,440
+But lengths, and volumes and quantities, 
+so these were regarded as essentially 
+
+147
+00:10:21,440 --> 00:10:24,720
+separate. 
+The Greeks tried to combine them, and 
+
+148
+00:10:24,720 --> 00:10:29,550
+when they discovered that you couldn't, 
+the famous discovery that the square root 
+
+149
+00:10:29,550 --> 00:10:33,960
+of 2 was irrational, they pushed them 
+apart again, and, and they took that as 
+
+150
+00:10:33,960 --> 00:10:38,720
+meaning that you can't marry, marry these 
+with those because of what they call the 
+
+151
+00:10:38,720 --> 00:10:42,353
+incommensurables. 
+You simply couldn't use whole numbers to 
+
+152
+00:10:42,353 --> 00:10:45,520
+capture this. 
+Only at the end of the 19th century, 2000 
+
+153
+00:10:45,520 --> 00:10:50,420
+years later, were mathematicians finally 
+able to marry these things together, in a 
+
+154
+00:10:50,420 --> 00:10:53,222
+single number system called the real 
+numbers. 
+
+155
+00:10:53,222 --> 00:10:58,304
+That's very, very recent, and this is 
+part of why mathematics got interested in 
+
+156
+00:10:58,304 --> 00:11:03,28
+concepts and relationships because these 
+guys took a lot of of building. 
+
+157
+00:11:03,28 --> 00:11:09,67
+But the reason it took a lot of building 
+was cause of these were regarded as 
+
+158
+00:11:09,67 --> 00:11:15,304
+foundational, and yet these, from a 
+cognitive point of view, these are both 
+
+159
+00:11:15,304 --> 00:11:18,200
+basic. 
+Human beings have a cognition about 
+
+160
+00:11:18,200 --> 00:11:22,360
+quantities, discrete quantities. 
+We, we can count things. 
+
+161
+00:11:22,360 --> 00:11:24,622
+We also have sense of lengths and 
+volumes. 
+
+162
+00:11:24,622 --> 00:11:29,904
+We have a sense of continuous size. 
+So the human cognitive system captures 
+
+163
+00:11:29,904 --> 00:11:33,770
+both and it just took mathematics a long 
+time to marry those in a single system. 
+
+164
+00:11:33,770 --> 00:11:39,380
+If you read, read Newton's Principia 
+where he talks about the calculus. 
+
+165
+00:11:39,380 --> 00:11:41,925
+He's not talking about numbers, he's 
+talking about quantities. 
+
+166
+00:11:41,925 --> 00:11:47,389
+Calculus in Newton's terms. 
+Calculus wasn't applied to numbers, it 
+
+167
+00:11:47,389 --> 00:11:51,569
+was applied to lengths and distances. 
+we interpret it today in term's of 
+
+168
+00:11:51,569 --> 00:11:56,354
+numbers, but that's because we have a 
+different conception of numbers. 
+
+169
+00:11:56,354 --> 00:12:03,773
+ >> [MUSIC] Stanford University. 
+

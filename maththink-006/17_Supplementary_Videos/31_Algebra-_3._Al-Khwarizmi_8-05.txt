@@ -1,0 +1,219 @@
+Okay so there's a moderately reasonable 
+attempt at, at the full name. 
+So this around 800 current era. 
+And he wrote one book in about 1825, On 
+The Calculation with Hindu Numerals. 
+That was a book on arithmetic using Hindu 
+numerals . 
+And then a few years later, he wrote this 
+book and in the title of that book, 
+you'll see that phrase al-jabr, and 
+that's where we get the word algebra 
+from, because this was the world's first 
+recognizable algebra book, and that was 
+the focus of the book. 
+And that phrase in there, at the end of 
+it, really means restoration and 
+confrontation. 
+Those terms that we saw a moment ago in 
+connection with Diophantus. 
+The way of solving an equation move 
+things from one side to the other and 
+remove equal terms from both sides. 
+if you want to translate the whole thing 
+and again I've got this translation from 
+one of the leading scholars of the 
+period. 
+The Abridged Book on Calculation by 
+Restoration and Confrontation would be a 
+modern scholarly translation. 
+it's usually however, known among 
+scholars as just the abridged book on 
+algebra, because nowadays we would just 
+refer to restoration and confrontation as 
+just as the key methods for solving 
+equations, so it's algebra. 
+And the question that people like me get 
+asked when we teach students that are not 
+necessarily enamored buy mathematics, is 
+not at Stanford, but I mean if you go 
+elsewhere, then they'll say, what's this 
+useful for? 
+Is this really any use? 
+Well, let's go back to the source. 
+al-Khwarizmi's book is essentially a 
+modern algebra book. 
+You know, the lang, the language has 
+changed and we've got better examples, 
+and these days we have full color 
+illustrations and all that kind of thing. 
+But if you go back there you've really 
+got the beginnings of the modern algebra 
+book. 
+and al-Khwarizmi answers the question. 
+Here's what he says, what is easiest and 
+most useful in arthritic? 
+This is what the book is about, such as 
+men constantly requiring cases of 
+inheritance, legacies, partition, 
+lawsuits, and trade, and in all their 
+dealings with one another, or where the 
+measuring of lands, the digging of 
+canals, geometric computations and other 
+objects of various sorts and kinds of 
+concern . 
+It doesn't get more fundamental than 
+that, this is basic commerce. 
+This is how people trade and live and 
+enter legal dealings and deal with their 
+finances. 
+So algebra was introduced for very very 
+practical reasons. 
+One thing that is characteristic of 
+almost all the writings of what's known 
+as Arabic mathematics, meaning the 
+writings that were preserved in the 
+Arabic writing. 
+and that, you know, all sorts of people 
+were involved. 
+there were Persians, there were people 
+whose natural language was Arabic there 
+were Jews, there were Christians floating 
+around, there were people floating around 
+in the Middle East all over the place, 
+and in Spain, doing work. 
+And But it was the, the language in which 
+just, just as we talk about Greek 
+mathematics, much of which is done by 
+Egyptians, but it Greek was the language 
+it was echoed in, it was this phrase 
+Arabic mathematics which really means it 
+was recorded and stored in the Arabic 
+language. 
+okay, but its, it gets extremely useful. 
+I'm very particular, certainly the 
+interest, I love the Greek's interest. 
+Was very much one of a sort of leisurely 
+pursuit, an intellectual pursuit. 
+The Greeks, as famously known, thought of 
+mathematics, particularly geometry, as 
+an, as a, as a, as a pursuit of the mind, 
+something for the leisured classes to do, 
+something to think about to, to, to 
+improve your mind. 
+go to the Muslim world in the 8th or 9th 
+century, it was driven primarily through 
+very practical reasons. 
+They were engineers, they were traders. 
+And so [COUGH], this was designed to be 
+an, to improve the way of doing business. 
+[COUGH] there's an image from a I, I 
+forget the date on that one but it's an 
+image that managed to get all over the 
+date from one version of that book but if 
+you look at the contents of the of the 
+book and this is not meant to be a 
+translation from there this is just a 
+summary from the contents of the book. 
+This is it, basically in that book he 
+takes linear quadratic equations. 
+And actually at the end of last week we 
+had, I had a discussion with a couple of 
+people as to why there was this huge 
+focus on quadratics? 
+And you know, and the answer is if you're 
+a practical person, you can do an awful 
+lot in the world with linear equations. 
+Sometimes things change at different 
+rates and linear doesn't work. 
+The next best thing is quadratic, and 
+within, within a certain range of 
+tolerance, that's as far as you need to 
+go. 
+You know, even an exponential curve looks 
+quadratic over a small interval, so it's 
+just a reasonably good approximation. 
+Look through physics books [COUGH]. 
+Physics books, classical physics books, 
+are full of linear and quadratic 
+equations. 
+Well, it's just because that was already 
+difficult enough and good enough for 
+doing an awful lot of things. 
+You know, and as physics developed, 
+people would realize that there were o-, 
+there were higher order terms that you 
+needed to take into account, but of a 
+reasonable areas of, of, of accuracy that 
+will do. 
+Same with computer graphics, right? 
+You, you can, you can draw almost with a 
+computer graphics package that will draw 
+straight lines and quadratics. 
+You just put them together in a suitable 
+way. 
+So these, you can, you can do piece wise, 
+linear and piece wise quadratic curves, 
+and get all kinds of nice shapes. 
+[COUGH] Okay so this was really 
+developing machinery that was really 
+useful. 
+you might ask yourself, why regard these 
+as different? 
+Because we don't today, we just talk 
+about quadratics, which is ax squared 
+plus bx plus c equals 0, and that's a 
+quadratic. 
+Well, the reason was they didn't have 
+negative numbers in their calculations. 
+So they had to take account of whether 
+the a's and the b's, these were all 
+positive, so you had to put them on 
+different sides in the first place. 
+In fact, their conception of negative 
+numbers was really unusual. 
+the confronta-, those words restoration 
+and confrontation, confrontation is 
+really sort of easy. 
+You've got equal things on both sides 
+that confront each other. 
+Well, if they confront each other, you 
+can remove them. 
+Restoration means, you restore the value, 
+instead of dealing with a negative term, 
+so they, they wouldn't have something 
+like 10 minus X. 
+What they would say is you've got a 10 
+and it's, it loses weight. 
+It goes on a diet and it loses x pounds, 
+xo you've got a slimmed down 10, but it's 
+still positive. 
+You know, you gotta you take something 
+then you work with it you get a number, 
+you do something and at the end you 
+restore it's value. 
+Which we would say is adding expect able 
+size, but that's not how they thought 
+about it they, they, they didn't have 
+subtraction and they didn't have 
+negatives, so they just thought of 
+diminished quantities that were still 10 
+minus x was still a 10. 
+It was a 10 that has lost weight, you're 
+reason with that then you restore to the 
+end. 
+It's hard to get into that mindset now 
+because we know there's other way of 
+thinking about it. 
+But that was, that was how we, if you 
+want to understand the writing, you have 
+to understand that they didn't have 
+subtraction. 
+You couldn't subtract from both sides, 
+you can diminish something. 
+And was where the word restoration came 
+from, you restored the value of the 
+thing. 
+[MUSIC] 
+. 
+

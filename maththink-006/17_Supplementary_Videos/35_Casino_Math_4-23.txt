@@ -1,0 +1,87 @@
+[MUSIC]. 
+This is the story of how a group of 
+gamblers fleeced the casinos for 
+millions. 
+[NOISE] 
+ >> The buzz for me was the potential. 
+It was unlimited. 
+And I could make money without punching a 
+clock. 
+I could have a ton of fun. 
+Certainly women were going to love me. 
+It was great. 
+ >> I was excited about the idea of 
+goading death with [UNKNOWN]. 
+David and Goliath kind of situation. 
+ >> And beating them. 
+And them not even realizing we're beating 
+them. 
+ >> But these were no ordinary gamblers. 
+They were brilliant students with an 
+extraordinary secret, that meant they 
+simply couldn't lose. 
+But Thorp thought he could do better, 
+because he'd realized there was something 
+special about Blackjack. 
+The odds of winning worked in a different 
+way to almost every other gambling game. 
+[MUSIC] In terms of mathematical 
+probability, gambling games work in one 
+of two ways. 
+In Russian roulette, a bullet is loaded 
+into a barrel of six chambers. 
+[MUSIC] [SOUND] Every time the barrel is 
+spun, there's a one in six chance of 
+firing the bullet. 
+[MUSIC] 
+ >> When you're playing Russian 
+roulette, if you spin the chamber before 
+you pull the trigger every time. 
+[MUSIC] Then each pull of the trigger is 
+an independent event. 
+The gun has no memory. 
+Spinning the chamber destroys all memory 
+of what's happened before. 
+ >> [MUSIC] In other words, spin the 
+barrel every time and the probability of 
+firing the bullet never changes. 
+It's always one in six. 
+[SOUND] But there's another way of 
+playing Russian roulette, where you don't 
+spin the barrel between shots but just 
+keep on pulling the trigger. 
+ >> If it doesn't go off, and you pull 
+the trigger again, the second pull of the 
+trigger is not an independent event, 
+because the odds have changed of you 
+getting an explosion. 
+ >> Each time the trigger is pulled, the 
+probability of firing the bullet falls. 
+Initially, from one in six, right down to 
+a dead certainty. 
+The odds change because they are 
+dependent on what has happened on the 
+previous pull of the trigger. 
+What Ed Thorp realized, was this 
+dependence is exactly what happens in a 
+game of Blackjack. 
+And it's because of how the cards must be 
+dealt. 
+Critically in most casino games after 
+each round the cards are always returned 
+to the deck so they can be played in the 
+next hand. 
+But in Blackjack, used cards are not 
+returned, but set aside. 
+This means the odds of getting winning 
+cards change as the game progresses, 
+because the deck is made up of fewer and 
+fewer cards for every hand. 
+ >> The thing that makes Blackjack 
+different is each hand is not an 
+independent event, the cards actually do 
+have a memory of the previous hands and a 
+good player can also have a memory of 
+those previous hands. 
+[BLANK_AUDIO] 
+

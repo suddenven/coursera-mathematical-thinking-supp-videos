@@ -1,0 +1,336 @@
+1
+00:00:05,820 --> 00:00:09,320
+In this video, I'll show you a little
+about using the course evaluation rubric.
+
+2
+00:00:11,650 --> 00:00:15,880
+The most common use of an evaluation
+rubric is to achieve uniformity in
+
+3
+00:00:15,880 --> 00:00:20,179
+grades when a team of experts is grading a
+large collection of examinations.
+
+4
+00:00:21,730 --> 00:00:24,880
+The goal is to assign a reliable grade to
+each candidate's work.
+
+5
+00:00:26,190 --> 00:00:28,230
+In particular, it's assumed that the
+
+6
+00:00:28,230 --> 00:00:31,340
+people doing the evaluation are
+experienced graders.
+
+7
+00:00:33,078 --> 00:00:36,160
+In this course, we are using a rubric in a
+very different way.
+
+8
+00:00:37,340 --> 00:00:41,070
+Not to help experts produce a reliable
+grade of a piece of work.
+
+9
+00:00:42,240 --> 00:00:45,550
+But as a mechanism to help beginners learn
+about proofs.
+
+10
+00:00:48,520 --> 00:00:51,250
+If you look at the rubric for the course,
+you'll see
+
+11
+00:00:51,250 --> 00:00:54,296
+that it asks you to consider five
+different features of proofs.
+
+12
+00:00:54,296 --> 00:01:02,450
+Logical correctness, clarity, opening,
+stating the conclusion, and reasons.
+
+13
+00:01:03,590 --> 00:01:05,540
+I'll come to the sixth category later by
+the way.
+
+14
+00:01:07,140 --> 00:01:09,630
+These are all important features of
+proofs.
+
+15
+00:01:09,630 --> 00:01:11,870
+And for pedagogic reasons, are given equal
+weight.
+
+16
+00:01:12,980 --> 00:01:13,480
+Here's why.
+
+17
+00:01:15,000 --> 00:01:15,080
+As
+
+18
+00:01:15,080 --> 00:01:18,420
+I state repeatedly throughout the course,
+proofs do much
+
+19
+00:01:18,420 --> 00:01:20,860
+more than simply establish that some
+statement is true.
+
+20
+00:01:22,510 --> 00:01:25,190
+Actually, in practice, they don't really
+do that.
+
+21
+00:01:25,190 --> 00:01:27,560
+They simply provide evidence that
+convinces
+
+22
+00:01:27,560 --> 00:01:31,130
+a reasonable person with sufficient
+background knowledge.
+
+23
+00:01:31,130 --> 00:01:32,400
+But let's leave that issue for now.
+
+24
+00:01:34,230 --> 00:01:35,980
+If you look at the role played by proofs
+in
+
+25
+00:01:35,980 --> 00:01:40,630
+mathematics, you discover that just as
+important as logical correctness,
+
+26
+00:01:40,630 --> 00:01:43,230
+is the understandability of the proof by
+an intended reader.
+
+27
+00:01:44,370 --> 00:01:47,065
+In fact, in practical terms,
+understandablity's
+
+28
+00:01:47,065 --> 00:01:49,410
+[LAUGH] more important than logical
+correctness.
+
+29
+00:01:50,700 --> 00:01:52,990
+There's probably no modern proof of more
+than a few
+
+30
+00:01:52,990 --> 00:01:56,980
+pages that does not initially have a
+logical flaw buried somewhere.
+
+31
+00:01:58,180 --> 00:02:02,610
+What makes proofs useful is as others can
+not only detect errors.
+
+32
+00:02:02,610 --> 00:02:05,250
+But also have enough information to try to
+correct them.
+
+33
+00:02:07,540 --> 00:02:10,310
+Proofs are as much about communication as
+establishing truths.
+
+34
+00:02:12,050 --> 00:02:14,300
+Because we have to use simple examples to
+develop
+
+35
+00:02:14,300 --> 00:02:17,740
+proof evaluation skills, in most of the
+examples you
+
+36
+00:02:17,740 --> 00:02:20,870
+see, one or more of the rubric criteria
+would
+
+37
+00:02:20,870 --> 00:02:23,420
+apply only in a simplistic way, if at all.
+
+38
+00:02:24,710 --> 00:02:28,740
+But in more complicated examples, they
+will all be important.
+
+39
+00:02:30,190 --> 00:02:32,830
+That's why the five criteria carry equal
+weights.
+
+40
+00:02:35,100 --> 00:02:38,080
+When you evaluate arguments, you should
+view them in terms of
+
+41
+00:02:38,080 --> 00:02:41,830
+each of the five rubric criteria in turn,
+on an equal footing.
+
+42
+00:02:43,000 --> 00:02:46,200
+True, experts rarely use rubrics.
+
+43
+00:02:46,200 --> 00:02:48,830
+They are so familiar with the proof
+concept, that they
+
+44
+00:02:48,830 --> 00:02:52,540
+automatically and holistically judge in
+terms of all those perspectives.
+
+45
+00:02:55,948 --> 00:02:58,270
+For a beginner, the rubric breaks up the
+
+46
+00:02:58,270 --> 00:03:01,420
+task of judging the overall quality of a
+proof.
+
+47
+00:03:01,420 --> 00:03:03,250
+To judging those five aspects in turn.
+
+48
+00:03:05,790 --> 00:03:10,360
+Each of those five is considerably simpler
+to do than the entire task.
+
+49
+00:03:10,360 --> 00:03:11,610
+But you still find it difficult.
+
+50
+00:03:14,600 --> 00:03:19,010
+After you've judged the proof in terms of
+the five proof characteristics, the rubric
+
+51
+00:03:19,010 --> 00:03:23,580
+asks you to bring them all together to
+produce a single grade for the proof.
+
+52
+00:03:26,280 --> 00:03:28,880
+This is the number you would enter if your
+task
+
+53
+00:03:28,880 --> 00:03:32,350
+were to assign a single numerical grade to
+someone's proof.
+
+54
+00:03:34,610 --> 00:03:38,670
+It corresponds to the number an expert,
+working without a rubric would assign.
+
+55
+00:03:39,730 --> 00:03:44,430
+The rubric is designed assist you, as a
+beginner, to arrive at that final grade.
+
+56
+00:03:48,110 --> 00:03:50,670
+Incidentally, when you're evaluating the
+work of another
+
+57
+00:03:50,670 --> 00:03:52,890
+student, as you would in test flight if
+you
+
+58
+00:03:52,890 --> 00:03:57,030
+do it, you do owe it to that student to be
+as fair and accurate as possible.
+
+59
+00:03:58,870 --> 00:04:00,880
+But no one expects accuracy from someone
+
+60
+00:04:00,880 --> 00:04:02,710
+who's just beginning to learn about
+proofs.
+
+61
+00:04:04,480 --> 00:04:08,700
+Because everyone's work is evaluated by
+three fellow students, all anonymously
+
+62
+00:04:08,700 --> 00:04:13,840
+by the way, with a reported grade computed
+from those three grades
+
+63
+00:04:13,840 --> 00:04:16,550
+plus the individual's own self grade.
+
+64
+00:04:16,550 --> 00:04:19,690
+It turns out that most of the time, the
+final grade is pretty good.
+
+65
+00:04:21,240 --> 00:04:23,400
+Nevertheless, the real purpose of the test
+
+66
+00:04:23,400 --> 00:04:27,230
+flight evaluation process is that it
+offers tremendous
+
+67
+00:04:27,230 --> 00:04:30,190
+benefits to the evaluator in coming to a
+
+68
+00:04:30,190 --> 00:04:32,290
+better appreciation of what makes a good
+proof.
+
+69
+00:04:34,010 --> 00:04:38,940
+In simple terms, in this course, the
+grading is primarily for
+
+70
+00:04:38,940 --> 00:04:40,180
+the benefits of the grader.
+
